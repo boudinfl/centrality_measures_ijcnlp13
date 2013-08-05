@@ -1,0 +1,6 @@
+new/nnp paradigms/nns for/in interactive/jj 3d/nn volume/nn segmentation/nn ./punct
+we/prp present/vbp a/dt new/jj virtual/jj reality-based/jj interaction/nn metaphor/nn for/in semi-automatic/jj segmentation/nn of/in medical/jj 3d/nn volume/nn data/nns ./punct
+the/dt mouse-based/jj ,/punct manual/jj initialization/nn of/in deformable/jj surfaces/nns in/in 3d/nn represents/vbz a/dt major/jj bottleneck/nn in/in interactive/jj segmentation/nn ./punct
+in/in our/prp$ multi-modal/jj system/nn we/prp enhance/vbp this/dt process/nn with/in additional/jj sensory/jj feedback/nn ./punct
+a/dt 3d/nn haptic/jj device/nn is/vbz used/vbn to/to extract/vb the/dt centreline/nn of/in a/dt tubular/jj structure/nn ./punct
+based/vbn on/in the/dt obtained/vbn path/nn a/dt cylinder/nn with/in varying/vbg diameter/nn is/vbz generated/vbn ,/punct which/wdt in/in turn/nn is/vbz used/vbn as/in the/dt initial/jj guess/nn for/in a/dt deformable/jj surface/nn ./punct

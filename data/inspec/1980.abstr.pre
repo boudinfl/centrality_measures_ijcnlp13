@@ -1,0 +1,12 @@
+lossy/nnp to/to lossless/jj object-based/jj coding/nn of/in 3-d/jj mri/nnp data/nns ./punct
+we/prp propose/vbp a/dt fully/rb three-dimensional/jj (/punct 3-d/jj )/punct object-based/jj coding/vbg system/nn exploiting/vbg the/dt diagnostic/jj relevance/nn of/in the/dt different/jj regions/nns of/in the/dt volumetric/jj data/nns for/in rate/nn allocation/nn ./punct
+the/dt data/nns are/vbp first/jj decorrelated/vbn via/in a/dt 3-d/jj discrete/jj wavelet/nn transform/vb ./punct
+the/dt implementation/nn via/in the/dt lifting/nn steps/nns scheme/nn allows/vbz to/to map/vb integer-to-integer/nn values/nns ,/punct enabling/vbg lossless/jj coding/nn ,/punct and/cc facilitates/vbz the/dt definition/nn of/in the/dt object-based/jj inverse/jj transform/vb ./punct
+the/dt coding/vbg process/nn assigns/vbz disjoint/nn segments/nns of/in the/dt bitstream/nn to/to the/dt different/jj objects/nns ,/punct which/wdt can/md be/vb independently/rb accessed/vbn and/cc reconstructed/vbn at/in any/dt up-to-lossless/jj quality/nn ./punct
+two/cd fully/rb 3-d/jj coding/vbg strategies/nns are/vbp considered/vbn :/punct embedded/jj zerotree/nn coding/vbg (/punct ezw-3d/nn )/punct and/cc multidimensional/jj layered/jj zero/cd coding/vbg (/punct mlzc/nn )/punct ,/punct both/cc generalized/vbn for/in region/nn of/in interest/nn (/punct roi/nn )/punct -based/jj processing/nn ./punct
+in/in order/nn to/to avoid/vb artifacts/nns along/in region/nn boundaries/nns ,/punct some/dt extra/jj coefficients/nns must/md be/vb encoded/vbn for/in each/dt object/nn ./punct
+this/dt gives/vbz rise/nn to/to an/dt overheading/nn of/in the/dt bitstream/nn with/in respect/nn to/to the/dt case/nn where/wrb the/dt volume/nn is/vbz encoded/vbn as/in a/dt whole/nn ./punct
+the/dt amount/nn of/in such/jj extra/jj information/nn depends/vbz on/in both/cc the/dt filter/nn length/nn and/cc the/dt decomposition/nn depth/nn ./punct
+the/dt system/nn is/vbz characterized/vbn on/in a/dt set/nn of/in head/nn magnetic/jj resonance/nn images/nns ./punct
+results/nns show/vbp that/in mlzc/nn and/cc ezw-3d/nn have/vbp competitive/jj performances/nns ./punct
+in/in particular/jj ,/punct the/dt best/jjs mlzc/nn mode/nn outperforms/vbz the/dt others/nns state-of-the-art/jj techniques/nns on/in one/cd of/in the/dt datasets/nns for/in which/wdt results/nns are/vbp available/jj in/in the/dt literature/nn ./punct

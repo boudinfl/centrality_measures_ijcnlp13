@@ -1,0 +1,16 @@
+the/dt use/nn of/in the/dt spsa/nn method/nn in/in ecg/nn analysis/nn ./punct
+the/dt classification/nn ,/punct monitoring/nn ,/punct and/cc compression/nn of/in electrocardiogram/nn (/punct ecg/nn )/punct signals/nns recorded/vbn of/in a/dt single/jj patient/nn over/in a/dt relatively/rb long/jj period/nn of/in time/nn is/vbz considered/vbn ./punct
+the/dt particular/jj application/nn we/prp have/vbp in/in mind/nn is/vbz high-resolution/jj ecg/nn analysis/nn ,/punct such/jj as/in late/jj potential/jj analysis/nn ,/punct morphology/nn changes/nns in/in qrs/nnp during/in arrythmias/nns ,/punct t-wave/jj alternants/nns ,/punct or/cc the/dt study/nn of/in drug/nn effects/nns on/in ventricular/jj activation/nn ./punct
+we/prp propose/vbp to/to apply/vb a/dt modification/nn of/in a/dt classical/jj method/nn of/in cluster/nn analysis/nn or/cc vector/nn quantization/nn ./punct
+the/dt novelty/nn of/in our/prp$ approach/nn is/vbz that/in we/prp use/vbp a/dt new/jj distortion/nn measure/nn to/to quantify/vb the/dt distance/nn of/in two/cd ecg/nn cycles/nns ,/punct and/cc the/dt class-distortion/nn measure/nn is/vbz defined/vbn using/vbg a/dt min-max/nn criterion/nn ./punct
+the/dt new/jj class-distortion-measure/nn is/vbz much/rb more/rbr sensitive/jj to/to outliers/nns than/in the/dt usual/jj distortion/nn measures/nns using/vbg average-distance/nn ./punct
+the/dt price/nn of/in this/dt practical/jj advantage/nn is/vbz that/in computational/jj complexity/nn is/vbz significantly/rb increased/vbn ./punct
+the/dt resulting/vbg nonsmooth/jj optimization/nn problem/nn is/vbz solved/vbn by/in an/dt adapted/vbn version/nn of/in the/dt simultaneous/jj perturbation/nn stochastic/jj approximation/nn (/punct spsa/nn )/punct method/nn of/in j./nnp spall/nnp (/punct ieee/nnp trans/nnp ./punct
+automat/nn ./punct
+contr./nnp ,/punct vol/nn ./punct
+37/cd ,/punct p/nn ./punct
+332-41/cd ,/punct mar/nnp ./punct
+1992/cd )/punct ./punct
+the/dt main/jj idea/nn is/vbz to/to generate/vb a/dt smooth/jj approximation/nn by/in a/dt randomization/nn procedure/nn ./punct
+the/dt viability/nn of/in the/dt method/nn is/vbz demonstrated/vbn on/in both/dt simulated/jj and/cc real/jj data/nns ./punct
+an/dt experimental/jj comparison/nn with/in the/dt widely/rb used/vbn correlation/nn method/nn is/vbz given/vbn on/in real/jj data/nns ./punct

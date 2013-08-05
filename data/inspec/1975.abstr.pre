@@ -1,0 +1,6 @@
+efficient/jj computation/nn of/in local/jj geometric/jj moments/nns ./punct
+local/jj moments/nns have/vbp attracted/vbn attention/nn as/in local/jj features/nns in/in applications/nns such/jj as/in edge/nn detection/nn and/cc texture/nn segmentation/nn ./punct
+the/dt main/jj reason/nn for/in this/dt is/vbz that/in they/prp are/vbp inherently/rb integral-based/jj features/nns ,/punct so/rb that/in their/prp$ use/nn reduces/vbz the/dt effect/nn of/in uncorrelated/jj noise/nn ./punct
+the/dt computation/nn of/in local/jj moments/nns ,/punct when/wrb viewed/vbn as/in a/dt neighborhood/nn operation/nn ,/punct can/md be/vb interpreted/vbn as/in a/dt convolution/nn of/in the/dt image/nn with/in a/dt set/nn of/in masks/nns ./punct
+nevertheless/rb ,/punct moments/nns computed/vbd inside/in overlapping/vbg windows/nns are/vbp not/rb independent/jj and/cc convolution/nn does/vbz not/rb take/vb this/dt fact/nn into/in account/nn ./punct
+by/in introducing/vbg a/dt matrix/nn formulation/nn and/cc the/dt concept/nn of/in accumulation/nn moments/nns ,/punct this/dt paper/nn presents/vbz an/dt algorithm/nn which/wdt is/vbz computationally/rb much/rb more/rbr efficient/jj than/in convolving/vbg and/cc yet/rb as/in simple/jj ./punct

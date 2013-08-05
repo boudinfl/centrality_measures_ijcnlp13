@@ -1,0 +1,6 @@
+recursive/jj state/nn estimation/nn for/in multiple/jj switching/nn models/nns with/in unknown/jj transition/nn probabilities/nns ./punct
+this/dt work/nn considers/vbz hybrid/nn systems/nns with/in continuous-valued/jj target/nn states/nns and/cc discrete-valued/jj regime/nn variable/nn ./punct
+the/dt changes/nns (/punct switches/nns )/punct of/in the/dt regime/nn variable/nn are/vbp modeled/vbn by/in a/dt finite/jj state/nn markov/nnp chain/nn with/in unknown/jj and/cc random/jj transition/nn probabilities/nns following/vbg dirichlet/nnp distributions/nns ./punct
+our/prp$ work/nn analytically/rb derives/vbz the/dt marginal/jj posterior/jj distribution/nn of/in the/dt states/nns and/cc regime/nn variables/nns ,/punct the/dt transition/nn probabilities/nns being/vbg integrated/vbn out/rp ./punct
+this/dt leads/vbz to/to a/dt variety/nn of/in recursive/jj hybrid/jj state/nn estimation/nn schemes/nns which/wdt are/vbp an/dt appealing/jj intuitive/jj and/cc straightforward/jj extension/nn of/in standard/jj algorithms/nns ./punct
+their/prp$ performance/nn is/vbz illustrated/vbn by/in a/dt maneuvering/vbg target/nn tracking/nn example/nn ./punct

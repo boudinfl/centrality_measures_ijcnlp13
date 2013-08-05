@@ -1,0 +1,9 @@
+tracking/vbg nonparameterized/jj object/nn contours/nns in/in video/nn ./punct
+we/prp propose/vbp a/dt new/jj method/nn for/in contour/nn tracking/nn in/in video/nn ./punct
+the/dt inverted/jj distance/nn transform/vb of/in the/dt edge/nn map/nn is/vbz used/vbn as/in an/dt edge/nn indicator/nn function/nn for/in contour/nn detection/nn ./punct
+using/vbg the/dt concept/nn of/in topographical/jj distance/nn ,/punct the/dt watershed/jj segmentation/nn can/md be/vb formulated/vbn as/in a/dt minimization/nn ./punct
+this/dt new/jj viewpoint/nn gives/vbz a/dt way/nn to/to combine/vb the/dt results/nns of/in the/dt watershed/jj algorithm/nn on/in different/jj surfaces/nns ./punct
+in/in particular/jj ,/punct our/prp$ algorithm/nn determines/vbz the/dt contour/nn as/in a/dt combination/nn of/in the/dt current/jj edge/nn map/nn and/cc the/dt contour/nn ,/punct predicted/vbn from/in the/dt tracking/nn result/nn in/in the/dt previous/jj frame/nn ./punct
+we/prp also/rb show/vbp that/in the/dt problem/nn of/in background/nn clutter/nn can/md be/vb relaxed/vbn by/in taking/vbg the/dt object/nn motion/nn into/in account/nn ./punct
+the/dt compensation/nn with/in object/nn motion/nn allows/vbz to/to detect/vb and/cc remove/vb spurious/jj edges/nns in/in background/nn ./punct
+the/dt experimental/jj results/nns confirm/vbp the/dt expected/vbn advantages/nns of/in the/dt proposed/vbn method/nn over/in the/dt existing/vbg approaches/nns ./punct

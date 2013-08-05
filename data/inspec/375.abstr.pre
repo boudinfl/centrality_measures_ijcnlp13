@@ -1,0 +1,9 @@
+separation/nn and/cc tracking/nn of/in multiple/jj broadband/nn sources/nns with/in one/cd electromagnetic/jj vector/nn sensor/nn ./punct
+a/dt structure/nn for/in adaptively/rb separating/vbg ,/punct enhancing/vbg and/cc tracking/vbg uncorrelated/jj sources/nns with/in an/dt electromagnetic/jj vector/nn sensor/nn (/punct emvs/nn )/punct is/vbz presented/vbn ./punct
+the/dt structure/nn consists/vbz of/in a/dt set/nn of/in parallel/jj spatial/jj processors/nns ,/punct one/cd for/in each/dt individual/jj source/nn ./punct
+two/cd stages/nns of/in processing/nn are/vbp involved/vbn in/in each/dt spatial/jj processor/nn ./punct
+the/dt first/jj preprocessing/jj stage/nn rejects/vbz all/dt other/jj sources/nns except/in the/dt one/cd of/in interest/nn ,/punct while/in the/dt second/jj stage/nn is/vbz an/dt adaptive/jj one/cd for/in maximizing/vbg the/dt signal-to-noise/jj ratio/nn (/punct snr/nn )/punct and/cc tracking/vbg the/dt desired/vbn source/nn ./punct
+the/dt preprocessings/nns are/vbp designed/vbn using/vbg the/dt latest/jjs source/nn parameter/nn estimates/nns obtained/vbn from/in the/dt source/nn trackers/nns ,/punct and/cc a/dt redesign/nn is/vbz activated/vbn periodically/rb or/cc whenever/wrb any/dt source/nn has/vbz been/vbn detected/vbn by/in the/dt source/nn trackers/nns to/to have/vb made/vbn significant/jj movement/nn ./punct
+compared/vbn with/in conventional/jj adaptive/jj beamforming/nn ,/punct the/dt algorithm/nn has/vbz the/dt advantage/nn that/in no/dt a/dt priori/fw information/nn on/in any/dt desired/vbn signal/nn location/nn is/vbz needed/vbn ,/punct the/dt sources/nns are/vbp separated/vbn at/in maximum/nn snr/nn ,/punct and/cc their/prp$ locations/nns are/vbp available/jj ./punct
+the/dt structure/nn is/vbz also/rb well/rb suited/vbn for/in parallel/jj implementation/nn ./punct
+numerical/jj examples/nns are/vbp included/vbn to/to illustrate/vb the/dt capability/nn and/cc performance/nn of/in the/dt algorithm/nn ./punct

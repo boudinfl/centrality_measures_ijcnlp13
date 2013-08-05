@@ -1,0 +1,8 @@
+.net/nn obfuscation/nn and/cc intellectual/jj property/nn ./punct
+the/dt author/nn considers/vbz obfuscation/nn options/nns for/in protecting/vbg .net/nnp code/nn ./punct
+many/jj programs/nns wo/md n't/rb need/vb obfuscation/nn because/in the/dt loss/nn caused/vbn by/in reverse/jj engineering/nn will/md be/vb nonexistent/jj ./punct
+numerous/jj obfuscators/nns are/vbp already/rb available/jj for/in the/dt .net/nn platform/nn ,/punct ranging/vbg from/in a/dt basic/jj renaming/vbg obfuscator/nn to/to a/dt fully/rb functional/jj obfuscator/nn that/wdt handles/vbz mixed/jj il/native/nn code/nn assemblies/nns created/vbn in/in any/dt managed/vbn language/nn ,/punct including/vbg microsoft/nnp 's/pos c++/jj with/in managed/jj extensions/nns ./punct
+an/dt obfuscator/nn simply/rb makes/vbz your/prp$ application/nn harder/jjr to/to reverse/vb engineer/nn ./punct
+it/prp does/vbz not/rb prevent/vb reverse/jj engineering/nn ./punct
+however/rb ,/punct the/dt cost/nn of/in obfuscation/nn is/vbz insignificant/jj when/wrb compared/vbn to/to the/dt cost/nn of/in a/dt typical/jj software/nn development/nn project/nn ./punct
+if/in you/prp feel/vbp like/in an/dt obfuscator/nn provides/vbz you/prp any/dt benefit/nn at/in all/dt ,/punct it/prp 's/vbz probably/rb worth/in the/dt price/nn ./punct

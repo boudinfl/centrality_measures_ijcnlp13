@@ -1,0 +1,6 @@
+fuzzy/jj control/nn of/in multivariable/jj process/nn by/in modified/vbn error/nn decoupling/nn ./punct
+in/in this/dt paper/nn ,/punct a/dt control/nn concept/nn for/in the/dt squared/vbn (/punct equal/jj number/nn of/in inputs/nns and/cc outputs/nns )/punct multivariable/jj process/nn systems/nns is/vbz given/vbn ./punct
+the/dt proposed/vbn control/nn system/nn consists/vbz of/in two/cd parts/nns ,/punct single/jj loop/nn fuzzy/jj controllers/nns in/in each/dt loop/nn and/cc a/dt centralized/jj decoupling/nn unit/nn ./punct
+the/dt fuzzy/jj control/nn system/nn uses/vbz feedback/nn control/nn to/to minimize/vb the/dt error/nn in/in the/dt loop/nn and/cc the/dt decoupler/nn uses/vbz an/dt adaptive/jj technique/nn to/to mitigate/vb loop/nn interactions/nns ./punct
+the/dt decoupler/nn predicts/vbz the/dt interacting/vbg loop/nn changes/nns and/cc modifies/vbz the/dt input/nn (/punct error/nn )/punct of/in the/dt loop/nn controller/nn ./punct
+the/dt controller/nn was/vbd tested/vbn on/in the/dt simulation/nn model/nn of/in ``/`` single/jj component/nn vaporizer/nn ''/'' process/nn ./punct

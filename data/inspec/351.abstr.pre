@@ -1,0 +1,5 @@
+optimal/jj online/jj algorithm/nn for/in scheduling/nn on/in two/cd identical/jj machines/nns with/in machine/nn availability/nn constraints/nns ./punct
+this/dt paper/nn considers/vbz the/dt online/jj scheduling/nn on/in two/cd identical/jj machines/nns with/in machine/nn availability/nn constraints/nns for/in minimizing/vbg makespan/nn ./punct
+we/prp assume/vbp that/in machine/nn m/sub/nn j//nn is/vbz unavailable/jj during/in period/nn from/in s/sub/jj j//nn to/to t/sub/vb j//nn (/punct 0/cd </punct or=/cd s/sub/nn j//nn </punct t/sub/cd j//nn )/punct ,/punct j/nn =/punct 1/cd ,/punct 2/cd ,/punct and/cc the/dt unavailable/jj periods/nns of/in two/cd machines/nns do/vbp not/rb overlap/vb ./punct
+we/prp show/vbp that/in the/dt competitive/jj ratio/nn of/in list/nn scheduling/nn is/vbz 3/cd ./punct
+we/prp further/rb give/vbp an/dt optimal/jj algorithm/nn with/in a/dt competitive/jj ratio/nn 5/2/cd ./punct

@@ -1,0 +1,5 @@
+randomized/vbn two-process/jj wait-free/jj test-and-set/nn ./punct
+we/prp present/vbp the/dt first/jj explicit/jj ,/punct and/cc currently/rb simplest/jjs ,/punct randomized/vbn algorithm/nn for/in two-process/jj wait-free/jj test-and-set/nn ./punct
+it/prp is/vbz implemented/vbn with/in two/cd 4-valued/jj single/jj writer/nn single/jj reader/nn atomic/jj variables/nns ./punct
+a/dt test-and-set/jj takes/vbz at/in most/jjs 11/cd expected/vbn elementary/jj steps/nns ,/punct while/in a/dt reset/nn takes/vbz exactly/rb 1/cd elementary/jj step/nn ./punct
+based/vbn on/in a/dt finite-state/jj analysis/nn ,/punct the/dt proofs/nns of/in correctness/nn and/cc expected/vbn length/nn are/vbp compressed/vbn into/in one/cd table/nn ./punct

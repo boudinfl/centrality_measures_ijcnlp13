@@ -1,0 +1,7 @@
+stock/nnp market/nn dynamics/nns ./punct
+we/prp elucidate/vbp on/in several/jj empirical/jj statistical/jj observations/nns of/in stock/nn market/nn returns/nns ./punct
+moreover/rb ,/punct we/prp find/vbp that/in these/dt properties/nns are/vbp recurrent/jj and/cc are/vbp also/rb present/jj in/in invariant/jj measures/nns of/in low-dimensional/jj dynamical/jj systems/nns ./punct
+thus/rb ,/punct we/prp propose/vbp that/in the/dt returns/nns are/vbp modeled/vbn by/in the/dt first/jj poincare/nnp return/nn time/nn of/in a/dt low-dimensional/jj chaotic/jj trajectory/nn ./punct
+this/dt modeling/nn ,/punct which/wdt captures/vbz the/dt recurrent/jj properties/nns of/in the/dt return/nn fluctuations/nns ,/punct is/vbz able/jj to/to predict/vb well/rb the/dt evolution/nn of/in the/dt observed/vbn statistical/jj quantities/nns ./punct
+in/in addition/nn ,/punct it/prp explains/vbz the/dt reason/nn for/in which/wdt stocks/nns present/jj simultaneously/rb dynamical/jj properties/nns and/cc high/jj uncertainties/nns ./punct
+in/in our/prp$ analysis/nn ,/punct we/prp use/vbp data/nns from/in the/dt s/nnp &/punct p/nn 500/cd index/nn and/cc the/dt brazilian/jj stock/nn telebras/nnp ./punct

@@ -1,0 +1,6 @@
+the/dt creation/nn of/in a/dt high-fidelity/nn finite/jj element/nn model/nn of/in the/dt kidney/nn for/in use/nn in/in trauma/nn research/nn ./punct
+a/dt detailed/jj finite/jj element/nn model/nn of/in the/dt human/jj kidney/nn for/in trauma/nn research/nn has/vbz been/vbn created/vbn directly/rb from/in the/dt national/nnp library/nnp of/in medicine/nnp visible/nnp human/nnp female/jj (/punct vhf/nnp )/punct project/nnp data/nn set/nn ./punct
+an/dt image/nn segmentation/nn and/cc organ/nn reconstruction/nn software/nn package/nn has/vbz been/vbn developed/vbn and/cc employed/vbn to/to transform/vb the/dt 2d/nn vhf/nnp images/nns into/in a/dt 3d/nn polygonal/jj representation/nn ./punct
+nonuniform/nnp rational/jj b-spline/nn (/punct nurbs/nns )/punct surfaces/nns were/vbd then/rb mapped/vbn to/to the/dt polygonal/jj surfaces/nns ,/punct and/cc were/vbd finally/rb utilized/vbn to/to create/vb a/dt robust/jj 3d/nn hexahedral/nn finite/jj element/nn mesh/nn within/in a/dt commercially/rb available/jj meshing/nn software/nn ./punct
+the/dt model/nn employs/vbz a/dt combined/jj viscoelastic/jj and/cc hyperelastic/jj material/nn model/nn to/to successfully/rb simulate/vb the/dt behaviour/nn of/in biological/jj soft/jj tissues/nns ./punct
+the/dt finite/jj element/nn model/nn was/vbd then/rb validated/vbn for/in use/nn in/in biomechanical/jj research/nn ./punct

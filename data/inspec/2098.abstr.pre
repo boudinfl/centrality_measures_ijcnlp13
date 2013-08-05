@@ -1,0 +1,8 @@
+nonlinear/jj systems/nns arising/vbg from/in nonisothermal/jj ,/punct non-newtonian/jj hele-shaw/nn flows/vbz in/in the/dt presence/nn of/in body/nn forces/nns and/cc sources/nns ./punct
+in/in this/dt paper/nn ,/punct we/prp first/rb give/vb a/dt formal/jj derivation/nn of/in several/jj systems/nns of/in equations/nns for/in injection/nn moulding/nn ./punct
+this/dt is/vbz done/vbn starting/vbg from/in the/dt basic/jj equations/nns for/in nonisothermal/jj ,/punct non-newtonian/jj flows/nns in/in a/dt three-dimensional/jj domain/nn ./punct
+we/prp derive/vbp systems/nns for/in both/dt (/punct t/sup/nn 0//cd ,/punct p/sup/nn 0//cd )/punct and/cc (/punct t/sup/nn 1//cd ,/punct p/sup/nn 1//cd )/punct in/in the/dt presence/nn of/in body/nn forces/nns and/cc sources/nns ./punct
+we/prp find/vbp that/in body/nn forces/nns and/cc sources/nns have/vbp a/dt nonlinear/jj effect/nn on/in the/dt systems/nns ./punct
+we/prp also/rb derive/vbp a/dt nonlinear/jj ``/`` darcy/nnp law/nn ''/'' ./punct
+our/prp$ formulation/nn includes/vbz not/rb only/rb the/dt pressure/nn gradient/nn ,/punct but/cc also/rb body/nn forces/nns and/cc sources/nns ,/punct which/wdt play/vbp the/dt role/nn of/in a/dt nonlinearity/nn ./punct
+later/rb ,/punct we/prp prove/vbp the/dt existence/nn of/in weak/jj solutions/nns to/to certain/jj boundary/nn value/nn problems/nns and/cc initial-boundary/jj value/nn problems/nns associated/vbn with/in the/dt resulting/vbg equations/nns for/in (/punct t/sup/nn 0//cd ,/punct p/sup/nn 0//cd )/punct but/cc in/in a/dt more/rbr general/jj mathematical/jj setting/nn ./punct

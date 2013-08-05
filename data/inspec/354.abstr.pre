@@ -1,0 +1,7 @@
+fault-tolerant/jj hamiltonian/jj laceability/nn of/in hypercubes/nns ./punct
+it/prp is/vbz known/vbn that/in every/dt hypercube/nn q/sub/nn n//nn is/vbz a/dt bipartite/jj graph/nn ./punct
+assume/vb that/dt n/nn >/punct or=2/nn and/cc f/nn is/vbz a/dt subset/nn of/in edges/nns with/in |f|/nn </punct or=n-2/cd ./punct
+we/prp prove/vbp that/in there/ex exists/vbz a/dt hamiltonian/jj path/nn in/in q/sub/nnp n/-f/nn between/in any/dt two/cd vertices/nns of/in different/jj partite/nn sets/nns ./punct
+moreover/rb ,/punct there/ex exists/vbz a/dt path/nn of/in length/nn 2/sup/jj n/-2/nn between/in any/dt two/cd vertices/nns of/in the/dt same/jj partite/nn set/nn ./punct
+assume/vb that/dt n/nn >/punct or=3/nn and/cc f/nn is/vbz a/dt subset/nn of/in edges/nns with/in |f|/nn </punct or=n-3/cd ./punct
+we/prp prove/vbp that/in there/ex exists/vbz a/dt hamiltonian/jj path/nn in/in q/sub/nn n/-/jj {/punct v/ls }/punct -f/nn between/in any/dt two/cd vertices/nns in/in the/dt partite/jj set/nn without/in v./cc furthermore/rb ,/punct all/dt bounds/nns are/vbp tight/jj ./punct

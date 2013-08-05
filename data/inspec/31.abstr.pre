@@ -1,0 +1,7 @@
+adaptive/jj neural/fuzzy/nn control/nn for/in interpolated/vbn nonlinear/jj systems/nns ./punct
+adaptive/jj control/nn for/in nonlinear/jj time-varying/jj systems/nns is/vbz of/in both/dt theoretical/jj and/cc practical/jj importance/nn ./punct
+we/prp propose/vbp an/dt adaptive/jj control/nn methodology/nn for/in a/dt class/nn of/in nonlinear/jj systems/nns with/in a/dt time-varying/jj structure/nn ./punct
+this/dt class/nn of/in systems/nns is/vbz composed/vbn of/in interpolations/nns of/in nonlinear/jj subsystems/nns which/wdt are/vbp input-output/jj feedback/nn linearizable/nn ./punct
+both/dt indirect/jj and/cc direct/jj adaptive/jj control/nn methods/nns are/vbp developed/vbn ,/punct where/wrb the/dt spatially/rb localized/jj models/nns (/punct in/in the/dt form/nn of/in takagi-sugeno/nnp fuzzy/jj systems/nns or/cc radial/jj basis/nn function/nn neural/jj networks/nns )/punct are/vbp used/vbn as/in online/nn approximators/nns to/to learn/vb the/dt unknown/jj dynamics/nns of/in the/dt system/nn ./punct
+without/in assumptions/nns on/in rate/nn of/in change/nn of/in system/nn dynamics/nns ,/punct the/dt proposed/vbn adaptive/jj control/nn methods/nns guarantee/vbp that/in all/dt internal/jj signals/nns of/in the/dt system/nn are/vbp bounded/vbn and/cc the/dt tracking/nn error/nn is/vbz asymptotically/rb stable/jj ./punct
+the/dt performance/nn of/in the/dt adaptive/jj controller/nn is/vbz demonstrated/vbn using/vbg a/dt jet/nn engine/nn control/nn problem/nn ./punct

@@ -1,0 +1,9 @@
+a/dt new/jj subspace/nn identification/nn approach/nn based/vbn on/in principal/jj component/nn analysis/nn ./punct
+principal/nn component/nn analysis/nn (/punct pca/nn )/punct has/vbz been/vbn widely/rb used/vbn for/in monitoring/vbg complex/jj industrial/jj processes/nns with/in multiple/jj variables/nns and/cc diagnosing/vbg process/nn and/cc sensor/nn faults/nns ./punct
+the/dt objective/nn of/in this/dt paper/nn is/vbz to/to develop/vb a/dt new/jj subspace/nn identification/nn algorithm/nn that/wdt gives/vbz consistent/jj model/nn estimates/nns under/in the/dt errors-in-variables/jj (/punct eiv/nn )/punct situation/nn ./punct
+in/in this/dt paper/nn ,/punct we/prp propose/vbp a/dt new/jj subspace/nn identification/nn approach/nn using/vbg principal/jj component/nn analysis/nn ./punct
+pca/nnp naturally/rb falls/vbz into/in the/dt category/nn of/in eiv/nn formulation/nn ,/punct which/wdt resembles/vbz total/jj least/jjs squares/nns and/cc allows/vbz for/in errors/nns in/in both/dt process/nn input/nn and/cc output/nn ./punct
+we/prp propose/vbp to/to use/vb pca/nnp to/to determine/vb the/dt system/nn observability/nn subspace/nn ,/punct the/dt matrices/nns and/cc the/dt system/nn order/nn for/in an/dt eiv/nn formulation/nn ./punct
+standard/nnp pca/nnp is/vbz modified/vbn with/in instrumental/jj variables/nns in/in order/nn to/to achieve/vb consistent/jj estimates/nns of/in the/dt system/nn matrices/nns ./punct
+the/dt proposed/vbn subspace/nn identification/nn method/nn is/vbz demonstrated/vbn using/vbg a/dt simulated/jj process/nn and/cc a/dt real/jj industrial/jj process/nn for/in model/nn identification/nn and/cc order/nn determination/nn ./punct
+for/in comparison/nn the/dt moesp/nn algorithm/nn and/cc n4sid/nn algorithm/nn are/vbp used/vbn as/in benchmarks/nns to/to demonstrate/vb the/dt advantages/nns of/in the/dt proposed/vbn pca/nn based/vbn subspace/nn model/nn identification/nn (/punct smi/nnp )/punct algorithm/nn ./punct

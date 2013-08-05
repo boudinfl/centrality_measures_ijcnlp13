@@ -1,0 +1,17 @@
+a/dt comparison/nn of/in computational/jj color/nn constancy/nn algorithms/nns ./punct
+ii/nnp ./punct
+experiments/nns with/in image/nn data/nns ./punct
+for/in pt.i/nn see/vbp ibid./rb ,/punct vol/nn ./punct
+11/cd ,/punct no.9/nn ,/punct p.972-84/nn (/punct 2002/cd )/punct ./punct
+we/prp test/vbp a/dt number/nn of/in the/dt leading/vbg computational/jj color/nn constancy/nn algorithms/nns using/vbg a/dt comprehensive/jj set/nn of/in images/nns ./punct
+these/dt were/vbd of/in 33/cd different/jj scenes/nns under/in 11/cd different/jj sources/nns representative/nn of/in common/jj illumination/nn conditions/nns ./punct
+the/dt algorithms/nns studied/vbn include/vbp two/cd gray/jj world/nn methods/nns ,/punct a/dt version/nn of/in the/dt retinex/nn method/nn ,/punct several/jj variants/nns of/in forsyth/nnp 's/pos (/punct 1990/cd )/punct gamut-mapping/nn method/nn ,/punct cardei/nnp et/fw al/fw ./punct
+'s/pos (/punct 2000/cd )/punct neural/jj net/nn method/nn ,/punct and/cc finlayson/nnp et/fw al/fw ./punct
+'s/pos color/nn by/in correlation/nn method/nn (/punct finlayson/nnp et/fw al/fw ./punct
+1997/cd ,/punct 2001/cd ;/punct hubel/nnp and/cc finlayson/nnp 2000/cd )/punct ./punct
+we/prp discuss/vbp a/dt number/nn of/in issues/nns in/in applying/vbg color/nn constancy/nn ideas/nns to/to image/nn data/nns ,/punct and/cc study/nn in/in depth/nn the/dt effect/nn of/in different/jj preprocessing/nn strategies/nns ./punct
+we/prp compare/vbp the/dt performance/nn of/in the/dt algorithms/nns on/in image/nn data/nns with/in their/prp$ performance/nn on/in synthesized/vbn data/nns ./punct
+all/dt data/nns used/vbn for/in this/dt study/nn are/vbp available/jj online/nn at/in http/nn :/punct //www.cs.sfu.ca/~color/data/nns ,/punct and/cc implementations/nns for/in most/jjs of/in the/dt algorithms/nns are/vbp also/rb available/jj (/punct http/nn :/punct //www.cs.sfu.ca/~color/code/vb )/punct ./punct
+experiments/nns with/in synthesized/vbn data/nns (/punct part/nn one/cd of/in this/dt paper/nn )/punct suggested/vbd that/in the/dt methods/nns which/wdt emphasize/vbp the/dt use/nn of/in the/dt input/nn data/nns statistics/nns ,/punct specifically/rb color/nn by/in correlation/nn and/cc the/dt neural/jj net/jj algorithm/nn ,/punct are/vbp potentially/rb the/dt most/rbs effective/jj at/in estimating/vbg the/dt chromaticity/nn of/in the/dt scene/nn illuminant/nn ./punct
+unfortunately/rb ,/punct we/prp were/vbd unable/jj to/to realize/vb comparable/jj performance/nn on/in real/jj images/nns ./punct
+here/rb exploiting/vbg pixel/nn intensity/nn proved/vbd to/to be/vb more/rbr beneficial/jj than/in exploiting/vbg the/dt details/nns of/in image/nn chromaticity/nn statistics/nns ,/punct and/cc the/dt three-dimensional/jj (/punct 3-d/jj )/punct gamut-mapping/nn algorithms/nns gave/vbd the/dt best/jjs performance/nn ./punct

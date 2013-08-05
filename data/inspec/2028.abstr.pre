@@ -1,0 +1,7 @@
+centroid/jj detection/nn based/vbn on/in optical/jj correlation/nn ./punct
+we/prp propose/vbp three/cd correlation-based/jj methods/nns to/to simultaneously/rb detect/vb the/dt centroids/nns of/in multiple/jj objects/nns in/in an/dt input/nn scene/nn ./punct
+the/dt first/jj method/nn is/vbz based/vbn on/in the/dt modulus/nn of/in the/dt moment/nn function/nn ,/punct the/dt second/jj method/nn is/vbz based/vbn on/in squaring/vbg the/dt moment/nn function/nn ,/punct and/cc the/dt third/jj method/nn works/vbz with/in a/dt single/jj intensity/nn filter/nn ./punct
+these/dt methods/nns are/vbp invariant/jj to/to changes/nns in/in the/dt position/nn ,/punct orientation/nn ,/punct and/cc scale/nn of/in the/dt object/nn and/cc result/nn in/in good/jj noise-smoothing/jj performance/nn ./punct
+we/prp use/vbp spatial/jj light/jj modulators/nns (/punct slms/nns )/punct to/to directly/rb implement/vb the/dt input/nn of/in the/dt image/nn and/cc filter/nn information/nn for/in the/dt purpose/nn of/in these/dt approaches/nns ./punct
+we/prp present/vbp results/nns showing/vbg simulations/nns from/in different/jj approaches/nns and/cc provide/vbp comparisons/nns between/in optical-correlation-/nn and/cc digital-moment-based/jj methods/nns ./punct
+experimental/jj results/nns corresponding/vbg to/to an/dt optical/jj correlator/nn using/vbg slms/nns for/in the/dt centroid/jj detection/nn are/vbp also/rb presented/vbn ./punct

@@ -1,0 +1,12 @@
+restoration/nn of/in broadband/nn imagery/nn steered/vbd with/in a/dt liquid-crystal/jj optical/jj phased/jj array/nn ./punct
+in/in many/jj imaging/nn applications/nns ,/punct it/prp is/vbz highly/rb desirable/jj to/to replace/vb mechanical/jj beam-steering/jj components/nns (/punct i.e./fw ,/punct mirrors/vbz and/cc gimbals/vbz )/punct with/in a/dt nonmechanical/jj device/nn ./punct
+one/cd such/jj device/nn is/vbz a/dt nematic/jj liquid/nn crystal/nn optical/jj phased/jj array/nn (/punct lcopa/nn )/punct ./punct
+an/dt lcopa/nn can/md implement/vb a/dt blazed/vbn phase/nn grating/vbg to/to steer/vb the/dt incident/nn light/nn ./punct
+however/rb ,/punct when/wrb a/dt phase/nn grating/vbg is/vbz used/vbn in/in a/dt broadband/nn imaging/nn system/nn ,/punct two/cd adverse/jj effects/nns can/md occur/vb ./punct
+first/rb ,/punct dispersion/nn will/md cause/vb different/jj incident/nn wavelengths/nns arriving/vbg at/in the/dt same/jj angle/nn to/to be/vb steered/vbn to/to different/jj output/nn angles/nns ,/punct causing/vbg chromatic/jj aberrations/nns in/in the/dt image/nn plane/nn ./punct
+second/rb ,/punct the/dt device/nn will/md steer/vb energy/nn not/rb only/rb to/to the/dt first/jj diffraction/nn order/nn ,/punct but/cc to/to others/nns as/rb well/rb ./punct
+this/dt multiple-order/jj effect/nn results/vbz in/in multiple/jj copies/nns of/in the/dt scene/nn appearing/vbg in/in the/dt image/nn plane/nn ./punct
+we/prp describe/vbp a/dt digital/jj image/nn restoration/nn technique/nn designed/vbn to/to overcome/vb these/dt degradations/nns ./punct
+the/dt proposed/vbn postprocessing/nn technique/nn is/vbz based/vbn on/in a/dt wiener/nnp deconvolution/nn filter/nn ./punct
+the/dt technique/nn ,/punct however/rb ,/punct is/vbz applicable/jj only/rb to/to scenes/nns containing/vbg objects/nns with/in approximately/rb constant/jj reflectivities/nns over/in the/dt spectral/jj region/nn of/in interest/nn ./punct
+experimental/jj results/nns are/vbp presented/vbn to/to demonstrate/vb the/dt effectiveness/nn of/in this/dt technique/nn ./punct

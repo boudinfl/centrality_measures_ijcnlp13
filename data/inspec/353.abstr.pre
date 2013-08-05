@@ -1,0 +1,3 @@
+edit/vb distance/nn of/in run-length/nn encoded/vbd strings/nns ./punct
+let/vb x/nn and/cc y/nn be/vb two/cd run-length/jj encoded/vbn strings/nns ,/punct of/in encoded/vbn lengths/nns k/nn and/cc l/nn ,/punct respectively/rb ./punct
+we/prp present/vbp a/dt simple/jj o/nn (/punct |x|l+|y|k/nn )/punct time/nn algorithm/nn that/wdt computes/vbz their/prp$ edit/nn distance/nn ./punct

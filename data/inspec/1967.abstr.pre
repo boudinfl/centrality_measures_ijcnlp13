@@ -1,0 +1,9 @@
+modeling/vbg daily/rb realized/vbn futures/nns volatility/nn with/in singular/jj spectrum/nn analysis/nn ./punct
+using/vbg singular/jj spectrum/nn analysis/nn (/punct ssa/nnp )/punct ,/punct we/prp model/vbp the/dt realized/vbn volatility/nn and/cc logarithmic/jj standard/jj deviations/nns of/in two/cd important/jj futures/nns return/vbp series/nn ./punct
+the/dt realized/vbn volatility/nn and/cc logarithmic/jj standard/jj deviations/nns are/vbp constructed/vbn following/vbg the/dt methodology/nn of/in andersen/nnp et/fw al/fw ./punct
+[/punct j./nnp am/nnp ./punct
+stat/nn ./punct
+ass/nn ./punct
+96/cd (/punct 2001/cd )/punct 42-55/cd ]/punct using/vbg intra-day/jj transaction/nn data/nns ./punct
+we/prp find/vbp that/in ssa/nn decomposes/vbz the/dt volatility/nn series/nn quite/rb well/rb and/cc effectively/rb captures/vbz both/cc the/dt market/nn trend/nn (/punct accounting/nn for/in about/in 34-38/cd %/punct of/in the/dt total/jj variance/nn in/in the/dt series/nn )/punct and/cc ,/punct more/rbr importantly/rb ,/punct a/dt number/nn of/in underlying/vbg market/nn periodicities/nns ./punct
+reliable/jj identification/nn of/in any/dt periodicities/nns is/vbz extremely/rb important/jj for/in options/nns pricing/nn and/cc risk/nn management/nn and/cc we/prp believe/vbp that/in ssa/nnp can/md be/vb a/dt useful/jj addition/nn to/to the/dt financial/jj practitioners/nns '/punct toolbox/nn ./punct

@@ -1,0 +1,4 @@
+mems/nns applications/nns in/in computer/nn disk/nn drive/nn dual-stage/jj servo/nn systems/nns ./punct
+we/prp present/vbp a/dt decoupled/jj discrete/jj time/nn pole/nn placement/nn design/nn method/nn ,/punct which/wdt can/md be/vb combined/vbn with/in a/dt self-tuning/jj scheme/nn to/to compensate/vb variations/nns in/in the/dt microactuator/nn 's/pos (/punct ma/nnp 's/pos )/punct resonance/nn mode/nn ./punct
+section/nn i/nn of/in the/dt paper/nn describes/vbz the/dt design/nn and/cc fabrication/nn of/in a/dt prototype/nn microactuator/nn with/in an/dt integrated/vbn gimbal/nn structure/nn ./punct
+section/nn ii/cd presents/vbz a/dt decoupled/jj track-following/jj controller/nn design/nn and/cc a/dt self-tuning/jj control/nn scheme/nn to/to compensate/vb for/in the/dt ma/nnp 's/pos resonance/nn mode/nn variations/nns ./punct

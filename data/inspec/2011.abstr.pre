@@ -1,0 +1,9 @@
+innovative/jj phase/nn unwrapping/vbg algorithm/nn :/punct hybrid/jj approach/nn ./punct
+we/prp present/vbp a/dt novel/jj algorithm/nn based/vbn on/in a/dt hybrid/nn of/in the/dt global/jj and/cc local/jj treatment/nn of/in a/dt wrapped/vbn map/nn ./punct
+the/dt proposed/vbn algorithm/nn is/vbz especially/rb effective/jj for/in the/dt unwrapping/nn of/in speckle-coded/jj interferogram/nn contour/nn maps/nns ./punct
+in/in contrast/nn to/to earlier/jjr unwrapping/jj algorithms/nns by/in region/nn ,/punct we/prp propose/vbp a/dt local/jj discontinuity-restoring/jj criterion/nn to/to serve/vb as/in the/dt preprocessor/nn or/cc postprocessor/nn of/in our/prp$ hybrid/nn algorithm/nn ,/punct which/wdt makes/vbz the/dt unwrapping/nn by/in region/nn much/jj easier/jjr and/cc more/rbr efficient/jj ./punct
+with/in this/dt hybrid/nn algorithm/nn ,/punct a/dt robust/jj ,/punct stable/jj ,/punct and/cc especially/rb time/nn effective/jj phase/nn unwrapping/nn can/md be/vb achieved/vbn ./punct
+additionally/rb ,/punct the/dt criterion/nn and/cc limitation/nn of/in this/dt hybrid/nn algorithm/nn are/vbp fully/rb described/vbn ./punct
+the/dt robustness/nn ,/punct stability/nn ,/punct and/cc speed/nn of/in this/dt hybrid/nn algorithm/nn are/vbp also/rb studied/vbn ./punct
+the/dt proposed/vbn algorithm/nn can/md be/vb easily/rb upgraded/vbn with/in minor/jj modifications/nns to/to solve/vb the/dt unwrapping/vbg problem/nn of/in maps/nns with/in phase/nn inconsistency/nn ./punct
+both/dt numerical/jj simulation/nn and/cc experimental/jj applications/nns demonstrate/vbp the/dt effectiveness/nn of/in the/dt proposed/vbn algorithm/nn ./punct

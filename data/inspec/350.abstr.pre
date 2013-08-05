@@ -1,0 +1,8 @@
+there/ex is/vbz no/dt optimal/jj routing/vbg policy/nn for/in the/dt torus/nn ./punct
+a/dt routing/vbg policy/nn is/vbz the/dt method/nn used/vbn to/to select/vb a/dt specific/jj output/nn channel/nn for/in a/dt message/nn from/in among/in a/dt number/nn of/in acceptable/jj output/nn channels/nns ./punct
+an/dt optimal/jj routing/vbg policy/nn is/vbz a/dt policy/nn that/wdt maximizes/vbz the/dt probability/nn of/in a/dt message/nn reaching/vbg its/prp$ destination/nn without/in delays/nns ./punct
+optimal/jj routing/vbg policies/nns have/vbp been/vbn proposed/vbn for/in several/jj regular/jj networks/nns ,/punct including/vbg the/dt mesh/nn and/cc the/dt hypercube/nn ./punct
+an/dt open/jj problem/nn in/in interconnection/nn network/nn research/nn has/vbz been/vbn the/dt identification/nn of/in an/dt optimal/jj routing/vbg policy/nn for/in the/dt torus/nn ./punct
+in/in this/dt paper/nn ,/punct we/prp show/vbp that/in there/ex is/vbz no/dt optimal/jj routing/vbg policy/nn for/in the/dt torus/nn ./punct
+our/prp$ result/nn is/vbz demonstrated/vbn by/in presenting/vbg a/dt detailed/jj example/nn in/in which/wdt the/dt best/jjs choice/nn of/in output/nn channel/nn is/vbz dependent/jj on/in the/dt probability/nn of/in each/dt channel/nn being/vbg available/jj ./punct
+this/dt result/nn settles/vbz ,/punct in/in the/dt negative/jj ,/punct a/dt conjecture/nn by/in j./nnp wu/nnp (/punct 1996/cd )/punct concerning/vbg an/dt optimal/jj routing/vbg policy/nn for/in the/dt torus/nn ./punct

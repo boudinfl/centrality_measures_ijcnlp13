@@ -1,0 +1,11 @@
+web-based/jj experiments/nns controlled/vbn by/in javascript/nnp :/punct an/dt example/nn from/in probability/nn learning/nn ./punct
+javascript/nnp programs/nns can/md be/vb used/vbn to/to control/vb web/nn experiments/nns ./punct
+this/dt technique/nn is/vbz illustrated/vbn by/in an/dt experiment/nn that/wdt tested/vbd the/dt effects/nns of/in advice/nn on/in performance/nn in/in the/dt classic/jj probability-learning/jj paradigm/nn ./punct
+previous/jj research/nn reported/vbd that/in people/nns tested/vbn via/in the/dt web/nn or/cc in/in the/dt lab/nn tended/vbd to/to match/vb the/dt probabilities/nns of/in their/prp$ responses/nns to/to the/dt probabilities/nns that/in those/dt responses/nns would/md be/vb reinforced/vbn ./punct
+the/dt optimal/jj strategy/nn ,/punct however/rb ,/punct is/vbz to/to consistently/rb choose/vb the/dt more/rbr frequent/jj event/nn ;/punct probability/nn matching/vbg produces/vbz suboptimal/jj performance/nn ./punct
+we/prp investigated/vbd manipulations/nns we/prp reasoned/vbd should/md improve/vb performance/nn ./punct
+a/dt horse/nn race/nn scenario/nn in/in which/wdt participants/nns predicted/vbd the/dt winner/nn in/in each/dt of/in a/dt series/nn of/in races/nns between/in two/cd horses/nns was/vbd compared/vbn with/in an/dt abstract/jj scenario/nn used/vbn previously/rb ./punct
+ten/cd groups/nns of/in learners/nns received/vbd different/jj amounts/nns of/in advice/nn ,/punct including/vbg all/dt combinations/nns of/in (/punct 1/cd )/punct explicit/jj instructions/nns concerning/vbg the/dt optimal/jj strategy/nn ,/punct (/punct 2/cd )/punct explicit/jj instructions/nns concerning/vbg a/dt monetary/jj sum/nn to/to maximize/vb ,/punct and/cc (/punct 3/cd )/punct accurate/jj information/nn concerning/vbg the/dt probabilities/nns of/in events/nns ./punct
+the/dt results/nns showed/vbd minimal/jj effects/nns of/in horse/nn race/nn versus/cc abstract/jj scenario/nn ./punct
+both/dt advice/nn concerning/vbg the/dt optimal/jj strategy/nn and/cc probability/nn information/nn contributed/vbd significantly/rb to/to performance/nn in/in the/dt task/nn ./punct
+this/dt paper/nn includes/vbz a/dt brief/jj tutorial/nn on/in javascript/nnp ,/punct explaining/vbg with/in simple/jj examples/nns how/wrb to/to assemble/vb a/dt browser-based/jj experiment/nn ./punct

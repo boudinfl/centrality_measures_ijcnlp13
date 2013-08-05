@@ -1,0 +1,8 @@
+performance/nnp comparison/nn between/in pid/nnp and/cc dead-time/jj compensating/vbg controllers/nns ./punct
+this/dt paper/nn is/vbz intended/vbn to/to answer/vb the/dt question/nn :/punct ``/`` when/wrb can/md a/dt simple/jj dead-time/jj compensator/nn be/vb expected/vbn to/to perform/vb better/jjr than/in a/dt pid/nn ?/punct ''/'' ./punct
+the/dt performance/nn criterion/nn used/vbn is/vbz the/dt integrated/vbn absolute/jj error/nn (/punct iae/nn )/punct ./punct
+it/prp is/vbz compared/vbn for/in pi/nn and/cc pid/nn controllers/nns and/cc a/dt simple/jj dead-time/jj compensator/nn (/punct dtc/nn )/punct when/wrb a/dt step/nn load/nn disturbance/nn is/vbz applied/vbn at/in the/dt plant/nn input/nn ./punct
+both/dt stable/jj and/cc integrating/vbg processes/nns are/vbp considered/vbn ./punct
+for/in a/dt fair/jj comparison/nn the/dt controllers/nns should/md provide/vb equal/jj robustness/nn in/in some/dt sense/nn ./punct
+here/rb ,/punct as/in a/dt measure/nn of/in robustness/nn ,/punct the/dt h/sub/nn infinity/nn //punct norm/nn of/in the/dt sum/nn of/in the/dt absolute/jj values/nns of/in the/dt sensitivity/nn function/nn and/cc the/dt complementary/jj sensitivity/nn function/nn is/vbz used/vbn ./punct
+performance/nnp of/in the/dt dtc/nn 's/pos is/vbz given/vbn also/rb as/in a/dt function/nn of/in dead-time/jj margin/nn (/punct d/sub/nn m//nn )/punct ./punct

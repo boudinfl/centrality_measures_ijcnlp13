@@ -1,0 +1,9 @@
+designing/nnp a/dt screening/nn experiment/nn for/in highly/rb reliable/jj products/nns ./punct
+within/in a/dt reasonable/jj life-testing/jj time/nn ,/punct how/wrb to/to improve/vb the/dt reliability/nn of/in highly/rb reliable/jj products/nns is/vbz one/cd of/in the/dt great/jj challenges/nns ./punct
+by/in using/vbg a/dt resolution/nn iii/cd experiment/nn together/rb with/in degradation/nn test/nn ,/punct tseng/nnp et/fw al/fw ./punct
+(/punct 1995/cd )/punct presented/vbd a/dt case/nn study/nn of/in improving/vbg the/dt reliability/nn of/in fluorescent/jj lamps/nns ./punct
+however/rb ,/punct in/in conducting/vbg such/pdt an/dt experiment/nn ,/punct they/prp did/vbd not/rb address/vb the/dt problem/nn of/in how/wrb to/to choose/vb the/dt optimal/jj settings/nns of/in variables/nns ,/punct such/jj as/in sample/nn size/nn ,/punct inspection/nn frequency/nn ,/punct and/cc termination/nn time/nn for/in each/dt run/nn ,/punct which/wdt are/vbp influential/jj to/to the/dt correct/jj identification/nn of/in significant/jj factors/nns and/cc the/dt experimental/jj cost/nn ./punct
+assuming/vbg that/in the/dt product/nn 's/pos degradation/nn paths/nns satisfy/vbp wiener/nnp processes/nns ,/punct this/dt paper/nn proposes/vbz a/dt systematic/jj approach/nn to/to the/dt aforementioned/jj problem/nn ./punct
+first/rb ,/punct an/dt identification/nn rule/nn is/vbz proposed/vbn ./punct
+next/rb ,/punct under/in the/dt constraints/nns of/in a/dt minimum/jj probability/nn of/in correct/jj decision/nn and/cc a/dt maximum/nn probability/nn of/in incorrect/jj decision/nn of/in the/dt proposed/vbn identification/nn rule/nn ,/punct the/dt optimum/jj test/nn plan/nn can/md be/vb obtained/vbn by/in minimizing/vbg the/dt total/jj experimental/jj cost/nn ./punct
+an/dt example/nn is/vbz provided/vbn to/to illustrate/vb the/dt proposed/vbn method/nn ./punct

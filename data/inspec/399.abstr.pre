@@ -1,0 +1,6 @@
+low-voltage/jj dram/nnp sensing/vbg scheme/nn with/in offset-cancellation/nn sense/nn amplifier/nn ./punct
+a/dt novel/jj bitline/nn sensing/vbg scheme/nn is/vbz proposed/vbn for/in low-voltage/jj dram/nn to/to achieve/vb low/jj power/nn dissipation/nn and/cc compatibility/nn with/in low-voltage/jj cmos/nns ./punct
+one/cd of/in the/dt major/jj obstacles/nns in/in low-voltage/jj dram/nn is/vbz the/dt degradation/nn of/in data-retention/jj time/nn due/jj to/to low/jj signal/nn level/nn at/in the/dt memory/nn cell/nn ,/punct which/wdt requires/vbz power-consuming/jj refresh/jj operations/nns more/rbr frequently/rb ./punct
+this/dt paper/nn proposes/vbz an/dt offset-cancellation/jj sense-amplifier/nn scheme/nn (/punct ocsa/nn )/punct that/wdt improves/vbz data-retention/jj time/nn significantly/rb even/rb at/in low/jj supply/nn voltage/nn ./punct
+it/prp also/rb improves/vbz die/vb efficiency/nn ,/punct because/in the/dt proposed/vbn scheme/nn reduces/vbz the/dt number/nn of/in sense/nn amplifiers/nns by/in supporting/vbg more/jjr cells/nns in/in each/dt sense/nn amplifier/nn ./punct
+measurements/nns show/vbp that/in the/dt data-retention/jj time/nn of/in the/dt proposed/vbn scheme/nn at/in 1.5-v/cd supply/nn voltage/nn is/vbz 2.4/cd times/nns of/in the/dt conventional/jj scheme/nn at/in 2.0/cd v/nn ./punct

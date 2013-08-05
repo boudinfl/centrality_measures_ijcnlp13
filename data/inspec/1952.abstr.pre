@@ -1,0 +1,6 @@
+comprehensive/nnp encoding/vbg and/cc decoupling/vbg solution/nn to/to problems/nns of/in decoherence/nn and/cc design/nn in/in solid-state/jj quantum/nn computing/nn ./punct
+proposals/nns for/in scalable/jj quantum/nn computing/nn devices/nns suffer/vbp not/rb only/rb from/in decoherence/nn due/jj to/to the/dt interaction/nn with/in their/prp$ environment/nn ,/punct but/cc also/rb from/in severe/jj engineering/nn constraints/nns ./punct
+here/rb we/prp introduce/vb a/dt practical/jj solution/nn to/to these/dt major/jj concerns/nns ,/punct addressing/vbg solid-state/jj proposals/nns in/in particular/jj ./punct
+decoherence/nn is/vbz first/jj reduced/vbn by/in encoding/vbg a/dt logical/jj qubit/nn into/in two/cd qubits/nns ,/punct then/rb completely/rb eliminated/vbn by/in an/dt efficient/jj set/nn of/in decoupling/vbg pulse/nn sequences/nns ./punct
+the/dt same/jj encoding/vbg removes/vbz the/dt need/nn for/in single-qubit/jj operations/nns ,/punct which/wdt pose/vbp a/dt difficult/jj design/nn constraint/nn ./punct
+we/prp further/rb show/vbp how/wrb the/dt dominant/jj decoherence/nn processes/nns can/md be/vb identified/vbn empirically/rb ,/punct in/in order/nn to/to optimize/vb the/dt decoupling/vbg pulses/nns ./punct

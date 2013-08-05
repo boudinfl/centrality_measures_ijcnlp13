@@ -1,0 +1,8 @@
+design/nn of/in pid-type/jj controllers/nns using/vbg multiobjective/jj genetic/jj algorithms/nns ./punct
+the/dt design/nn of/in a/dt pid/nn controller/nn is/vbz a/dt multiobjective/jj problem/nn ./punct
+a/dt plant/nn and/cc a/dt set/nn of/in specifications/nns to/to be/vb satisfied/vbn are/vbp given/vbn ./punct
+the/dt designer/nn has/vbz to/to adjust/vb the/dt parameters/nns of/in the/dt pid/nn controller/nn such/jj that/in the/dt feedback/nn interconnection/nn of/in the/dt plant/nn and/cc the/dt controller/nn satisfies/vbz the/dt specifications/nns ./punct
+these/dt specifications/nns are/vbp usually/rb competitive/jj and/cc any/dt acceptable/jj solution/nn requires/vbz a/dt tradeoff/nn among/in them/prp ./punct
+an/dt approach/nn for/in adjusting/vbg the/dt parameters/nns of/in a/dt pid/nn controller/nn based/vbn on/in multiobjective/jj optimization/nn and/cc genetic/jj algorithms/nns is/vbz presented/vbn in/in this/dt paper/nn ./punct
+the/dt mrcd/nnp (/punct multiobjective/jj robust/jj control/nn design/nn )/punct genetic/jj algorithm/nn has/vbz been/vbn employed/vbn ./punct
+the/dt approach/nn can/md be/vb easily/rb generalized/vbn to/to design/vb multivariable/jj coupled/vbn and/cc decentralized/vbn pid/nnp loops/nns and/cc has/vbz been/vbn successfully/rb validated/vbn for/in a/dt large/jj number/nn of/in experimental/jj cases/nns ./punct

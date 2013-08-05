@@ -1,0 +1,7 @@
+simulation/nn of/in evacuation/nn processes/nns using/vbg a/dt bionics-inspired/jj cellular/jj automaton/nn model/nn for/in pedestrian/jj dynamics/nns ./punct
+we/prp present/vbp simulations/nns of/in evacuation/nn processes/nns using/vbg a/dt recently/rb introduced/vbn cellular/jj automaton/nn model/nn for/in pedestrian/jj dynamics/nns ./punct
+this/dt model/nn applies/vbz a/dt bionics/nns approach/vbp to/to describe/vb the/dt interaction/nn between/in the/dt pedestrians/nns using/vbg ideas/nns from/in chemotaxis/nn ./punct
+here/rb we/prp study/vb a/dt rather/rb simple/jj situation/nn ,/punct namely/rb the/dt evacuation/nn from/in a/dt large/jj room/nn with/in one/cd or/cc two/cd doors/nns ./punct
+it/prp is/vbz shown/vbn that/in the/dt variation/nn of/in the/dt model/nn parameters/nns allows/vbz to/to describe/vb different/jj types/nns of/in behaviour/nn ,/punct from/in regular/jj to/to panic/nn ./punct
+we/prp find/vbp a/dt non-monotonic/jj dependence/nn of/in the/dt evacuation/nn times/nns on/in the/dt coupling/nn constants/nns ./punct
+these/dt times/nns depend/vbp on/in the/dt strength/nn of/in the/dt herding/vbg behaviour/nn ,/punct with/in minimal/jj evacuation/nn times/nns for/in some/dt intermediate/jj values/nns of/in the/dt couplings/nns ,/punct i.e./fw ,/punct a/dt proper/jj combination/nn of/in herding/nn and/cc use/nn of/in knowledge/nn about/in the/dt shortest/jjs way/nn to/to the/dt exit/nn ./punct

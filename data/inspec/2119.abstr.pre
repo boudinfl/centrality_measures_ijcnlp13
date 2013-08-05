@@ -1,0 +1,5 @@
+location/nnp of/in transport/nn nets/nns on/in a/dt heterogeneous/jj territory/nn ./punct
+the/dt location/nn of/in transport/nn routes/nns on/in a/dt heterogeneous/jj territory/nn is/vbz studied/vbn ./punct
+the/dt network/nn joins/vbz a/dt given/vbn set/nn of/in terminal/jj points/nns and/cc a/dt certain/jj number/nn of/in additional/jj (/punct branch/nn )/punct points/nns ./punct
+the/dt problem/nn is/vbz formulated/vbn ,/punct properties/nns of/in the/dt optimal/jj solution/nn for/in a./nnp tree-like/jj network/nn ,/punct and/cc the/dt number/nn of/in branch/nn points/nns are/vbp studied/vbn ./punct
+a/dt stepwise/jj optimization/nn algorithm/nn for/in a./nn network/nn with/in given/vbn adjacency/nn matrix/nn based/vbn on/in an/dt algorithm/nn for/in constructing/vbg minimal-cost/jj routes/nns is/vbz designed/vbn ./punct

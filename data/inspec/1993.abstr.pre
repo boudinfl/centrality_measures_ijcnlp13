@@ -1,0 +1,7 @@
+color/nnp plane/nn interpolation/nn using/vbg alternating/vbg projections/nns ./punct
+most/jjs commercial/jj digital/jj cameras/nns use/vbp color/nn filter/nn arrays/nns to/to sample/nn red/nn ,/punct green/jj ,/punct and/cc blue/jj colors/nns according/vbg to/to a/dt specific/jj pattern/nn ./punct
+at/in the/dt location/nn of/in each/dt pixel/nn only/rb one/cd color/nn sample/nn is/vbz taken/vbn ,/punct and/cc the/dt values/nns of/in the/dt other/jj colors/nns must/md be/vb interpolated/vbn using/vbg neighboring/vbg samples/nns ./punct
+this/dt color/nn plane/nn interpolation/nn is/vbz known/vbn as/in demosaicing/nn ;/punct it/prp is/vbz one/cd of/in the/dt important/jj tasks/nns in/in a/dt digital/jj camera/nn pipeline/nn ./punct
+if/in demosaicing/nn is/vbz not/rb performed/vbn appropriately/rb ,/punct images/nns suffer/vbp from/in highly/rb visible/jj color/nn artifacts/nns ./punct
+in/in this/dt paper/nn we/prp present/vbp a/dt new/jj demosaicing/nn technique/nn that/wdt uses/vbz inter-channel/nn correlation/nn effectively/rb in/in an/dt alternating-projections/jj scheme/nn ./punct
+we/prp have/vbp compared/vbn this/dt technique/nn with/in six/cd state-of-the-art/jj demosaicing/nn techniques/nns ,/punct and/cc it/prp outperforms/vbz all/dt of/in them/prp ,/punct both/dt visually/rb and/cc in/in terms/nns of/in mean/jj square/jj error/nn ./punct

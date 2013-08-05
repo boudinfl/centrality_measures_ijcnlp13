@@ -1,0 +1,9 @@
+fully/rb automatic/jj algorithm/nn for/in region/nn of/in interest/nn location/nn in/in camera/nn calibration/nn ./punct
+we/prp present/vbp an/dt automatic/jj method/nn for/in region/nn of/in interest/nn (/punct roi/nn )/punct location/nn in/in camera/nn calibration/nn used/vbn in/in computer/nn vision/nn inspection/nn ./punct
+an/dt intelligent/jj roi/nn location/nn algorithm/nn based/vbn on/in the/dt radon/nnp transform/vb is/vbz developed/vbn to/to automate/vb the/dt calibration/nn process/nn ./punct
+the/dt algorithm/nn remains/vbz robust/jj even/rb if/in the/dt anchor/nn target/nn has/vbz a/dt notable/jj rotation/nn angle/nn in/in the/dt target/nn plane/nn ./punct
+this/dt method/nn functions/vbz well/rb although/in the/dt anchor/nn target/nn is/vbz not/rb carefully/rb positioned/vbn ./punct
+several/jj improvement/nn methods/nns are/vbp studied/vbn to/to avoid/vb the/dt algorithm/nn 's/pos huge/jj time/space/nn consumption/nn problem/nn ./punct
+the/dt algorithm/nn runs/vbz about/in 100/cd times/nns faster/rbr if/in these/dt improvement/nn methods/nns are/vbp applied/vbn ./punct
+using/vbg this/dt method/nn fully/rb automatic/jj camera/nn calibration/nn is/vbz achieved/vbn without/in human/jj interactive/jj roi/nn specification/nn ./punct
+experiments/nns show/vbp that/in this/dt algorithm/nn can/md help/vb to/to calibrate/vb the/dt intrinsic/jj parameters/nns of/in the/dt zoom/nn lens/nn and/cc the/dt camera/nn parameters/nns quickly/rb and/cc automatically/rb ./punct

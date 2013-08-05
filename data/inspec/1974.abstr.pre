@@ -1,0 +1,9 @@
+real-time/jj implementation/nn of/in a/dt new/jj low-memory/jj spiht/nn image/nn coding/vbg algorithm/nn using/vbg dsp/nnp chip/nn ./punct
+among/in all/dt algorithms/nns based/vbn on/in wavelet/nn transform/vb and/cc zerotree/vb quantization/nn ,/punct said/nnp and/cc pearlman/nnp 's/pos (/punct 1996/cd )/punct set/nn partitioning/nn in/in hierarchical/jj trees/nns (/punct spiht/nn )/punct algorithm/nn is/vbz well-known/jj for/in its/prp$ simplicity/nn and/cc efficiency/nn ./punct
+this/dt paper/nn deals/vbz with/in the/dt real-time/jj implementation/nn of/in spiht/nnp algorithm/nn using/vbg dsp/nnp chip/nn ./punct
+in/in order/nn to/to facilitate/vb the/dt implementation/nn and/cc improve/vb the/dt codec/nn 's/pos performance/nn ,/punct some/dt relative/jj issues/nns are/vbp thoroughly/rb discussed/vbn ,/punct such/jj as/in the/dt optimization/nn of/in program/nn structure/nn to/to speed/vb up/rp the/dt wavelet/nn decomposition/nn ./punct
+spiht/nnp 's/pos high/jj memory/nn requirement/nn is/vbz a/dt major/jj drawback/nn for/in hardware/nn implementation/nn ./punct
+in/in this/dt paper/nn ,/punct we/prp modify/vbp the/dt original/jj spiht/nnp algorithm/nn by/in presenting/vbg two/cd new/jj concepts-number/nn of/in error/nn bits/nns and/cc absolute/jj zerotree/nn ./punct
+consequently/rb ,/punct the/dt memory/nn cost/nn is/vbz significantly/rb reduced/vbn ./punct
+we/prp also/rb introduce/vb a/dt new/jj method/nn to/to control/vb the/dt coding/vbg process/nn by/in number/nn of/in error/nn bits/nns ./punct
+our/prp$ experimental/jj results/nns show/vbp that/in the/dt implementation/nn meets/vbz common/jj requirement/nn of/in real-time/jj video/nn coding/nn and/cc is/vbz proven/vbn to/to be/vb a/dt practical/jj and/cc efficient/jj dsp/nnp solution/nn ./punct

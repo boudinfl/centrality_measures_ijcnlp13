@@ -1,0 +1,8 @@
+model/nnp predictive/jj control/nn helps/vbz to/to regulate/vb slow/jj processes-robust/jj barrel/nn temperature/nn control/nn ./punct
+slow/jj temperature/nn control/nn is/vbz a/dt challenging/jj control/nn problem/nn ./punct
+the/dt problem/nn becomes/vbz even/rb more/rbr challenging/jj when/wrb multiple/jj zones/nns are/vbp involved/vbn ,/punct such/jj as/in in/in barrel/nn temperature/nn control/nn for/in extruders/nns ./punct
+often/rb ,/punct strict/jj closed-loop/jj performance/nn requirements/nns (/punct such/jj as/in fast/jj startup/nn with/in no/dt overshoot/nn and/cc maintaining/vbg tight/jj temperature/nn control/nn during/in production/nn )/punct are/vbp given/vbn for/in such/jj applications/nns ./punct
+when/wrb characteristics/nns of/in the/dt system/nn are/vbp examined/vbn ,/punct it/prp becomes/vbz clear/jj that/in a/dt commonly/rb used/vbn proportional/jj plus/cc integral/jj plus/cc derivative/jj (/punct pid/nn )/punct controller/nn can/md not/rb meet/vb such/jj performance/nn specifications/nns for/in this/dt kind/nn of/in system/nn ./punct
+the/dt system/nn either/cc will/md overshoot/vb or/cc not/rb maintain/vb the/dt temperature/nn within/in the/dt specified/vbn range/nn during/in the/dt production/nn run/nn ./punct
+in/in order/nn to/to achieve/vb the/dt required/vbn performance/nn ,/punct a/dt control/nn strategy/nn that/wdt utilizes/vbz techniques/nns such/jj as/in model/nn predictive/jj control/nn ,/punct autotuning/nn ,/punct and/cc multiple/jj parameter/nn pid/nn is/vbz formulated/vbn ./punct
+this/dt control/nn strategy/nn proves/vbz to/to be/vb very/rb effective/jj in/in achieving/vbg the/dt desired/vbn specifications/nns ,/punct and/cc is/vbz very/rb robust/jj ./punct

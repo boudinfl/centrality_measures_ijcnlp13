@@ -1,0 +1,4 @@
+statistical/jj inference/nn with/in partial/jj prior/jj information/nn based/vbn on/in a/dt gauss-type/jj inequality/nn ./punct
+potter/nnp and/cc anderson/nnp (/punct 1983/cd )/punct have/vbp developed/vbn a/dt bayesian/jj decision/nn procedure/nn requiring/vbg the/dt specification/nn of/in a/dt class/nn of/in prior/jj distributions/nns restricted/jj to/to have/vb a/dt minimal/jj probability/nn content/nn for/in a/dt given/vbn subset/nn of/in the/dt parameter/nn space/nn ./punct
+they/prp do/vbp not/rb ,/punct however/rb ,/punct provide/vbp a/dt method/nn for/in the/dt selection/nn of/in that/dt subset/nn ./punct
+we/prp show/vbp how/wrb a/dt generalization/nn of/in gauss/nnp '/punct inequality/nn can/md be/vb used/vbn to/to determine/vb the/dt relevant/jj parameter/nn subset/nn ./punct

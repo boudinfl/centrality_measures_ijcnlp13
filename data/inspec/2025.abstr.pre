@@ -1,0 +1,7 @@
+multispectral/jj color/nn image/nn capture/nn using/vbg a/dt liquid/nn crystal/nn tunable/jj filter/nn ./punct
+we/prp describe/vbp the/dt experimental/jj setup/nn of/in a/dt multispectral/jj color/nn image/nn acquisition/nn system/nn consisting/vbg of/in a/dt professional/jj monochrome/jj ccd/nnp camera/nn and/cc a/dt tunable/jj filter/nn in/in which/wdt the/dt spectral/jj transmittance/nn can/md be/vb controlled/vbn electronically/rb ./punct
+we/prp perform/vbp a/dt spectral/jj characterization/nn of/in the/dt acquisition/nn system/nn taking/vbg into/in account/nn the/dt acquisition/nn noise/nn ./punct
+to/to convert/vb the/dt camera/nn output/nn signals/nns to/to device-independent/jj color/nn data/nns ,/punct two/cd main/jj approaches/nns are/vbp proposed/vbn and/cc evaluated/vbn ./punct
+one/cd consists/vbz in/in applying/vbg regression/nn methods/nns to/to convert/vb from/in the/dt k/nnp camera/nn outputs/nns to/to a/dt device-independent/jj color/nn space/nn such/jj as/in ciexyz/nn or/cc cielab/nn ./punct
+another/dt method/nn is/vbz based/vbn on/in a/dt spectral/jj model/nn of/in the/dt acquisition/nn system/nn ./punct
+by/in inverting/vbg the/dt model/nn using/vbg a/dt principal/jj eigenvector/nn approach/nn ,/punct we/prp estimate/vbp the/dt spectral/jj reflectance/nn of/in each/dt pixel/nn of/in the/dt imaged/vbn surface/nn ./punct

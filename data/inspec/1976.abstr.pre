@@ -1,0 +1,8 @@
+adaptive/jj image/nn denoising/nn using/vbg scale/nn and/cc space/nn consistency/nn ./punct
+this/dt paper/nn proposes/vbz a/dt new/jj method/nn for/in image/nn denoising/vbg with/in edge/nn preservation/nn ,/punct based/vbn on/in image/nn multiresolution/jj decomposition/nn by/in a/dt redundant/jj wavelet/nn transform/vb ./punct
+in/in our/prp$ approach/nn ,/punct edges/nns are/vbp implicitly/rb located/jj and/cc preserved/jj in/in the/dt wavelet/nn domain/nn ,/punct whilst/in image/nn noise/nn is/vbz filtered/vbn out/rp ./punct
+at/in each/dt resolution/nn level/nn ,/punct the/dt image/nn edges/nns are/vbp estimated/vbn by/in gradient/nn magnitudes/nns (/punct obtained/vbn from/in the/dt wavelet/nn coefficients/nns )/punct ,/punct which/wdt are/vbp modeled/vbn probabilistically/rb ,/punct and/cc a/dt shrinkage/nn function/nn is/vbz assembled/vbn based/vbn on/in the/dt model/nn obtained/vbn ./punct
+joint/nnp use/nn of/in space/nn and/cc scale/nn consistency/nn is/vbz applied/vbn for/in better/jjr preservation/nn of/in edges/nns ./punct
+the/dt shrinkage/nn functions/nns are/vbp combined/vbn to/to preserve/vb edges/nns that/wdt appear/vbp simultaneously/rb at/in several/jj resolutions/nns ,/punct and/cc geometric/jj constraints/nns are/vbp applied/vbn to/to preserve/vb edges/nns that/wdt are/vbp not/rb isolated/vbn ./punct
+the/dt proposed/vbn technique/nn produces/vbz a/dt filtered/vbn version/nn of/in the/dt original/jj image/nn ,/punct where/wrb homogeneous/jj regions/nns appear/vbp separated/vbn by/in well-defined/jj edges/nns ./punct
+possible/jj applications/nns include/vbp image/nn presegmentation/nn ,/punct and/cc image/nn denoising/nn ./punct

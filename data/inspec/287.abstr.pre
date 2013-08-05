@@ -1,0 +1,7 @@
+loudspeaker/nnp voice-coil/nn inductance/nn losses/nns :/punct circuit/nn models/nns ,/punct parameter/nn estimation/nn ,/punct and/cc effect/nn on/in frequency/nn response/nn ./punct
+when/wrb the/dt series/nn resistance/nn is/vbz separated/vbn and/cc treated/vbn as/in a/dt separate/jj element/nn ,/punct it/prp is/vbz shown/vbn that/in losses/nns in/in an/dt inductor/nn require/vbp the/dt ratio/nn of/in the/dt flux/nn to/to mmf/nn in/in the/dt core/nn to/to be/vb frequency/nn dependent/jj ./punct
+for/in small-signal/jj operation/nn ,/punct this/dt dependence/nn leads/vbz to/to a/dt circuit/nn model/nn composed/vbn of/in a/dt lossless/jj inductor/nn and/cc a/dt resistor/nn in/in parallel/nn ,/punct both/dt of/in which/wdt are/vbp frequency/nn dependent/jj ./punct
+mathematical/jj expressions/nns for/in these/dt elements/nns are/vbp derived/vbn under/in the/dt assumption/nn that/in the/dt ratio/nn of/in core/nn flux/nn to/to mmf/nn varies/vbz as/in omega/jj /sup/jj n-1//nn ,/punct where/wrb n/nn is/vbz a/dt constant/jj ./punct
+a/dt linear/jj regression/nn technique/nn is/vbz described/vbn for/in extracting/vbg the/dt model/nn parameters/nns from/in measured/vbn data/nns ./punct
+experimental/jj data/nns are/vbp presented/vbn to/to justify/vb the/dt model/nn for/in the/dt lossy/nn inductance/nn of/in a/dt loudspeaker/nn voice-coil/nn ./punct
+a/dt spice/nn example/nn is/vbz presented/vbn to/to illustrate/vb the/dt effects/nns of/in voice-coil/nn inductor/nn losses/nns on/in the/dt frequency/nn response/nn of/in a/dt typical/jj driver/nn ./punct

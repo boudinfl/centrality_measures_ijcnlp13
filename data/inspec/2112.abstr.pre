@@ -1,0 +1,11 @@
+allan/nnp variance/nn and/cc fractal/jj brownian/jj motion/nn ./punct
+noise/nn filtering/vbg is/vbz the/dt subject/nn of/in a/dt voluminous/jj literature/nn in/in radio/nn engineering/nn ./punct
+the/dt methods/nns of/in filtering/vbg require/vb knowledge/nn of/in the/dt frequency/nn response/nn ,/punct which/wdt is/vbz usually/rb unknown/jj ./punct
+d.w/nnp ./punct
+allan/nnp (/punct see/vb proc/nnp ./punct
+ieee/nnp ,/punct vol.54/nn ,/punct no.2/nn ,/punct p.221-30/nn ,/punct 1966/cd ;/punct ieee/nnp trans/nnp ./punct
+instr/nnp ./punct
+measur./nnp ,/punct vol.im-36/nn ,/punct p.646-54/nn ,/punct 1987/cd )/punct proposed/vbd a/dt simple/jj method/nn of/in determining/vbg the/dt interval/nn between/in equally/rb accurate/jj observations/nns which/wdt does/vbz without/in this/dt information/nn ./punct
+in/in this/dt method/nn ,/punct the/dt variances/nns of/in the/dt increments/nns of/in noise/nn and/cc signal/nn are/vbp equal/jj ,/punct so/in that/in ,/punct in/in observations/nns with/in a/dt greater/jjr step/nn ,/punct the/dt variations/nns caused/vbn by/in noise/nn are/vbp smaller/jjr than/in those/dt caused/vbn by/in the/dt signal/nn ./punct
+this/dt method/nn is/vbz the/dt standard/jj accepted/vbn by/in the/dt usa/nnp metrology/nn community/nn ./punct
+the/dt present/jj paper/nn is/vbz devoted/vbn to/to a/dt statistical/jj analysis/nn of/in the/dt allan/nnp method/nn and/cc acquisition/nn of/in additional/jj information/nn ./punct

@@ -1,0 +1,6 @@
+a/dt digital-to-analog/jj converter/nn based/vbn on/in differential-quad/jj switching/nn ./punct
+a/dt high-conversion-rate/jj high-resolution/jj oversampling/nn digital-to-analog/jj converter/nn (/punct dac/nn )/punct for/in direct/jj digital/jj modulation/nn is/vbz addressed/vbn in/in this/dt paper/nn ./punct
+a/dt new/jj type/nn of/in switching/nn scheme/nn ,/punct called/vbn differential-quad/jj switching/nn ,/punct is/vbz presented/vbn ./punct
+to/to verify/vb the/dt feasibility/nn of/in this/dt scheme/nn ,/punct essential/jj parts/nns with/in some/dt auxiliary/jj circuitry/nn for/in interfacing/vbg were/vbd fabricated/vbn in/in a/dt 0.8-/cd mu/nn m/nn cmos/nns technology/nn ./punct
+measured/vbn results/nns show/vbp that/in the/dt switching/nn scheme/nn provides/vbz 11-b/jj resolution/nn at/in 100/cd msamples/s/nns and/cc 6-b/jj at/in 1/cd gsamples/s/nn ./punct
+the/dt degradation/nn in/in signal-to-noise/jj ratio/nn is/vbz not/rb observed/vbn for/in the/dt variation/nn of/in the/dt supply/nn voltage/nn down/in to/to 1.5/cd v/nn ,/punct which/wdt means/vbz the/dt proposed/vbn scheme/nn is/vbz suitable/jj for/in low-voltage/jj applications/nns ./punct

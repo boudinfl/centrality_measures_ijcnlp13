@@ -1,0 +1,9 @@
+fitting/jj mixed-effects/nns models/nns for/in repeated/vbn ordinal/jj outcomes/nns with/in the/dt nlmixed/nnp procedure/nn ./punct
+this/dt paper/nn presents/vbz an/dt analysis/nn of/in repeated/vbn ordinal/jj outcomes/nns arising/vbg from/in two/cd psychological/jj studies/nns ./punct
+the/dt first/jj case/nn is/vbz a/dt repeated/vbn measures/nns analysis/nn of/in variance/nn ;/punct the/dt second/jj is/vbz a/dt mixed-effects/jj regression/nn ./punct
+in/in a/dt longitudinal/jj design/nn ./punct
+in/in both/dt ,/punct the/dt subject-specific/jj variation/nn is/vbz modeled/vbn by/in including/vbg random/jj effects/nns in/in the/dt linear/jj predictor/nn (/punct inside/in a/dt link/nn function/nn )/punct of/in a/dt generalized/vbn linear/jj model/nn ./punct
+the/dt nlmixed/nnp procedure/nn in/in sas/nnp is/vbz used/vbn to/to fit/vb the/dt mixed-effects/jj models/nns for/in the/dt categorical/jj response/nn data/nns ./punct
+the/dt presentation/nn emphasizes/vbz the/dt parallel/nn between/in the/dt model/nn ./punct
+specifications/nns and/cc the/dt sas/nnp statements/nns ./punct
+the/dt purpose/nn of/in this/dt paper/nn is/vbz to/to facilitate/vb the/dt use/nn of/in mixed-effects/jj models/nns in/in the/dt analysis/nn of/in repeated/vbn ordinal/jj outcomes/nns ./punct

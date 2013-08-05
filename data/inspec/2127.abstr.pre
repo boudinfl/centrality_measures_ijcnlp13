@@ -1,0 +1,5 @@
+system/nnp embedding/nn ./punct
+polynomial/jj equations/nns ./punct
+the/dt class/nn of/in solutions/nns of/in the/dt polynomial/jj equations/nns including/vbg their/prp$ generalizations/nns in/in the/dt form/nn of/in the/dt bezout/nnp matrix/nn identities/nns was/vbd constructed/vbn analytically/rb using/vbg the/dt technology/nn of/in constructive/jj system/nn embedding/nn ./punct
+the/dt structure/nn of/in a/dt solution/nn depends/vbz on/in the/dt number/nn of/in steps/nns of/in the/dt euclidean/jj algorithm/nn and/cc is/vbz obtained/vbn explicitly/rb by/in appropriate/jj substitutions/nns ./punct
+illustrative/jj and/cc descriptive/jj examples/nns are/vbp presented/vbn ./punct

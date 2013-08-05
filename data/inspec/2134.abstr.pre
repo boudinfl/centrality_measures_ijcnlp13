@@ -1,0 +1,6 @@
+linear/jj models/nns of/in circuits/nns based/vbn on/in the/dt multivalued/jj components/nns ./punct
+linearization/nn and/cc planarization/nn of/in the/dt circuit/nn models/nns is/vbz pivotal/jj to/to the/dt submicron/nn technologies/nns ./punct
+on/in the/dt other/jj hand/nn ,/punct the/dt characteristics/nns of/in the/dt vlsi/nnp circuits/nns can/md be/vb sometimes/rb improved/vbn by/in using/vbg the/dt multivalued/jj components/nns ./punct
+it/prp was/vbd shown/vbn that/in any/dt l-level/jj circuit/nn based/vbn on/in the/dt multivalued/jj components/nns is/vbz representable/jj as/in an/dt algebraic/jj model/nn based/vbn on/in l/nn linear/jj arithmetic/nn polynomials/nns mapped/vbd correspondingly/rb into/in l/nn decision/nn diagrams/nns that/wdt are/vbp linear/jj and/cc planar/jj by/in nature/nn ./punct
+complexity/nn of/in representing/vbg a/dt circuit/nn as/in the/dt linear/jj decision/nn diagram/nn was/vbd estimated/vbn as/in o/nn (/punct g/nn )/punct with/in g/nn for/in the/dt number/nn of/in multivalued/jj components/nns in/in the/dt circuit/nn ./punct
+the/dt results/nns of/in testing/vbg the/dt lineardesignmv/nn algorithm/nn on/in circuits/nns of/in more/jjr than/in 8000/cd lgsynth/nn 93/cd multivalued/jj components/nns were/vbd presented/vbn ./punct

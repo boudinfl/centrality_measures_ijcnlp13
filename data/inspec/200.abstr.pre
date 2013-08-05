@@ -1,0 +1,7 @@
+preintegration/nnp lateral/jj inhibition/nn enhances/vbz unsupervised/jj learning/nn ./punct
+a/dt large/jj and/cc influential/jj class/nn of/in neural/jj network/nn architectures/nns uses/vbz postintegration/nn lateral/jj inhibition/nn as/in a/dt mechanism/nn for/in competition/nn ./punct
+we/prp argue/vbp that/in these/dt algorithms/nns are/vbp computationally/rb deficient/jj in/in that/in they/prp fail/vbp to/to generate/vb ,/punct or/cc learn/vb ,/punct appropriate/jj perceptual/jj representations/nns under/in certain/jj circumstances/nns ./punct
+an/dt alternative/jj neural/jj network/nn architecture/nn is/vbz presented/vbn here/rb in/in which/wdt nodes/nns compete/vbp for/in the/dt right/nn to/to receive/vb inputs/nns rather/rb than/in for/in the/dt right/nn to/to generate/vb outputs/nns ./punct
+this/dt form/nn of/in competition/nn ,/punct implemented/vbd through/in preintegration/nn lateral/jj inhibition/nn ,/punct does/vbz provide/vb appropriate/jj coding/vbg properties/nns and/cc can/md be/vb used/vbn to/to learn/vb such/jj representations/nns efficiently/rb ./punct
+furthermore/rb ,/punct this/dt architecture/nn is/vbz consistent/jj with/in both/cc neuroanatomical/jj and/cc neuropsychological/jj data/nns ./punct
+we/prp thus/rb argue/vbp that/in preintegration/nn lateral/jj inhibition/nn has/vbz computational/jj advantages/nns over/in conventional/jj neural/jj network/nn architectures/nns while/in remaining/vbg equally/rb biologically/rb plausible/jj ./punct

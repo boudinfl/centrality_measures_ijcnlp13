@@ -1,0 +1,12 @@
+genetic/jj algorithm/nn guided/vbd selection/nn :/punct variable/jj selection/nn and/cc subset/nn selection/nn ./punct
+a/dt novel/jj genetic/jj algorithm/nn guided/vbd selection/nn method/nn ,/punct gas/nn ,/punct has/vbz been/vbn described/vbn ./punct
+the/dt method/nn utilizes/vbz a/dt simple/jj encoding/vbg scheme/nn which/wdt can/md represent/vb both/dt compounds/nns and/cc variables/nns used/vbn to/to construct/vb a/dt qsar/qspr/nn model/nn ./punct
+a/dt genetic/jj algorithm/nn is/vbz then/rb utilized/vbn to/to simultaneously/rb optimize/vb the/dt encoded/vbn variables/nns that/wdt include/vbp both/dt descriptors/nns and/cc compound/nn subsets/nns ./punct
+the/dt gas/nn method/nn generates/vbz multiple/jj models/nns each/dt applying/vbg to/to a/dt subset/nn of/in the/dt compounds/nns ./punct
+typically/rb the/dt subsets/nns represent/vbp clusters/nns with/in different/jj chemotypes/nns ./punct
+also/rb a/dt procedure/nn based/vbn on/in molecular/jj similarity/nn is/vbz presented/vbn to/to determine/vb which/wdt model/nn should/md be/vb applied/vbn to/to a/dt given/vbn test/nn set/nn compound/nn ./punct
+the/dt variable/jj selection/nn method/nn implemented/vbn in/in gas/nn has/vbz been/vbn tested/vbn and/cc compared/vbn using/vbg the/dt selwood/nnp data/nns set/vbd (/punct n/nn =/punct 31/cd compounds/nns ;/punct nu/nn =/punct 53/cd descriptors/nns )/punct ./punct
+the/dt results/nns showed/vbd that/in the/dt method/nn is/vbz comparable/jj to/to other/jj published/vbn methods/nns ./punct
+the/dt subset/nn selection/nn method/nn implemented/vbn in/in gas/nn has/vbz been/vbn first/rb tested/vbn using/vbg an/dt artificial/jj data/nn set/nn (/punct n/nn =/punct 100/cd points/nns ;/punct nu/nn =/punct 1/cd descriptor/nn )/punct to/to examine/vb its/prp$ ability/nn to/to subset/nn data/nns points/nns and/cc second/jj applied/vbn to/to analyze/vb the/dt xlogp/nnp data/nns set/vbd (/punct n/nn =/punct 1831/cd compounds/nns ;/punct nu/nn =/punct 126/cd descriptors/nns )/punct ./punct
+the/dt method/nn is/vbz able/jj to/to correctly/rb identify/vb artificial/jj data/nns points/nns belonging/vbg to/to various/jj subsets/nns ./punct
+the/dt analysis/nn of/in the/dt xlogp/nnp data/nn set/nn shows/vbz that/in the/dt subset/nn selection/nn method/nn can/md be/vb useful/jj in/in improving/vbg a/dt qsar/qspr/nn model/nn when/wrb the/dt variable/jj selection/nn method/nn fails/vbz ./punct

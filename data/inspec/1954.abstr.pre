@@ -1,0 +1,10 @@
+estimating/vbg long-range/jj dependence/nn :/punct finite/jj sample/nn properties/nns and/cc confidence/nn intervals/nns ./punct
+a/dt major/jj issue/nn in/in financial/jj economics/nns is/vbz the/dt behavior/nn of/in asset/nn returns/nns over/in long/jj horizons/nns ./punct
+various/jj estimators/nns of/in long-range/jj dependence/nn have/vbp been/vbn proposed/vbn ./punct
+even/rb though/in some/dt have/vbp known/vbn asymptotic/jj properties/nns ,/punct it/prp is/vbz important/jj to/to test/vb their/prp$ accuracy/nn by/in using/vbg simulated/jj series/nn of/in different/jj lengths/nns ./punct
+we/prp test/vbp r/s/nn analysis/nn ,/punct detrended/jj fluctuation/nn analysis/nn and/cc periodogram/nn regression/nn methods/nns on/in samples/nns drawn/vbn from/in gaussian/jj white/jj noise/nn ./punct
+the/dt dfa/nnp statistics/nns turns/vbz out/rp to/to be/vb the/dt unanimous/jj winner/nn ./punct
+unfortunately/rb ,/punct no/dt asymptotic/jj distribution/nn theory/nn has/vbz been/vbn derived/vbn for/in this/dt statistics/nns so/rb far/rb ./punct
+we/prp were/vbd able/jj ,/punct however/rb ,/punct to/to construct/vb empirical/jj (/punct i.e/nn ./punct
+approximate/jj )/punct confidence/nn intervals/nns for/in all/dt three/cd methods/nns ./punct
+the/dt obtained/vbn values/nns differ/vbp largely/rb from/in heuristic/nn values/nns proposed/vbn by/in some/dt authors/nns for/in the/dt r/s/nn statistics/nns and/cc are/vbp very/rb close/jj to/to asymptotic/jj values/nns for/in the/dt periodogram/nn regression/nn method/nn ./punct

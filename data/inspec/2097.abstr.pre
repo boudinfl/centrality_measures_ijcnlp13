@@ -1,0 +1,5 @@
+an/dt algorithm/nn to/to generate/vb all/dt spanning/vbg trees/nns with/in flow/nn ./punct
+spanning/vbg tree/nn enumeration/nn in/in undirected/jj graphs/nns is/vbz an/dt important/jj issue/nn and/cc task/nn in/in many/jj problems/nns encountered/vbn in/in computer/nn network/nn and/cc circuit/nn analysis/nn ./punct
+this/dt paper/nn discusses/vbz the/dt spanning/vbg tree/nn with/in flow/nn for/in the/dt case/nn that/in there/ex are/vbp flow/nn requirements/nns between/in each/dt node/nn pair/nn ./punct
+an/dt algorithm/nn based/vbn on/in minimal/jj paths/nns (/punct mps/nns )/punct is/vbz proposed/vbn to/to generate/vb all/dt spanning/vbg trees/nns without/in flow/nn ./punct
+the/dt proposed/vbn algorithm/nn is/vbz a/dt structured/jj approach/nn ,/punct which/wdt splits/vbz the/dt system/nn into/in structural/jj mps/nns first/rb ,/punct and/cc also/rb all/dt steps/nns in/in it/prp are/vbp easy/jj to/to follow/vb ./punct

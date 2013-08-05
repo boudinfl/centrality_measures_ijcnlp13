@@ -1,0 +1,9 @@
+lung/nn metastasis/nn detection/nn and/cc visualization/nn on/in ct/nn images/nns :/punct a/dt knowledge-based/jj method/nn ./punct
+a/dt solution/nn to/to the/dt problem/nn of/in lung/nn metastasis/nn detection/nn on/in computed/jj tomography/nn (/punct ct/nn )/punct scans/nns of/in the/dt thorax/nn is/vbz presented/vbn ./punct
+a/dt knowledge-based/jj top-down/jj approach/nn for/in image/nn interpretation/nn is/vbz used/vbn ./punct
+the/dt method/nn is/vbz inspired/vbn by/in the/dt manner/nn in/in which/wdt a/dt radiologist/nn and/cc radiotherapist/nn interpret/vb ct/nn images/nns before/in radiotherapy/nn is/vbz planned/vbn ./punct
+a/dt two-dimensional/jj followed/vbn by/in a/dt three-dimensional/jj analysis/nn is/vbz performed/vbn ./punct
+the/dt algorithm/nn first/rb detects/vbz the/dt thorax/nn contour/nn ,/punct the/dt lungs/nns and/cc the/dt ribs/nns ,/punct which/wdt further/rb help/vbp the/dt detection/nn of/in metastases/nns ./punct
+thus/rb ,/punct two/cd types/nns of/in tumors/nns are/vbp detected/vbn :/punct nodules/nns and/cc metastases/nns located/vbn at/in the/dt lung/nn extremities/nns ./punct
+a/dt method/nn to/to visualize/vb the/dt anatomical/jj structures/nns segmented/jj is/vbz also/rb presented/vbn ./punct
+the/dt system/nn was/vbd tested/vbn on/in 20/cd patients/nns (/punct 988/cd total/jj images/nns )/punct from/in the/dt oncology/nnp department/nnp of/in la/nnp chaux-de-fonds/nnp hospital/nnp and/cc the/dt results/nns show/vbp that/in the/dt method/nn is/vbz reliable/jj as/in a/dt computer-aided/jj diagnostic/jj tool/nn for/in clinical/jj purpose/nn in/in an/dt oncology/nn department/nn ./punct

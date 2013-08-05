@@ -1,0 +1,5 @@
+optical/nnp encoding/nn of/in color/nn three-dimensional/jj correlation/nn ./punct
+three-dimensional/jj (/punct 3d/nn )/punct correlation/nn of/in color/nn images/nns ,/punct considering/vbg the/dt color/nn distribution/nn as/in the/dt third/jj dimension/nn ,/punct has/vbz been/vbn shown/vbn to/to be/vb useful/jj for/in color/nn pattern/nn recognition/nn tasks/nns ./punct
+nevertheless/rb ,/punct 3d/nn correlation/nn can/md not/rb be/vb directly/rb performed/vbn on/in an/dt optical/jj correlator/nn ,/punct that/wdt can/md only/rb process/vb two-dimensional/jj (/punct 2d/nn )/punct signals/nns ./punct
+we/prp propose/vbp a/dt method/nn to/to encode/vb 3d/nn functions/nns onto/in 2d/nn ones/nns in/in such/jj a/dt way/nn that/in the/dt fourier/nn transform/vb and/cc correlation/nn of/in these/dt signals/nns ,/punct that/wdt can/md be/vb optically/rb performed/vbn ,/punct encode/vbp the/dt 3d/nnp fourier/nn transform/vb and/cc correlation/nn of/in the/dt 3d/nn signals/nns ./punct
+the/dt theory/nn for/in the/dt encoding/nn is/vbz given/vbn and/cc experimental/jj results/nns obtained/vbn in/in an/dt optical/jj correlator/nn are/vbp shown/vbn ./punct

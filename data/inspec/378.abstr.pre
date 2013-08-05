@@ -1,0 +1,7 @@
+incremental/jj motion/nn control/nn of/in linear/jj synchronous/jj motor/nn ./punct
+in/in this/dt study/nn a/dt particular/jj incremental/jj motion/nn control/nn problem/nn ,/punct which/wdt is/vbz specified/vbn by/in the/dt trapezoidal/jj velocity/nn profile/nn using/vbg multisegment/jj sliding/vbg mode/nn control/nn (/punct mssmc/nn )/punct ,/punct is/vbz proposed/vbn to/to control/vb a/dt permanent/jj magnet/nn linear/jj synchronous/jj motor/nn (/punct pmlsm/nn )/punct servo/nn drive/nn system/nn ./punct
+first/rb ,/punct the/dt structure/nn and/cc operating/vbg principle/nn of/in the/dt pmlsm/nnp are/vbp described/vbn in/in detail/nn ./punct
+second/rb ,/punct a/dt field-oriented/jj control/nn pmlsm/nn servo/nn drive/nn is/vbz introduced/vbn ./punct
+then/rb ,/punct each/dt segment/nn of/in the/dt multisegment/nn switching/nn surfaces/nns is/vbz designed/vbn to/to match/vb the/dt corresponding/jj part/nn of/in the/dt trapezoidal/jj velocity/nn profile/nn ,/punct thus/rb the/dt motor/nn dynamics/nns on/in the/dt specified-segment/nn switching/nn surface/nn have/vbp the/dt desired/vbn velocity/nn or/cc acceleration/nn corresponding/jj part/nn of/in the/dt trapezoidal/jj velocity/nn profile/nn ./punct
+in/in addition/nn ,/punct the/dt proposed/vbn control/nn system/nn is/vbz implemented/vbn in/in a/dt pc-based/jj computer/nn control/nn system/nn ./punct
+finally/rb ,/punct the/dt effectiveness/nn of/in the/dt proposed/vbn pmlsm/nn servo/nn drive/nn system/nn is/vbz demonstrated/vbn by/in some/dt simulated/jj and/cc experimental/jj results/nns ./punct

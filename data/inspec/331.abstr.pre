@@ -1,0 +1,8 @@
+multidimensional/jj data/nns visualization/nn ./punct
+historically/nnp ,/punct data/nns visualization/nn has/vbz been/vbn limited/vbn primarily/rb to/to two/cd dimensions/nns (/punct e.g./fw ,/punct histograms/nns or/cc scatter/vb plots/nns )/punct ./punct
+available/jj software/nn packages/nns (/punct e.g./fw ,/punct data/nnp desk/nnp 6.1/cd ,/punct matlab/nnp 6.1/cd ,/punct sas-jmp/nn 4.04/cd ,/punct spss/nnp 10.0/cd )/punct are/vbp capable/jj of/in producing/vbg three-dimensional/jj scatter/nn plots/nns with/in (/punct varying/vbg degrees/nns of/in )/punct user/nn interactivity/nn ./punct
+we/prp constructed/vbd our/prp$ own/jj data/nns visualization/nn application/nn with/in the/dt visualization/nn toolkit/nn (/punct schroeder/nnp et/fw al./fw ,/punct 1998/cd )/punct and/cc tcl/tk/nn to/to display/vb multivariate/jj data/nns through/in the/dt application/nn of/in glyphs/nns (/punct ware/nnp ,/punct 2000/cd )/punct ./punct
+a/dt glyph/nn is/vbz a/dt visual/jj object/nn onto/in which/wdt many/jj data/nns parameters/nns may/md be/vb mapped/vbn ,/punct each/dt with/in a/dt different/jj visual/jj attribute/nn (/punct e.g./fw ,/punct size/nn or/cc color/nn )/punct ./punct
+we/prp used/vbd our/prp$ multi-dimensional/jj data/nns viewer/nn to/to explore/vb data/nns from/in several/jj psycholinguistic/jj experiments/nns ./punct
+the/dt graphical/jj interface/nn provides/vbz flexibility/nn when/wrb users/nns dynamically/rb explore/vbp the/dt multidimensional/jj image/nn rendered/vbn from/in raw/jj experimental/jj data/nns ./punct
+we/prp highlight/vbp advantages/nns of/in multidimensional/jj data/nns visualization/nn and/cc consider/vb some/dt potential/jj limitations/nns ./punct

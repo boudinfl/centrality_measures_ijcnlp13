@@ -1,0 +1,6 @@
+generalized/nnp predictive/jj control/nn for/in non-uniformly/jj sampled/vbn systems/nns ./punct
+in/in this/dt paper/nn ,/punct we/prp study/vbp digital/jj control/nn systems/nns with/in non-uniform/jj updating/vbg and/cc sampling/nn patterns/nns ,/punct which/wdt include/vbp multirate/jj sampled-data/jj systems/nns as/in special/jj cases/nns ./punct
+we/prp derive/vbp lifted/vbn models/nns in/in the/dt state-space/jj domain/nn ./punct
+the/dt main/jj obstacle/nn for/in generalized/vbn predictive/jj control/nn (/punct gpc/nn )/punct design/nn using/vbg the/dt lifted/vbn models/nns is/vbz the/dt so-called/jj causality/nn constraint/nn ./punct
+taking/vbg into/in account/nn this/dt design/nn constraint/nn ,/punct we/prp propose/vbp a/dt new/jj gpc/nnp algorithm/nn ,/punct which/wdt results/vbz in/in optimal/jj causal/jj control/nn laws/nns for/in the/dt non-uniformly/jj sampled/vbn systems/nns ./punct
+the/dt solution/nn applies/vbz immediately/rb to/to multirate/vb sampled-data/jj systems/nns where/wrb rates/nns are/vbp integer/nn multiples/nns of/in some/dt base/nn period/nn ./punct

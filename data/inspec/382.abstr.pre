@@ -1,0 +1,11 @@
+robust/jj wavelet/nn neuro/nn control/nn for/in linear/jj brushless/jj motors/nns ./punct
+design/nn ,/punct simulation/nn and/cc experimental/jj implementation/nn of/in a/dt wavelet/nn basis/nn function/nn network/nn learning/vbg controller/nn for/in linear/jj brushless/nn dc/nn motors/nns (/punct lbdcm/nn )/punct are/vbp considered/vbn ./punct
+stability/nn robustness/nn with/in position/nn tracking/nn is/vbz the/dt primary/jj concern/nn ./punct
+the/dt proposed/jj controller/nn deals/nns mainly/rb with/in external/jj disturbances/nns ,/punct e.g/nn ./punct
+nonlinear/jj friction/nn force/nn and/cc payload/nn variation/nn in/in motion/nn control/nn of/in linear/jj motors/nns ./punct
+it/prp consists/vbz of/in two/cd parts/nns ,/punct one/cd is/vbz a/dt state/nn feedback/nn component/nn ,/punct and/cc the/dt other/jj one/cd is/vbz a/dt learning/nn feedback/nn component/nn ./punct
+the/dt state/nn feedback/nn controller/nn is/vbz designed/vbn on/in the/dt basis/nn of/in a/dt simple/jj linear/jj model/nn ,/punct and/cc the/dt learning/nn feedback/nn component/nn is/vbz a/dt wavelet/nn neural/jj controller/nn ./punct
+the/dt attenuation/nn effect/nn of/in wavelet/nn neural/jj networks/nns on/in friction/nn force/nn is/vbz first/jj verified/vbn by/in the/dt numerical/jj method/nn ./punct
+the/dt learning/nn effect/nn of/in wavelet/nn neural/jj networks/nns on/in friction/nn force/nn is/vbz also/rb shown/vbn in/in the/dt numerical/jj results/nns ./punct
+then/rb ,/punct a/dt wavelet/nn neural/jj network/nn is/vbz applied/vbn on/in a/dt real/jj lbdcm/nn to/to on-line/jj suppress/vbp the/dt friction/nn force/nn ,/punct which/wdt may/md be/vb variable/jj due/jj to/to the/dt different/jj lubrication/nn ./punct
+the/dt effectiveness/nn of/in the/dt proposed/vbn control/nn schemes/nns is/vbz demonstrated/vbn by/in simulated/jj and/cc experimental/jj results/nns ./punct

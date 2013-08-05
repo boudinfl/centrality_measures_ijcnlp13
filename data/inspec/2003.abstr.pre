@@ -1,0 +1,8 @@
+nonlinear/jj modeling/nn and/cc adaptive/jj fuzzy/jj control/nn of/in mcfc/nn stack/vbp ./punct
+to/to improve/vb availability/nn and/cc performance/nn of/in fuel/nn cells/nns ,/punct the/dt operating/nn temperature/nn of/in the/dt molten/jj carbonate/nn fuel/nn cells/nns (/punct mcfc/nn )/punct stack/vbp should/md be/vb controlled/vbn within/in a/dt specified/vbn range/nn ./punct
+however/rb ,/punct most/jjs existing/vbg models/nns of/in mcfc/nn are/vbp not/rb ready/jj to/to be/vb applied/vbn in/in synthesis/nn ./punct
+in/in the/dt paper/nn ,/punct a/dt radial/jj basis/nn function/nn neural/jj networks/nns identification/nn model/nn of/in a/dt mcfc/nn stack/vbp is/vbz developed/vbn based/vbn on/in the/dt input-output/jj sampled/vbn data/nns ./punct
+an/dt adaptive/jj fuzzy/jj control/nn procedure/nn for/in the/dt temperature/nn of/in the/dt mcfc/nn stack/vbp is/vbz also/rb developed/vbn ./punct
+the/dt parameters/nns of/in the/dt fuzzy/jj control/nn system/nn are/vbp regulated/vbn by/in back-propagation/jj algorithm/nn ,/punct and/cc the/dt rule/nn database/nn of/in the/dt fuzzy/jj system/nn is/vbz also/rb adaptively/rb adjusted/vbn by/in the/dt nearest-neighbor-clustering/jj algorithm/nn ./punct
+finally/rb using/vbg the/dt neural/jj networks/nns model/nn of/in mcfc/nn stack/vbp ,/punct the/dt simulation/nn results/nns of/in the/dt control/nn algorithm/nn are/vbp presented/vbn ./punct
+the/dt results/nns show/vbp the/dt effectiveness/nn of/in the/dt proposed/vbn modeling/nn and/cc design/nn procedures/nns for/in the/dt mcfc/nn stack/vbp based/vbn on/in neural/jj networks/nns identification/nn and/cc the/dt novel/jj adaptive/jj fuzzy/jj control/nn ./punct

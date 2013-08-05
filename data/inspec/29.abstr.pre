@@ -1,0 +1,10 @@
+fuzzy/jj polynomial/jj neural/jj networks/nns :/punct hybrid/jj architectures/nns of/in fuzzy/jj modeling/nn ./punct
+we/prp introduce/vbp a/dt concept/nn of/in fuzzy/jj polynomial/jj neural/jj networks/nns (/punct fpnns/nns )/punct ,/punct a/dt hybrid/nn modeling/nn architecture/nn combining/vbg polynomial/jj neural/jj networks/nns (/punct pnns/nns )/punct and/cc fuzzy/jj neural/jj networks/nns (/punct fnns/nns )/punct ./punct
+the/dt development/nn of/in the/dt fpnns/nns dwells/nns on/in the/dt technologies/nns of/in computational/jj intelligence/nn (/punct ci/nn )/punct ,/punct namely/rb fuzzy/jj sets/nns ,/punct neural/jj networks/nns ,/punct and/cc genetic/jj algorithms/nns ./punct
+the/dt structure/nn of/in the/dt fpnn/nn results/vbz from/in a/dt synergistic/jj usage/nn of/in fnn/nnp and/cc pnn/nnp ./punct
+fnns/nns contribute/vbp to/to the/dt formation/nn of/in the/dt premise/nn part/nn of/in the/dt rule-based/jj structure/nn of/in the/dt fpnn/nnp ./punct
+the/dt consequence/nn part/nn of/in the/dt fpnn/nnp is/vbz designed/vbn using/vbg pnns/nns ./punct
+the/dt structure/nn of/in the/dt pnn/nn is/vbz not/rb fixed/vbn in/in advance/nn as/in it/prp usually/rb takes/vbz place/nn in/in the/dt case/nn of/in conventional/jj neural/jj networks/nns ,/punct but/cc becomes/vbz organized/jj dynamically/rb to/to meet/vb the/dt required/vbn approximation/nn error/nn ./punct
+we/prp exploit/vbp a/dt group/nn method/nn of/in data/nns handling/vbg (/punct gmdh/nn )/punct to/to produce/vb this/dt dynamic/jj topology/nn of/in the/dt network/nn ./punct
+the/dt performance/nn of/in the/dt fpnn/nnp is/vbz quantified/vbn through/in experimentation/nn that/wdt exploits/vbz standard/jj data/nns already/rb used/vbn in/in fuzzy/jj modeling/nn ./punct
+the/dt obtained/vbn experimental/jj results/nns reveal/vbp that/in the/dt proposed/vbn networks/nns exhibit/vbp high/jj accuracy/nn and/cc generalization/nn capabilities/nns in/in comparison/nn to/to other/jj similar/jj fuzzy/jj models/nns ./punct

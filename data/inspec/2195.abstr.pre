@@ -1,0 +1,7 @@
+modeling/vbg privacy/nn control/nn in/in context-aware/jj systems/nns ./punct
+significant/jj complexity/nn issues/nns challenge/vbp designers/nns of/in context-aware/jj systems/nns with/in privacy/nn control/nn ./punct
+information/nnp spaces/nns provide/vbp a/dt way/nn to/to organize/vb information/nn ,/punct resources/nns ,/punct and/cc services/nns around/in important/jj privacy-relevant/jj contextual/jj factors/nns ./punct
+in/in this/dt article/nn ,/punct we/prp describe/vbp a/dt theoretical/jj model/nn for/in privacy/nn control/nn in/in context-aware/jj systems/nns based/vbn on/in a/dt core/nn abstraction/nn of/in information/nn spaces/nns ./punct
+we/prp have/vbp previously/rb focused/vbn on/in deriving/vbg socially/rb based/vbn privacy/nn objectives/nns in/in pervasive/jj computing/nn environments/nns ./punct
+building/nn on/in ravi/nnp sandhu/nnp 's/pos four-layer/jj om-am/nn (/punct objectives/nns ,/punct models/nns ,/punct architectures/nns ,/punct and/cc mechanisms/nns )/punct idea/nn ,/punct we/prp aim/vbp to/to use/vb information/nn spaces/nns to/to construct/vb a/dt model/nn for/in privacy/nn control/nn that/wdt supports/vbz our/prp$ socially/rb based/vbn privacy/nn objectives/nns ./punct
+we/prp also/rb discuss/vbp how/wrb we/prp can/md introduce/vb decentralization/nn ,/punct a/dt desirable/jj property/nn for/in many/jj pervasive/jj computing/nn systems/nns ,/punct into/in our/prp$ information/nn space/nn model/nn ,/punct using/vbg unified/jj privacy/nn tagging/nn ./punct

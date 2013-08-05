@@ -1,0 +1,6 @@
+one-step/jj digit-set-restricted/jj modified/vbn signed-digit/jj adder/nn using/vbg an/dt incoherent/jj correlator/nn based/vbn on/in a/dt shared/jj content-addressable/jj memory/nn ./punct
+an/dt efficient/jj one-step/jj digit-set-restricted/jj modified/vbn signed-digit/nn (/punct msd/nn )/punct adder/nn based/vbn on/in symbolic/jj substitution/nn is/vbz presented/vbn ./punct
+in/in this/dt technique/nn ,/punct carry/vbp propagation/nn is/vbz avoided/vbn by/in introducing/vbg reference/nn digits/nns to/to restrict/vb the/dt intermediate/jj carry/vbp and/cc sum/vbp digits/nns to/to {/punct 1,0/cd }/punct and/cc {/punct 0,1/cd }/punct ,/punct respectively/rb ./punct
+the/dt proposed/vbn technique/nn requires/vbz significantly/rb fewer/jjr minterms/nns and/cc simplifies/vbz system/nn complexity/nn compared/vbn to/to the/dt reported/vbn one-step/jj msd/nn addition/nn techniques/nns ./punct
+an/dt incoherent/jj correlator/nn based/vbn on/in an/dt optoelectronic/jj shared/jj content-addressable/jj memory/nn processor/nn is/vbz suggested/vbn to/to perform/vb the/dt addition/nn operation/nn ./punct
+in/in this/dt technique/nn ,/punct only/rb one/cd set/nn of/in minterms/nns needs/vbz to/to be/vb stored/vbn ,/punct independent/jj of/in the/dt operand/nn length/nn ./punct

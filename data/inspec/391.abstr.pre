@@ -1,0 +1,8 @@
+model/nnp selection/nn in/in electromagnetic/jj source/nn analysis/nn with/in an/dt application/nn to/to vefs/nns ./punct
+in/in electromagnetic/jj source/nn analysis/nn ,/punct it/prp is/vbz necessary/jj to/to determine/vb how/wrb many/jj sources/nns are/vbp required/vbn to/to describe/vb the/dt electroencephalogram/nn or/cc magnetoencephalogram/nn adequately/rb ./punct
+model/nnp selection/nn procedures/nns (/punct msps/nns )/punct or/cc goodness/nn of/in fit/jj procedures/nns give/vbp an/dt estimate/nn of/in the/dt required/vbn number/nn of/in sources/nns ./punct
+existing/vbg and/cc new/jj msps/nns are/vbp evaluated/vbn in/in different/jj source/nn and/cc noise/nn settings/nns :/punct two/cd sources/nns which/wdt are/vbp close/jj or/cc distant/jj and/cc noise/nn which/wdt is/vbz uncorrelated/jj or/cc correlated/vbn ./punct
+the/dt commonly/rb used/vbn msp/nnp residual/jj variance/nn is/vbz seen/vbn to/to be/vb ineffective/jj ,/punct that/dt is/vbz it/prp often/rb selects/vbz too/rb many/jj sources/nns ./punct
+alternatives/nnp like/in the/dt adjusted/vbn hotelling/nnp 's/pos test/nn ,/punct bayes/nnp information/nn criterion/nn and/cc the/dt wald/nnp test/nn on/in source/nn amplitudes/nns are/vbp seen/vbn to/to be/vb effective/jj ./punct
+the/dt adjusted/jj hotelling/nnp 's/pos test/nn is/vbz recommended/vbn if/in a/dt conservative/jj approach/nn is/vbz taken/vbn and/cc msps/nns such/jj as/in bayes/nnp information/nn criterion/nn or/cc the/dt wald/nnp test/nn on/in source/nn amplitudes/nns are/vbp recommended/vbn if/in a/dt more/rbr liberal/jj approach/nn is/vbz desirable/jj ./punct
+the/dt msps/nns are/vbp applied/vbn to/to empirical/jj data/nns (/punct visual/jj evoked/vbn fields/nns )/punct ./punct

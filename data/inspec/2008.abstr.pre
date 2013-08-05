@@ -1,0 +1,7 @@
+building/nn 3d/nn anatomical/jj scenes/nns on/in the/dt web/nn ./punct
+we/prp propose/vbp a/dt new/jj service/nn for/in building/vbg user-defined/jj 3d/nn anatomical/jj structures/nns on/in the/dt web/nn ./punct
+the/dt web/nn server/nn is/vbz connected/vbn to/to a/dt database/nn storing/vbg more/jjr than/in 1000/cd 3d/nn anatomical/jj models/nns reconstructed/vbn from/in the/dt visible/nnp human/nnp ./punct
+users/nns may/md combine/vb existing/vbg models/nns as/rb well/rb as/in planar/jj oblique/jj slices/nns in/in order/nn to/to create/vb their/prp$ own/jj structured/jj anatomical/jj scenes/nns ./punct
+furthermore/rb ,/punct they/prp may/md record/vb sequences/nns of/in scene/nn construction/nn and/cc visualization/nn actions/nns ./punct
+these/dt actions/nns enable/vbp the/dt server/nn to/to construct/vb high-quality/jj video/nn animations/nns ,/punct downloadable/jj by/in the/dt user/nn ./punct
+professionals/nns and/cc students/nns in/in anatomy/nn ,/punct medicine/nn and/cc related/jj disciplines/nns are/vbp invited/vbn to/to use/vb the/dt server/nn and/cc create/vb their/prp$ own/jj anatomical/jj scenes/nns ./punct

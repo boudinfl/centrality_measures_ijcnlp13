@@ -1,0 +1,8 @@
+toward/in an/dt experimental/jj timing/nn standards/nnp lab/nnp :/punct benchmarking/vbg precision/nn in/in the/dt real/jj world/nn ./punct
+much/jj discussion/nn has/vbz taken/vbn place/nn over/in the/dt relative/jj merits/nns of/in various/jj platforms/nns and/cc operating/vbg systems/nns for/in real-time/jj data/nns collection/nn ./punct
+most/jjs would/md agree/vb that/in ,/punct provided/vbn great/jj care/nn is/vbz taken/vbn ,/punct many/jj are/vbp capable/jj of/in millisecond/jj timing/nn precision/nn ./punct
+however/rb ,/punct to/to date/nn ,/punct much/rb of/in this/dt work/nn has/vbz focused/vbn on/in the/dt theoretical/jj aspects/nns of/in raw/jj performance/nn ./punct
+it/prp is/vbz our/prp$ belief/nn that/in researchers/nns would/md be/vb better/jjr informed/vbn if/in they/prp could/md place/vb confidence/nn limits/nns on/in their/prp$ own/jj specific/jj paradigms/nns in/fw situ/fw and/cc without/in modification/nn ./punct
+to/to this/dt end/nn ,/punct we/prp have/vbp developed/vbn a/dt millisecond/jj precision/nn test/nn rig/nn that/wdt can/md control/vb and/cc time/nn experiments/nns on/in a/dt second/jj presentation/nn machine/nn ./punct
+we/prp report/vbp on/in the/dt specialist/nn hardware/nn and/cc software/nn used/vbn ./punct
+we/prp elucidate/vbp the/dt importance/nn of/in the/dt approach/nn in/in relation/nn to/to real-world/jj experimentation/nn ./punct

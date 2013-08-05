@@ -1,0 +1,4 @@
+bayesian/jj nonstationary/jj autoregressive/jj models/nns for/in biomedical/jj signal/nn analysis/nn ./punct
+we/prp describe/vbp a/dt variational/jj bayesian/jj algorithm/nn for/in the/dt estimation/nn of/in a/dt multivariate/jj autoregressive/jj model/nn with/in time-varying/jj coefficients/nns that/wdt adapt/vbp according/vbg to/to a/dt linear/jj dynamical/jj system/nn ./punct
+the/dt algorithm/nn allows/vbz for/in time/nn and/cc frequency/nn domain/nn characterization/nn of/in nonstationary/jj multivariate/jj signals/nns and/cc is/vbz especially/rb suited/vbn to/to the/dt analysis/nn of/in event-related/jj data/nns ./punct
+results/nns are/vbp presented/vbn on/in synthetic/jj data/nns and/cc real/jj electroencephalogram/nn data/nns recorded/vbn in/in event-related/jj desynchronization/nn and/cc photic/jj synchronization/nn scenarios/nns ./punct

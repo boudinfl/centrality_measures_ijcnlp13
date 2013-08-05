@@ -1,0 +1,9 @@
+identification/nn of/in evolving/vbg fuzzy/jj rule-based/jj models/nns ./punct
+an/dt approach/nn to/to identification/nn of/in evolving/vbg fuzzy/jj rule-based/jj (/punct er/nn )/punct models/nns is/vbz proposed/vbn ./punct
+er/nn models/nns implement/vbp a/dt method/nn for/in the/dt noniterative/jj update/vbp of/in both/cc the/dt rule-base/nn structure/nn and/cc parameters/nns by/in incremental/jj unsupervised/jj learning/nn ./punct
+the/dt rule-base/nn evolves/vbz by/in adding/vbg more/jjr informative/jj rules/nns than/in those/dt that/wdt previously/rb formed/vbd the/dt model/nn ./punct
+in/in addition/nn ,/punct existing/vbg rules/nns can/md be/vb replaced/vbn with/in new/jj rules/nns based/vbn on/in ranking/nn using/vbg the/dt informative/jj potential/nn of/in the/dt data/nns ./punct
+in/in this/dt way/nn ,/punct the/dt rule-base/nn structure/nn is/vbz inherited/vbn and/cc updated/vbn when/wrb new/jj informative/jj data/nns become/vbp available/jj ,/punct rather/rb than/in being/vbg completely/rb retrained/vbn ./punct
+the/dt adaptive/jj nature/nn of/in these/dt evolving/vbg rule-based/jj models/nns ,/punct in/in combination/nn with/in the/dt highly/rb transparent/jj and/cc compact/jj form/nn of/in fuzzy/jj rules/nns ,/punct makes/vbz them/prp a/dt promising/jj candidate/nn for/in modeling/nn and/cc control/nn of/in complex/jj processes/nns ,/punct competitive/jj to/to neural/jj networks/nns ./punct
+the/dt approach/nn has/vbz been/vbn tested/vbn on/in a/dt benchmark/nn problem/nn and/cc on/in an/dt air-conditioning/jj component/nn modeling/nn application/nn using/vbg data/nns from/in an/dt installation/nn serving/vbg a/dt real/jj building/nn ./punct
+the/dt results/nns illustrate/vbp the/dt viability/nn and/cc efficiency/nn of/in the/dt approach/nn ./punct

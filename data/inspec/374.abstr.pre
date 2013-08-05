@@ -1,0 +1,6 @@
+horizontal/jj waypoint/nn guidance/nn design/nn using/vbg optimal/jj control/nn ./punct
+a/dt horizontal/jj waypoint/nn guidance/nn algorithm/nn is/vbz proposed/vbn by/in applying/vbg line-following/jj guidance/nn to/to waypoint/vb line/nn segments/nns in/in sequence/nn ./punct
+the/dt line-following/jj guidance/nn is/vbz designed/vbn using/vbg an/dt lqr/nn (/punct linear/jj quadratic/jj regulator/nn )/punct ./punct
+then/rb ,/punct the/dt optimal/jj waypoint/nn changing/vbg points/nns are/vbp derived/vbn by/in minimizing/vbg the/dt accelerations/nns required/vbn for/in changing/vbg the/dt waypoint/nn line/nn segments/nns ./punct
+also/rb derived/vbn is/vbz a/dt sufficient/jj condition/nn for/in the/dt stability/nn bound/vbd of/in ground/nn speed/nn changes/nns based/vbn on/in the/dt lyapunov/nnp stability/nn theorem/nn ./punct
+simulation/nn results/nns show/vbp that/in the/dt proposed/vbn algorithm/nn can/md effectively/rb guide/vb a/dt vehicle/nn along/in the/dt sequence/nn of/in waypoint/nn line/nn segments/nns ./punct

@@ -1,0 +1,9 @@
+new/nnp tuning/nn method/nn for/in pid/nnp controller/nn ./punct
+in/in this/dt paper/nn ,/punct a/dt tuning/nn method/nn for/in proportional-integral-derivative/jj (/punct pid/nn )/punct controller/nn and/cc the/dt performance/nn assessment/nn formulas/nns for/in this/dt method/nn are/vbp proposed/vbn ./punct
+this/dt tuning/nn method/nn is/vbz based/vbn on/in a/dt genetic/jj algorithm/nn based/vbn pid/nnp controller/nn design/nn method/nn ./punct
+for/in deriving/vbg the/dt tuning/nn formula/nn ,/punct the/dt genetic/jj algorithm/nn based/vbn design/nn method/nn is/vbz applied/vbn to/to design/vb pid/nnp controllers/nns for/in a/dt variety/nn of/in processes/nns ./punct
+the/dt relationship/nn between/in the/dt controller/nn parameters/nns and/cc the/dt parameters/nns that/wdt characterize/vbp the/dt process/nn dynamics/nns are/vbp determined/vbn and/cc the/dt tuning/nn formula/nn is/vbz then/rb derived/vbn ./punct
+using/vbg simulation/nn studies/nns ,/punct the/dt rules/nns for/in assessing/vbg the/dt performance/nn of/in a/dt pid/nn controller/nn tuned/vbn by/in the/dt proposed/vbn method/nn are/vbp also/rb given/vbn ./punct
+this/dt makes/vbz it/prp possible/jj to/to incorporate/vb the/dt capability/nn to/to determine/vb if/in the/dt pid/nn controller/nn is/vbz well/rb tuned/vbn or/cc not/rb into/in an/dt autotuner/nn ./punct
+an/dt autotuner/nn based/vbn on/in this/dt new/jj tuning/nn method/nn and/cc the/dt corresponding/jj performance/nn assessment/nn rules/nns is/vbz also/rb established/vbn ./punct
+simulations/nns and/cc real-time/jj experimental/jj results/nns are/vbp given/vbn to/to demonstrate/vb the/dt effectiveness/nn and/cc usefulness/nn of/in these/dt formulas/nns ./punct

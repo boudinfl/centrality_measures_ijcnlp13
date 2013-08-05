@@ -1,0 +1,4 @@
+affine/nn invariants/nns of/in convex/nn polygons/nns ./punct
+in/in this/dt correspondence/nn ,/punct we/prp prove/vbp that/in the/dt affine/nn invariants/nns ,/punct for/in image/nn registration/nn and/cc object/nn recognition/nn ,/punct proposed/vbn recently/rb by/in yang/nnp and/cc cohen/nnp (/punct see/vb ibid./rb ,/punct vol.8/nn ,/punct no.7/nn ,/punct p.934-46/nn ,/punct july/nnp 1999/cd )/punct are/vbp algebraically/rb dependent/jj ./punct
+we/prp show/vbp how/wrb to/to select/vb an/dt independent/jj and/cc complete/jj set/nn of/in the/dt invariants/nns ./punct
+the/dt use/nn of/in this/dt new/jj set/nn leads/vbz to/to a/dt significant/jj reduction/nn of/in the/dt computing/nn complexity/nn without/in decreasing/vbg the/dt discrimination/nn power/nn ./punct

@@ -1,0 +1,7 @@
+limits/nns for/in computational/jj electromagnetics/nns codes/vbz imposed/vbn by/in computer/nn architecture/nn ./punct
+the/dt algorithmic/jj complexity/nn of/in the/dt innermost/nn loops/nns that/wdt determine/vbp the/dt complexity/nn of/in algorithms/nns in/in computational/jj electromagnetics/nns (/punct cem/nn )/punct codes/nns are/vbp analyzed/vbn according/vbg to/to their/prp$ operation/nn count/nn and/cc the/dt impact/nn of/in the/dt underlying/vbg computer/nn hardware/nn ./punct
+as/in memory/nn chips/nns are/vbp much/jj slower/jjr than/in arithmetic/nn processors/nns ,/punct codes/nns that/wdt involve/vbp a/dt high/jj data/nns movement/nn compared/vbn to/to the/dt number/nn of/in arithmetic/nn operations/nns are/vbp executed/vbn comparatively/rb slower/jjr ./punct
+hence/rb ,/punct matrix-matrix/jj multiplications/nns are/vbp much/jj faster/jjr than/in matrix-vector/jj multiplications/nns ./punct
+it/prp is/vbz seen/vbn that/in it/prp is/vbz not/rb sufficient/jj to/to compare/vb only/rb the/dt complexity/nn ,/punct but/cc also/rb the/dt actual/jj performance/nn of/in algorithms/nns to/to judge/vb on/in faster/jjr execution/nn ./punct
+implications/nns involve/vbp fdtd/nn loops/nns ,/punct lu/nnp factorizations/nns ,/punct and/cc iterative/jj solvers/nns for/in dense/jj matrices/nns ./punct
+run/nnp times/nns on/in two/cd reference/nn platforms/nns ,/punct namely/rb an/dt athlon/nnp 900/cd mhz/nnp and/cc an/dt hp/nnp pa/nn 8600/cd processor/nn ,/punct verify/vb the/dt findings/nns ./punct

@@ -1,0 +1,7 @@
+brightness-independent/jj start-up/jj routine/nn for/in star/nn trackers/nns ./punct
+initial/jj attitude/nn acquisition/nn by/in a/dt modern/jj star/nn tracker/nn is/vbz investigated/vbn here/rb ./punct
+criteria/nns for/in efficient/jj organization/nn of/in the/dt on-board/jj database/nn are/vbp discussed/vbn with/in reference/nn to/to a/dt brightness-independent/jj initial/jj acquisition/nn algorithm/nn ./punct
+star/nnp catalog/nn generation/nn preprocessing/nn is/vbz described/vbn ,/punct with/in emphasis/nn on/in the/dt identification/nn of/in minimum/jj star/nn brightness/nn for/in detection/nn by/in a/dt sensor/nn based/vbn on/in a/dt charge/nn coupled/vbn device/nn (/punct ccd/nnp )/punct photodetector/nn ./punct
+this/dt is/vbz a/dt crucial/jj step/nn for/in proper/jj evaluation/nn of/in the/dt attainable/jj sky/nn coverage/nn when/wrb selecting/vbg the/dt stars/nns to/to be/vb included/vbn in/in the/dt on-board/jj catalog/nn ./punct
+test/nn results/nns are/vbp also/rb reported/vbn ,/punct both/dt for/in reliability/nn and/cc accuracy/nn ,/punct even/rb if/in the/dt former/jj is/vbz considered/vbn to/to be/vb the/dt primary/jj target/nn ./punct
+probability/nn of/in erroneous/jj solution/nn is/vbz 0.2/cd %/punct in/in the/dt case/nn of/in single/jj runs/nns of/in the/dt procedure/nn ,/punct while/in attitude/nn determination/nn accuracy/nn is/vbz in/in the/dt order/nn of/in 0.02/cd degrees/nns in/in the/dt average/nn for/in the/dt computation/nn of/in the/dt inertial/jj pointing/vbg of/in the/dt boresight/nn axis/nn ./punct

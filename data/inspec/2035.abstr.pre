@@ -1,0 +1,7 @@
+search/vb for/in efficient/jj solutions/nns of/in multi-criterion/jj problems/nns by/in target-level/jj method/nn ./punct
+the/dt target-level/jj method/nn is/vbz considered/vbn for/in solving/vbg continuous/jj multi-criterion/jj maximization/nn problems/nns ./punct
+in/in the/dt first/jj step/nn ,/punct the/dt decision-maker/nn specifies/vbz a/dt target-level/jj point/nn (/punct the/dt desired/vbn criterion/nn values/nns )/punct ;/punct then/rb in/in the/dt set/nn of/in vector/nn evaluations/nns we/prp seek/vbp points/nns that/wdt are/vbp closest/jjs to/to the/dt target/nn point/nn in/in the/dt chebyshev/nnp metric/nn ./punct
+the/dt vector/nn evaluations/nns obtained/vbn in/in this/dt way/nn are/vbp in/in general/jj weakly/rb efficient/jj ./punct
+to/to identify/vb the/dt efficient/jj evaluations/nns ,/punct the/dt second/jj step/nn maximizes/vbz the/dt sum/nn of/in the/dt criteria/nns on/in the/dt set/vbn generated/vbn in/in step/nn 1/cd ./punct
+we/prp prove/vbp the/dt relationship/nn between/in the/dt evaluations/nns and/cc decisions/nns obtained/vbn by/in the/dt proposed/vbn procedure/nn ,/punct on/in the/dt one/cd hand/nn ,/punct and/cc the/dt efficient/jj (/punct weakly/rb efficient/jj )/punct evaluations/nns and/cc decisions/nns ,/punct on/in the/dt other/jj hand/nn ./punct
+if/in the/dt edgeworth-pareto/nnp hull/nn of/in the/dt set/nn of/in vector/nn evaluations/nns is/vbz convex/nn ,/punct the/dt set/nn of/in efficient/jj vector/nn evaluations/nns can/md be/vb approximated/vbn by/in the/dt proposed/vbn method/nn ./punct

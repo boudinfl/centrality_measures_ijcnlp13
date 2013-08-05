@@ -1,0 +1,10 @@
+reaching/vbg for/in five/cd nines/nns :/punct activewatch/nnp and/cc siteseer/nnp ./punct
+every/dt web/nn admin/nn 's/pos dream/nn is/vbz achieving/vbg the/dt fabled/jj five/cd nines-99.999/jj percent/nn uptime/nn ./punct
+to/to attain/vb such/jj availability/nn ,/punct your/prp$ web/nn site/nn must/md be/vb down/in no/dt more/jjr than/in about/rb five/cd minutes/nns per/in year/nn ./punct
+technologies/nnps like/in raid/nnp ,/punct clustering/nn ,/punct and/cc load/nn balancing/nn make/vbp this/dt easier/jjr ,/punct but/cc to/to actually/rb track/vb uptime/nn ,/punct maintain/vbp auditable/jj records/nns ,/punct and/cc discover/vbp patterns/nns in/in failures/nns to/to prevent/vb downtime/nn in/in the/dt future/nn ,/punct you/prp 'll/md need/vb to/to set/vb up/rp external/jj monitoring/nn ./punct
+because/in your/prp$ internet/nn connection/nn is/vbz a/dt key/jj factor/nn in/in measuring/vbg uptime/nn ,/punct you/prp must/md monitor/vb your/prp$ site/nn from/in the/dt internet/nn itself/prp ,/punct beyond/in your/prp$ firewall/nn ./punct
+you/prp could/md monitor/vb with/in custom/nn software/nn on/in remote/jj hosts/nns ,/punct or/cc you/prp could/md use/vb one/cd of/in the/dt two/cd reasonably/rb priced/vbn services/nns available/jj :/punct mercury/nnp interactive/nnp 's/pos activewatch/nnp and/cc freshwater/nnp software/nnp 's/pos siteseer/nnp ./punct
+(/punct freshwater/nn software/nnp has/vbz been/vbn a/dt subsidiary/nn of/in mercury/nnp interactive/nnp for/in about/in a/dt year/nn now/rb ./punct
+)/punct the/dt two/cd services/nns offer/vbp a/dt slightly/rb different/jj mix/nn of/in features/nns and/cc target/nn different/jj markets/nns ./punct
+both/dt services/nns offer/vbp availability/nn and/cc performance/nn monitoring/nn from/in several/jj remote/jj locations/nns ,/punct alerts/vbz to/to email/nn or/cc pager/nn ,/punct and/cc periodic/jj reports/nns ./punct
+they/prp differ/vbp in/in what/wp 's/vbz most/rbs easily/rb monitored/vbn ,/punct and/cc in/in the/dt way/nn you/prp interact/vbp with/in the/dt services/nns ./punct

@@ -1,0 +1,10 @@
+fusion/nn of/in qualitative/jj bond/nn graph/nn and/cc genetic/jj algorithms/nns :/punct a/dt fault/nn diagnosis/nn application/nn ./punct
+in/in this/dt paper/nn ,/punct the/dt problem/nn of/in fault/nn diagnosis/nn via/in integration/nn of/in genetic/jj algorithms/nns (/punct ga/nn 's/pos )/punct and/cc qualitative/jj bond/nn graphs/nns (/punct qbg/nn 's/pos )/punct is/vbz addressed/vbn ./punct
+we/prp suggest/vbp that/in ga/nn 's/pos can/md be/vb used/vbn to/to search/vb for/in possible/jj fault/nn components/nns among/in a/dt system/nn of/in qualitative/jj equations/nns ./punct
+the/dt qbg/nnp is/vbz adopted/vbn as/in the/dt modeling/nn scheme/nn to/to generate/vb a/dt set/nn of/in qualitative/jj equations/nns ./punct
+the/dt qualitative/jj bond/nn graph/nn provides/vbz a/dt unified/jj approach/nn for/in modeling/nn engineering/nn systems/nns ,/punct in/in particular/jj ,/punct mechatronic/jj systems/nns ./punct
+in/in order/nn to/to demonstrate/vb the/dt performance/nn of/in the/dt proposed/vbn algorithm/nn ,/punct we/prp have/vbp tested/vbn the/dt proposed/vbn algorithm/nn on/in an/dt in-house/jj designed/vbn and/cc built/vbn floating/vbg disc/nn experimental/jj setup/nn ./punct
+results/nns from/in fault/nn diagnosis/nn in/in the/dt floating/vbg disc/nn system/nn are/vbp presented/vbn and/cc discussed/vbn ./punct
+additional/jj measurements/nns will/md be/vb required/vbn to/to localize/vb the/dt fault/nn when/wrb more/jjr than/in one/cd fault/nn candidate/nn is/vbz inferred/vbn ./punct
+fault/nnp diagnosis/nn is/vbz activated/vbn by/in a/dt fault/nn detection/nn mechanism/nn when/wrb a/dt discrepancy/nn between/in measured/vbn abnormal/jj behavior/nn and/cc predicted/vbd system/nn behavior/nn is/vbz observed/vbn ./punct
+the/dt fault/nn detection/nn mechanism/nn is/vbz not/rb presented/vbn here/rb ./punct

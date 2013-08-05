@@ -1,0 +1,8 @@
+iterative/jj regularized/vbn least-mean/jj mixed-norm/jj image/nn restoration/nn ./punct
+we/prp develop/vbp a/dt regularized/vbn mixed-norm/nn image/nn restoration/nn algorithm/nn to/to deal/vb with/in various/jj types/nns of/in noise/nn ./punct
+a/dt mixed-norm/jj functional/jj is/vbz introduced/vbn ,/punct which/wdt combines/vbz the/dt least/jjs mean/jj square/jj (/punct lms/nn )/punct and/cc the/dt least/jjs mean/jj fourth/jj (/punct lmf/nn )/punct functionals/nns ,/punct as/rb well/rb as/in a/dt smoothing/nn functional/jj ./punct
+two/cd regularization/nn parameters/nns are/vbp introduced/vbn :/punct one/cd to/to determine/vb the/dt relative/jj importance/nn of/in the/dt lms/nnp and/cc lmf/nnp functionals/nns ,/punct which/wdt is/vbz a/dt function/nn of/in the/dt kurtosis/nn ,/punct and/cc another/dt to/to determine/vb the/dt relative/jj importance/nn of/in the/dt smoothing/nn functional/jj ./punct
+the/dt two/cd parameters/nns are/vbp chosen/vbn in/in such/jj a/dt way/nn that/in the/dt proposed/vbn functional/jj is/vbz convex/nn ,/punct so/rb that/in a/dt unique/jj minimizer/nn exists/vbz ./punct
+an/dt iterative/jj algorithm/nn is/vbz utilized/vbn for/in obtaining/vbg the/dt solution/nn ,/punct and/cc its/prp$ convergence/nn is/vbz analyzed/vbn ./punct
+the/dt novelty/nn of/in the/dt proposed/vbn algorithm/nn is/vbz that/in no/dt knowledge/nn of/in the/dt noise/nn distribution/nn is/vbz required/vbn ,/punct and/cc the/dt relative/jj contributions/nns of/in the/dt lms/nnp ,/punct the/dt lmf/nnp ,/punct and/cc the/dt smoothing/nn functionals/nns are/vbp adjusted/vbn based/vbn on/in the/dt partially/rb restored/vbn image/nn ./punct
+experimental/jj results/nns demonstrate/vbp the/dt effectiveness/nn of/in the/dt proposed/vbn algorithm/nn ./punct

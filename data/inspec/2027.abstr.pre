@@ -1,0 +1,5 @@
+motion/nnp estimation/nn using/vbg modified/vbn dynamic/jj programming/nn ./punct
+a/dt new/jj method/nn for/in computing/vbg precise/jj estimates/nns of/in the/dt motion/nn vector/nn field/nn of/in moving/vbg objects/nns in/in a/dt sequence/nn of/in images/nns is/vbz proposed/vbn ./punct
+correspondence/nn vector-field/jj computation/nn is/vbz formulated/vbn as/in a/dt matching/jj optimization/nn problem/nn for/in multiple/jj dynamic/jj images/nns ./punct
+the/dt proposed/vbn method/nn is/vbz a/dt heuristic/nn modification/nn of/in dynamic/jj programming/nn applied/vbd to/to the/dt 2-d/jj optimization/nn problem/nn ./punct
+motion-vector-field/jj estimates/nns using/vbg real/jj movie/nn images/nns demonstrate/vbp good/jj performance/nn of/in the/dt algorithm/nn in/in terms/nns of/in dynamic/jj motion/nn analysis/nn ./punct

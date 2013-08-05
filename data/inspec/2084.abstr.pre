@@ -1,0 +1,7 @@
+evaluation/nn of/in combined/jj dispatching/vbg and/cc routeing/vbg strategies/nns for/in a/dt flexible/jj manufacturing/nn system/nn ./punct
+this/dt paper/nn deals/vbz with/in the/dt evaluation/nn of/in combined/jj dispatching/vbg and/cc routeing/vbg strategies/nns on/in the/dt performance/nn of/in a/dt flexible/jj manufacturing/nn system/nn ./punct
+three/cd routeing/vbg policies/nns -/punct no/rb alternative/jj routings/nns ,/punct alternative/jj routeing/nn dynamics/nns and/cc alternative/jj routeing/nn plans/nns -/punct are/vbp considered/vbn with/in four/cd dispatching/vbg rules/nns with/in finite/jj buffer/nn capacity/nn ./punct
+in/in addition/nn ,/punct the/dt effect/nn of/in changing/vbg part/nn mix/nn ratios/nns is/vbz also/rb discussed/vbn ./punct
+the/dt performance/nn measures/vbz considered/vbn are/vbp makespan/nn ,/punct average/jj machine/nn utilization/nn ,/punct average/nn flow/nn time/nn and/cc average/jj delay/nn at/in local/jj input/nn buffers/nns ./punct
+simulation/nn results/nns indicate/vbp that/in the/dt alternative/jj routings/nns dynamic/jj policy/nn gives/vbz the/dt best/jjs results/nns in/in three/cd performance/nn measures/nns except/in for/in average/jj delay/nn at/in local/jj input/nn buffers/nns ./punct
+further/rb ,/punct the/dt effect/nn of/in changing/vbg part/nn mix/nn ratios/nns is/vbz not/rb significant/jj ./punct

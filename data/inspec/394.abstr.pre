@@ -1,0 +1,6 @@
+model/nnp intestinal/jj microflora/nn in/in computer/nn simulation/nn :/punct a/dt simulation/nn and/cc modeling/nn package/nn for/in host-microflora/nn interactions/nns ./punct
+the/dt ecology/nn of/in the/dt human/jj intestinal/jj microflora/nn and/cc its/prp$ interaction/nn with/in the/dt host/nn are/vbp poorly/rb understood/vbn ./punct
+though/in more/jjr and/cc more/jjr data/nns are/vbp being/vbg acquired/vbn ,/punct in/in part/nn using/vbg modern/jj molecular/jj methods/nns ,/punct development/nn of/in a/dt quantitative/jj theory/nn has/vbz not/rb kept/vbn pace/nn with/in this/dt increase/nn in/in observing/vbg power/nn ./punct
+this/dt is/vbz in/in part/nn due/jj to/to the/dt complexity/nn of/in the/dt system/nn and/cc to/to the/dt lack/nn of/in simulation/nn environments/nns in/in which/wdt to/to test/vb what/wp the/dt ecological/jj effect/nn of/in a/dt hypothetical/jj mechanism/nn of/in interaction/nn would/md be/vb ,/punct before/in resorting/vbg to/to laboratory/nn experiments/nns ./punct
+the/dt mimics/nn project/nn attempts/vbz to/to address/vb this/dt through/in the/dt development/nn of/in a/dt cellular/jj automaton/nn for/in simulation/nn of/in the/dt intestinal/jj microflora/nn ./punct
+in/in this/dt paper/nn ,/punct the/dt design/nn and/cc evaluation/nn of/in this/dt simulator/nn is/vbz discussed/vbn ./punct

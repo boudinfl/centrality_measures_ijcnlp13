@@ -1,0 +1,12 @@
+noninvasive/jj myocardial/jj activation/nn time/nn imaging/nn :/punct a/dt novel/jj inverse/jj algorithm/nn applied/vbd to/to clinical/jj ecg/nn mapping/nn data/nns ./punct
+linear/jj approaches/nns like/in the/dt minimum-norm/nn least-square/nn algorithm/nn show/vbp insufficient/jj performance/nn when/wrb it/prp comes/vbz to/to estimating/vbg the/dt activation/nn time/nn map/nn on/in the/dt surface/nn of/in the/dt heart/nn from/in electrocardiographic/jj (/punct ecg/nn )/punct mapping/nn data/nns ./punct
+additional/jj regularization/nn has/vbz to/to be/vb considered/vbn leading/vbg to/to a/dt nonlinear/jj problem/nn formulation/nn ./punct
+the/dt gauss-newton/nnp approach/nn is/vbz one/cd of/in the/dt standard/jj mathematical/jj tools/nns capable/jj of/in solving/vbg this/dt kind/nn of/in problem/nn ./punct
+to/to our/prp$ experience/nn ,/punct this/dt algorithm/nn has/vbz specific/jj drawbacks/nns which/wdt are/vbp caused/vbn by/in the/dt applied/vbn regularization/nn procedure/nn ./punct
+in/in particular/jj ,/punct under/in clinical/jj conditions/nns the/dt amount/nn of/in regularization/nn can/md not/rb be/vb determined/vbn clearly/rb ./punct
+for/in this/dt reason/nn ,/punct we/prp have/vbp developed/vbn an/dt iterative/jj algorithm/nn solving/vbg this/dt nonlinear/jj problem/nn by/in a/dt sequence/nn of/in regularized/vbn linear/jj problems/nns ./punct
+at/in each/dt step/nn of/in iteration/nn ,/punct an/dt individual/jj l-curve/nn is/vbz computed/vbn ./punct
+subsequent/jj iteration/nn steps/nns are/vbp performed/vbn with/in the/dt individual/jj optimal/jj regularization/nn parameter/nn ./punct
+this/dt novel/jj approach/nn is/vbz compared/vbn with/in the/dt standard/jj gauss-newton/nnp approach/nn ./punct
+both/dt methods/nns are/vbp applied/vbn to/to simulated/jj ecg/nn mapping/nn data/nns as/rb well/rb as/in to/to single/jj beat/nn sinus/nn rhythm/nn data/nns from/in two/cd patients/nns recorded/vbn in/in the/dt catheter/nn laboratory/nn ./punct
+the/dt proposed/vbn approach/nn shows/vbz excellent/jj numerical/jj and/cc computational/jj performance/nn ,/punct even/rb under/in clinical/jj conditions/nns at/in which/wdt the/dt gauss-newton/nnp approach/nn begins/vbz to/to break/vb down/rp ./punct

@@ -1,0 +1,11 @@
+design/nn and/cc implementation/nn of/in a/dt brain-computer/nn interface/nn with/in high/jj transfer/nn rates/nns ./punct
+this/dt paper/nn presents/vbz a/dt brain-computer/nn interface/nn (/punct bci/nnp )/punct that/wdt can/md help/vb users/nns to/to input/nn phone/nn numbers/nns ./punct
+the/dt system/nn is/vbz based/vbn on/in the/dt steady-state/jj visual/jj evoked/vbn potential/jj (/punct ssvep/nn )/punct ./punct
+twelve/cd buttons/nns illuminated/vbn at/in different/jj rates/nns were/vbd displayed/vbn on/in a/dt computer/nn monitor/nn ./punct
+the/dt buttons/nns constituted/vbd a/dt virtual/jj telephone/nn keypad/nn ,/punct representing/vbg the/dt ten/cd digits/nns 0-9/cd ,/punct backspace/nnp ,/punct and/cc enter/nnp ./punct
+users/nns could/md input/nn phone/nn number/nn by/in gazing/vbg at/in these/dt buttons/nns ./punct
+the/dt frequency-coded/jj ssvep/nn was/vbd used/vbn to/to judge/vb which/wdt button/nn the/dt user/nn desired/vbn ./punct
+eight/cd of/in the/dt thirteen/cd subjects/nns succeeded/vbd in/in ringing/vbg the/dt mobile/jj phone/nn using/vbg the/dt system/nn ./punct
+the/dt average/jj transfer/nn rate/nn over/in all/dt subjects/nns was/vbd 27.15/cd bits/min/nn ./punct
+the/dt attractive/jj features/nns of/in the/dt system/nn are/vbp noninvasive/jj signal/nn recording/nn ,/punct little/jj training/nn required/vbn for/in use/nn ,/punct and/cc high/jj information/nn transfer/nn rate/nn ./punct
+approaches/nns to/to improve/vb the/dt performance/nn of/in the/dt system/nn are/vbp discussed/vbn ./punct

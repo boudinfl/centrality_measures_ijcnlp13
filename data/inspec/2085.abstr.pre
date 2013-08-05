@@ -1,0 +1,6 @@
+an/dt intelligent/jj fuzzy/jj decision/nn system/nn for/in a/dt flexible/jj manufacturing/nn system/nn with/in multi-decision/jj points/nns ./punct
+this/dt paper/nn describes/vbz an/dt intelligent/jj fuzzy/jj decision/nn support/nn system/nn for/in real-time/jj scheduling/nn and/cc dispatching/vbg of/in parts/nns in/in a/dt flexible/jj manufacturing/nn system/nn (/punct fms/nn )/punct ,/punct with/in alternative/jj routing/vbg possibilities/nns for/in all/dt parts/nns ./punct
+a/dt fuzzy/jj logic/nn approach/nn is/vbz developed/vbn to/to improve/vb the/dt system/nn performance/nn by/in considering/vbg multiple/jj performance/nn measures/nns and/cc at/in multiple/jj decision/nn points/nns ./punct
+the/dt characteristics/nns of/in the/dt system/nn status/nn ,/punct instead/rb of/in parts/nns ,/punct are/vbp fed/vbn back/rb to/to assign/vb priority/nn to/to the/dt parts/nns waiting/vbg to/to be/vb processed/vbn ./punct
+a/dt simulation/nn model/nn is/vbz developed/vbn and/cc it/prp is/vbz shown/vbn that/in the/dt proposed/vbn intelligent/jj fuzzy/jj decision/nn support/nn system/nn keeps/vbz all/dt performance/nn measures/nns at/in a/dt good/jj level/nn ./punct
+the/dt proposed/vbn intelligent/jj system/nn is/vbz a/dt promising/jj tool/nn for/in dealing/vbg with/in scheduling/nn fmss/nns ,/punct in/in contrast/nn to/to traditional/jj rules/nns ./punct

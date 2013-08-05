@@ -1,0 +1,6 @@
+geotensity/nnp :/punct combining/vbg motion/nn and/cc lighting/nn for/in 3d/nn surface/nn reconstruction/nn ./punct
+this/dt paper/nn is/vbz about/in automatically/rb reconstructing/vbg the/dt full/jj 3d/nn surface/nn of/in an/dt object/nn observed/vbn in/in motion/nn by/in a/dt single/jj static/jj camera/nn ./punct
+based/vbn on/in the/dt two/cd paradigms/nns ,/punct structure/nn from/in motion/nn and/cc linear/jj intensity/nn subspaces/nns ,/punct we/prp introduce/vbp the/dt geotensity/nn constraint/nn that/wdt governs/vbz the/dt relationship/nn between/in four/cd or/cc more/jjr images/nns of/in a/dt moving/vbg object/nn ./punct
+we/prp show/vbp that/in it/prp is/vbz possible/jj in/in theory/nn to/to solve/vb for/in 3d/nn lambertian/jj surface/nn structure/nn for/in the/dt case/nn of/in a/dt single/jj point/nn light/nn source/nn and/cc propose/vbp that/in a/dt solution/nn exists/vbz for/in an/dt arbitrary/jj number/nn point/nn light/jj sources/nns ./punct
+the/dt surface/nn may/md or/cc may/md not/rb be/vb textured/vbn ./punct
+we/prp then/rb give/vbp an/dt example/nn of/in automatic/jj surface/nn reconstruction/nn of/in a/dt face/nn under/in a/dt point/nn light/nn source/nn using/vbg arbitrary/jj unknown/jj object/nn motion/nn and/cc a/dt single/jj fixed/jj camera/nn ./punct

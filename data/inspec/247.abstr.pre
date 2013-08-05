@@ -1,0 +1,12 @@
+the/dt congenial/jj talking/vbg philosophers/nns problem/nn in/in computer/nn networks/nns ./punct
+group/nnp mutual/jj exclusion/nn occurs/vbz naturally/rb in/in situations/nns where/wrb a/dt resource/nn can/md be/vb shared/vbn by/in processes/nns of/in the/dt same/jj group/nn ,/punct but/cc not/rb by/in processes/nns of/in different/jj groups/nns ./punct
+for/in example/nn ,/punct suppose/vbp data/nns is/vbz stored/vbn in/in a/dt cd-jukebox/nn ./punct
+then/rb ,/punct when/wrb a/dt disc/nn is/vbz loaded/vbn for/in access/nn ,/punct users/nns that/wdt need/vbp data/nns on/in the/dt disc/nn can/md concurrently/rb access/vb the/dt disc/nn ,/punct while/in users/nns that/wdt need/vbp data/nns on/in a/dt different/jj disc/nn have/vbp to/to wait/vb until/in the/dt current/jj disc/nn is/vbz unloaded/jj ./punct
+the/dt design/nn issues/nns for/in group/nn mutual/jj exclusion/nn have/vbp been/vbn modeled/vbn as/in the/dt congenial/nnp talking/vbg philosophers/nns problem/nn ,/punct and/cc solutions/nns for/in shared/jj memory/nn models/nns have/vbp been/vbn proposed/vbn (/punct y.-j/nn ./punct
+young/nnp ,/punct 2000/cd ;/punct p./nnp keane/nnp and/cc m./nnp moir/nnp ,/punct 1999/cd )/punct ./punct
+as/in in/in ordinary/jj mutual/jj exclusion/nn and/cc many/jj other/jj problems/nns in/in distributed/vbn systems/nns ,/punct however/rb ,/punct techniques/nns developed/vbd for/in shared/jj memory/nn do/vbp not/rb necessarily/rb apply/vb to/to message/nn passing/nn (/punct and/cc vice/nn versa/rb )/punct ./punct
+we/prp investigate/vbp solutions/nns for/in congenial/nnp talking/vbg philosophers/nns in/in computer/nn networks/nns where/wrb processes/nns communicate/vbp by/in asynchronous/jj message/nn passing/nn ./punct
+we/prp first/rb present/vb a/dt solution/nn that/wdt is/vbz a/dt straightforward/jj adaptation/nn from/in g./nnp ricart/nnp and/cc a.k/nnp ./punct
+agrawala/nnp 's/pos (/punct 1981/cd )/punct algorithm/nn for/in ordinary/jj mutual/jj exclusion/nn ./punct
+then/rb we/prp show/vbp that/in the/dt simple/jj modification/nn suffers/vbz a/dt severe/jj performance/nn degradation/nn that/wdt could/md cause/vb the/dt system/nn to/to behave/vb as/in though/in only/rb one/cd process/nn of/in a/dt group/nn can/md be/vb in/in the/dt critical/jj section/nn at/in a/dt time/nn ./punct
+we/prp then/rb present/vbp a/dt more/rbr efficient/jj and/cc highly/rb concurrent/jj distributed/vbn algorithm/nn for/in the/dt problem/nn ,/punct the/dt first/jj such/jj solution/nn in/in computer/nn networks/nns ./punct

@@ -1,0 +1,9 @@
+controller/nn performance/nn analysis/nn with/in lqg/nn benchmark/nn obtained/vbn under/in closed/jj loop/nn conditions/nns ./punct
+this/dt paper/nn proposes/vbz a/dt new/jj method/nn for/in obtaining/vbg a/dt linear/jj quadratic/jj gaussian/jj (/punct lqg/nn )/punct benchmark/nn in/in terms/nns of/in the/dt variances/nns of/in process/nn input/nn and/cc output/nn from/in closed-loop/jj data/nns ,/punct for/in assessing/vbg the/dt controller/nn performance/nn ./punct
+lqg/nn benchmark/nn has/vbz been/vbn proposed/vbn in/in the/dt literature/nn to/to assess/vb controller/nn performance/nn since/in the/dt lqg/nn tradeoff/nn curve/nn represents/vbz the/dt limit/nn of/in performance/nn in/in terms/nns of/in input/nn and/cc output/nn variances/nns ./punct
+however/rb ,/punct an/dt explicit/jj parametric/jj model/nn is/vbz required/vbn to/to calculate/vb the/dt lqg/nn benchmark/nn ./punct
+in/in this/dt work/nn ,/punct we/prp propose/vbp a/dt data/nn driven/vbn subspace/nn approach/nn to/to calculate/vb the/dt lqg/nn benchmark/nn under/in closed-loop/jj conditions/nns with/in certain/jj external/jj excitations/nns ./punct
+the/dt optimal/jj lqg-benchmark/nn variances/nns are/vbp obtained/vbn directly/rb from/in the/dt subspace/nn matrices/nns corresponding/vbg to/to the/dt deterministic/jj inputs/nns and/cc the/dt stochastic/jj inputs/nns ,/punct which/wdt are/vbp identified/vbn using/vbg closed-loop/jj data/nns with/in setpoint/nn excitation/nn ./punct
+these/dt variances/nns are/vbp used/vbn for/in assessing/vbg the/dt controller/nn performance/nn ./punct
+the/dt method/nn proposed/vbn in/in this/dt paper/nn is/vbz applicable/jj to/to both/dt univariate/jj and/cc multivariate/jj systems/nns ./punct
+profit/nn analysis/nn for/in the/dt implementation/nn of/in feedforward/nn control/nn to/to the/dt existing/vbg feedback-only/jj control/nn system/nn is/vbz also/rb analyzed/vbn under/in the/dt optimal/jj lqg/nn performance/nn framework/nn ./punct

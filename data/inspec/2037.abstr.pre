@@ -1,0 +1,3 @@
+regularization/nn of/in linear/jj regression/nn problems/nns ./punct
+the/dt study/nn considers/vbz robust/jj estimation/nn of/in linear/jj regression/nn parameters/nns by/in the/dt regularization/nn method/nn ,/punct the/dt pseudoinverse/nn method/nn ,/punct and/cc the/dt bayesian/jj method/nn allowing/vbg for/in correlations/nns and/cc errors/nns in/in the/dt data/nns ./punct
+regularizing/vbg algorithms/nns are/vbp constructed/vbn and/cc their/prp$ relationship/nn with/in pseudoinversion/nn ,/punct the/dt bayesian/jj approach/nn ,/punct and/cc blue/nn is/vbz investigated/vbn ./punct

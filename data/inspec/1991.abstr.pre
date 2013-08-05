@@ -1,0 +1,7 @@
+a/dt framework/nn for/in evaluating/vbg the/dt data-hiding/jj capacity/nn of/in image/nn sources/nns ./punct
+an/dt information-theoretic/jj model/nn for/in image/nn watermarking/nn and/cc data/nns hiding/nn is/vbz presented/vbn in/in this/dt paper/nn ./punct
+previous/jj theoretical/jj results/nns are/vbp used/vbn to/to characterize/vb the/dt fundamental/jj capacity/nn limits/nns of/in image/nn watermarking/nn and/cc data-hiding/jj systems/nns ./punct
+capacity/nn is/vbz determined/vbn by/in the/dt statistical/jj model/nn used/vbn for/in the/dt host/nn image/nn ,/punct by/in the/dt distortion/nn constraints/nns on/in the/dt data/nns hider/nn and/cc the/dt attacker/nn ,/punct and/cc by/in the/dt information/nn available/jj to/to the/dt data/nns hider/nn ,/punct to/to the/dt attacker/nn ,/punct and/cc to/to the/dt decoder/nn ./punct
+we/prp consider/vbp autoregressive/jj ,/punct block-dct/nn ,/punct and/cc wavelet/nn statistical/jj models/nns for/in images/nns and/cc compute/vb data-hiding/jj capacity/nn for/in compressed/vbn and/cc uncompressed/jj host-image/nn sources/nns ./punct
+closed-form/jj expressions/nns are/vbp obtained/vbn under/in sparse-model/jj approximations/nns ./punct
+models/nns for/in geometric/jj attacks/nns and/cc distortion/nn measures/nns that/wdt are/vbp invariant/jj to/to such/jj attacks/nns are/vbp considered/vbn ./punct

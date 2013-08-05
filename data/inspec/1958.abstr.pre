@@ -1,0 +1,4 @@
+option/nn pricing/nn from/in path/nn integral/jj for/in non-gaussian/jj fluctuations/nns ./punct
+natural/jj martingale/nn and/cc application/nn to/to truncated/vbn levy/nnp distributions/nns ./punct
+within/in a/dt path/nn integral/jj formalism/nn for/in non-gaussian/jj price/nn fluctuations/nns ,/punct we/prp set/vbd up/rp a/dt simple/jj stochastic/jj calculus/nn and/cc derive/vb a/dt natural/jj martingale/nn for/in option/nn pricing/nn from/in the/dt wealth/nn balance/nn of/in options/nns ,/punct stocks/nns ,/punct and/cc bonds/nns ./punct
+the/dt resulting/vbg formula/nn is/vbz evaluated/vbn for/in truncated/vbn levy/nnp distributions/nns ./punct

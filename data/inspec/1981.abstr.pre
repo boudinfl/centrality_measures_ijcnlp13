@@ -1,0 +1,4 @@
+optimal/jj linear/jj control/nn in/in stabilizer/nn design/nn ./punct
+the/dt most/rbs common/jj method/nn of/in improving/vbg stability/nn of/in the/dt power/nn system/nn is/vbz the/dt synthesis/nn of/in the/dt turbine/nn and/cc generator/nn control/nn systems/nns ,/punct because/in of/in the/dt high/jj effectiveness/nn and/cc relatively/rb low/jj cost/nn of/in these/dt elements/nns ./punct
+the/dt synthesis/nn and/cc construction/nn of/in the/dt effective/jj synchronous/jj generator/nn and/cc turbine/nn controller/nn is/vbz a/dt very/rb difficult/jj task/nn ./punct
+this/dt paper/nn describes/vbz the/dt seven/cd step/nn mu/nn -synthesis/nn approach/nn to/to pss/nnp design/nn enabling/vbg the/dt synchronous/jj generator/nn to/to remain/vb stable/jj over/in a/dt wide/jj range/nn of/in system/nn operating/nn conditions/nns ./punct

@@ -1,0 +1,12 @@
+wextor/nnp :/punct a/dt web-based/jj tool/nn for/in generating/vbg and/cc visualizing/vbg experimental/jj designs/nns and/cc procedures/nns ./punct
+wextor/nnp is/vbz a/dt javascript-based/jj experiment/nn generator/nn and/cc teaching/nn tool/nn on/in the/dt world/nnp wide/nn web/nn that/wdt can/md be/vb used/vbn to/to design/vb laboratory/nn and/cc web/nn experiments/nns in/in a/dt guided/vbn step-by-step/jj process/nn ./punct
+it/prp dynamically/rb creates/vbz the/dt customized/vbn web/nn pages/nns and/cc javascripts/nns needed/vbn for/in the/dt experimental/jj procedure/nn and/cc provides/vbz experimenters/nns with/in a/dt print-ready/jj visual/jj display/nn of/in their/prp$ experimental/jj design/nn ./punct
+wextor/nnp flexibly/rb supports/vbz complete/jj and/cc incomplete/jj factorial/jj designs/nns with/in between-subjects/nns ,/punct within-subjects/nns ,/punct and/cc quasi-experimental/jj factors/nns ,/punct as/rb well/rb as/in mixed/jj designs/nns ./punct
+the/dt software/nn implements/vbz client-side/jj response/nn time/nn measurement/nn and/cc contains/vbz a/dt content/jj wizard/nn for/in creating/vbg interactive/jj materials/nns ,/punct as/rb well/rb as/in dependent/jj measures/nns (/punct graphical/jj scales/nns ,/punct multiple-choice/jj items/nns ,/punct etc/fw ./punct
+)/punct ,/punct on/in the/dt experiment/nn pages/nns ./punct
+however/rb ,/punct it/prp does/vbz not/rb aim/vb to/to replace/vb a/dt full-fledged/jj html/nnp editor/nn ./punct
+several/jj methodological/jj features/nns specifically/rb needed/vbn in/in web/nn experimental/jj design/nn have/vbp been/vbn implemented/vbn in/in the/dt web-based/jj tool/nn and/cc are/vbp described/vbn in/in this/dt paper/nn ./punct
+wextor/nnp is/vbz platform/nn independent/jj ./punct
+the/dt created/vbn web/nn pages/nns can/md be/vb uploaded/vbn to/to any/dt type/nn of/in web/nn server/nn in/in which/wdt data/nns may/md be/vb recorded/vbn in/in logfiles/nns or/cc via/in a/dt database/nn ./punct
+the/dt current/jj version/nn of/in wextor/nnp is/vbz freely/rb available/jj for/in educational/jj and/cc noncommercial/jj purposes/nns ./punct
+its/prp$ web/nn address/nn is/vbz http/nn :/punct //www.genpsylab.unizh.ch/wextor/index.html/nn ./punct

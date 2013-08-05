@@ -1,0 +1,7 @@
+variable/jj structure/nn intelligent/jj control/nn for/in pm/nnp synchronous/jj servo/nn motor/nn drive/nn ./punct
+the/dt variable/jj structure/nn control/nn (/punct vsc/nn )/punct of/in discrete/jj time/nn systems/nns based/vbn on/in intelligent/jj control/nn is/vbz presented/vbn in/in this/dt paper/nn ./punct
+a/dt novel/jj approach/nn is/vbz proposed/vbn for/in the/dt state/nn estimation/nn ./punct
+a/dt linear/jj observer/nn is/vbz firstly/rb designed/vbn ./punct
+then/rb a/dt neural/jj network/nn is/vbz used/vbn for/in compensating/vbg uncertainty/nn ./punct
+the/dt parameter/nn of/in the/dt vsc/nn scheme/nn is/vbz adjusted/vbn online/nn by/in a/dt neural/jj network/nn ./punct
+practical/nnp operating/vbg results/nns from/in a/dt pm/nn synchronous/jj motor/nn (/punct pmsm/nn )/punct illustrate/vbp the/dt effectiveness/nn and/cc practicability/nn of/in the/dt proposed/vbn approach/nn ./punct

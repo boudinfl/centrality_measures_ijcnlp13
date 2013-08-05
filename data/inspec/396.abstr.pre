@@ -1,0 +1,6 @@
+convolution-based/jj global/jj simulation/nn technique/nn for/in millimeter-wave/jj photodetector/nn and/cc photomixer/nn circuits/nns ./punct
+a/dt fast/jj convolution-based/jj time-domain/jj approach/nn to/to global/jj photonic-circuit/jj simulation/nn is/vbz presented/vbn that/in incorporates/vbz a/dt physical/jj device/nn model/nn in/in the/dt complete/jj detector/nn or/cc mixer/nn circuit/nn ./punct
+the/dt device/nn used/vbn in/in the/dt demonstration/nn of/in this/dt technique/nn is/vbz a/dt gaas/nn metal-semiconductor-metal/jj (/punct msm/nn )/punct photodetector/nn that/wdt offers/vbz a/dt high/jj response/nn speed/nn for/in the/dt detection/nn and/cc generation/nn of/in millimeter/jj waves/nns ./punct
+global/jj simulation/nn greatly/rb increases/vbz the/dt accuracy/nn in/in evaluating/vbg the/dt complete/jj circuit/nn performance/nn because/in it/prp accounts/vbz for/in the/dt effects/nns of/in the/dt millimeter-wave/jj embedding/nn circuit/nn ./punct
+device/nn and/cc circuit/nn performance/nn are/vbp assessed/vbn by/in calculating/vbg optical/jj responsivity/nn and/cc bandwidth/nn ./punct
+device-only/jj simulations/nns using/vbg gaas/nns msms/nns are/vbp compared/vbn with/in global/jj simulations/nns that/wdt illustrate/vbp the/dt strong/jj interdependence/nn between/in device/nn and/cc external/jj circuit/nn ./punct

@@ -1,0 +1,10 @@
+chemical/nnp information/nn based/vbn scaling/nn of/in molecular/jj descriptors/nns :/punct a/dt universal/jj chemical/nn scale/nn for/in library/nn design/nn and/cc analysis/nn ./punct
+scaling/vbg is/vbz a/dt difficult/jj issue/nn for/in any/dt analysis/nn of/in chemical/nn properties/nns or/cc molecular/jj topology/nn when/wrb disparate/jj descriptors/nns are/vbp involved/vbn ./punct
+to/to compare/vb properties/nns across/in different/jj data/nns sets/nns ,/punct a/dt common/jj scale/nn must/md be/vb defined/vbn ./punct
+using/vbg several/jj publicly/rb available/jj databases/nns (/punct acd/nn ,/punct cmc/nnp ,/punct mddr/nnp ,/punct and/cc nci/nnp )/punct as/in a/dt basis/nn ,/punct we/prp propose/vbp to/to define/vb chemically/rb meaningful/jj scales/nns for/in a/dt number/nn of/in molecular/jj properties/nns and/cc topology/nn descriptors/nns ./punct
+these/dt chemically/rb derived/vbn scaling/vbg functions/nns have/vbp several/jj advantages/nns ./punct
+first/rb ,/punct it/prp is/vbz possible/jj to/to define/vb chemically/rb relevant/jj scales/nns ,/punct greatly/rb simplifying/vbg similarity/nn and/cc diversity/nn analyses/nns across/in data/nns sets/nns ./punct
+second/rb ,/punct this/dt approach/nn provides/vbz a/dt convenient/jj method/nn for/in setting/vbg descriptor/nn boundaries/nns that/wdt define/vbp chemically/rb reasonable/jj topology/nn spaces/nns ./punct
+for/in example/nn ,/punct descriptors/nns can/md be/vb scaled/vbn so/rb that/in compounds/nns with/in little/jj potential/jj for/in biological/jj activity/nn ,/punct bioavailability/nn ,/punct or/cc other/jj drug-like/jj characteristics/nns are/vbp easily/rb identified/vbn as/in outliers/nns ./punct
+we/prp have/vbp compiled/vbn scaling/vbg values/nns for/in 314/cd molecular/jj descriptors/nns ./punct
+in/in addition/nn the/dt 10th/jj and/cc 90th/jj percentile/nn values/nns for/in each/dt descriptor/nn have/vbp been/vbn calculated/vbn for/in use/nn in/in outlier/nn filtering/vbg ./punct

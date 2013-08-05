@@ -1,0 +1,5 @@
+a/dt friction/nn compensator/nn for/in pneumatic/jj control/nn valves/nns ./punct
+a/dt procedure/nn that/wdt compensates/vbz for/in static/jj friction/nn (/punct stiction/nn )/punct in/in pneumatic/jj control/nn valves/nns is/vbz presented/vbn ./punct
+the/dt compensation/nn is/vbz obtained/vbn by/in adding/vbg pulses/nns to/to the/dt control/nn signal/nn ./punct
+the/dt characteristics/nns of/in the/dt pulses/nns are/vbp determined/vbn from/in the/dt control/nn action/nn ./punct
+the/dt compensator/nn is/vbz implemented/vbn in/in industrial/jj controllers/nns and/cc control/nn systems/nns ,/punct and/cc the/dt industrial/jj experiences/nns show/vbp that/in the/dt procedure/nn reduces/vbz the/dt control/nn error/nn during/in stick-slip/nn motion/nn significantly/rb compared/vbn to/to standard/jj control/nn without/in stiction/nn compensation/nn ./punct

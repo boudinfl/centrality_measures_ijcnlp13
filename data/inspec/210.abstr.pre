@@ -1,0 +1,14 @@
+when/wrb a/dt better/jjr interface/nn and/cc easy/jj navigation/nn are/vbp n't/rb enough/rb :/punct examining/vbg the/dt information/nn architecture/nn in/in a/dt law/nn enforcement/nn agency/nn ./punct
+an/dt information/nn architecture/nn that/wdt allows/vbz users/nns to/to easily/rb navigate/vb through/in a/dt system/nn and/cc quickly/rb recover/vb from/in mistakes/nns is/vbz often/rb defined/vbn as/in a/dt highly/rb usable/jj system/nn ./punct
+but/cc usability/nn in/in systems/nns design/nn goes/vbz beyond/in a/dt good/jj interface/nn and/cc efficient/jj navigation/nn ./punct
+in/in this/dt article/nn we/prp describe/vbp two/cd database/nn systems/nns in/in a/dt law/nn enforcement/nn agency/nn ./punct
+one/cd system/nn is/vbz a/dt legacy/nn ,/punct text-based/jj system/nn with/in cumbersome/jj navigation/nn (/punct rms/nnp )/punct ;/punct the/dt newer/jjr system/nn is/vbz a/dt graphical/jj user/nn interface/nn with/in simplified/vbn navigation/nn (/punct copnet/nn )/punct ./punct
+it/prp is/vbz hypothesized/vbn that/in law/nn enforcement/nn users/nns will/md evaluate/vb copnet/nnp higher/jjr than/in rms/nnp ,/punct but/cc experts/nns of/in the/dt older/jjr system/nn will/md evaluate/vb it/prp higher/jjr than/in others/nns will/md ./punct
+we/prp conducted/vbd two/cd user/nn studies/nns ./punct
+one/cd study/nn examined/vbd what/wp users/nns thought/vbd of/in rms/nnp and/cc copnet/nnp ,/punct and/cc compared/vbn rms/nnp experts/nns '/punct evaluations/nns with/in nonexperts/nns ./punct
+we/prp found/vbd that/in all/dt users/nns evaluated/vbd copnet/nnp as/in more/rbr effective/jj ,/punct easier/jjr to/to use/vb ,/punct and/cc easier/jjr to/to navigate/vb than/in rms/nnp ,/punct and/cc this/dt was/vbd especially/rb noticeable/jj for/in users/nns who/wp were/vbd not/rb experts/nns with/in the/dt older/jjr system/nn ./punct
+the/dt second/jj ,/punct follow-up/jj study/nn examined/vbd use/nn behavior/nn after/in copnet/nnp was/vbd deployed/vbn some/dt time/nn later/rb ./punct
+the/dt findings/nns revealed/vbd that/in evaluations/nns of/in copnet/nnp were/vbd not/rb associated/vbn with/in its/prp$ use/nn ./punct
+if/in the/dt newer/jjr system/nn had/vbd a/dt better/jjr interface/nn and/cc was/vbd easier/jjr to/to navigate/vb than/in the/dt older/jjr ,/punct legacy/nn system/nn ,/punct why/wrb were/vbd law/nn enforcement/nn personnel/nns reluctant/jj to/to switch/vb ?/punct
+we/prp discuss/vbp reasons/nns why/wrb switching/vbg to/to a/dt new/jj system/nn is/vbz difficult/jj ,/punct especially/rb for/in those/dt who/wp are/vbp most/rbs adept/jj at/in using/vbg the/dt older/jjr system/nn ./punct
+implications/nns for/in system/nn design/nn and/cc usability/nn are/vbp also/rb discussed/vbn ./punct

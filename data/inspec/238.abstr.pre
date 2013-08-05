@@ -1,0 +1,6 @@
+the/dt open/nnp archives/nnps initiative/nnp :/punct realizing/vbg simple/jj and/cc effective/jj digital/jj library/nn interoperability/nn ./punct
+the/dt open/nnp archives/nnps initiative/nnp (/punct oai/nnp )/punct is/vbz dedicated/vbn to/to solving/vbg problems/nns of/in digital/jj library/nn interoperability/nn ./punct
+its/prp$ focus/nn has/vbz been/vbn on/in defining/vbg simple/jj protocols/nns ,/punct most/rbs recently/rb for/in the/dt exchange/nn of/in metadata/nn from/in archives/nns ./punct
+the/dt oai/nnp evolved/vbd out/in of/in a/dt need/nn to/to increase/vb access/nn to/to scholarly/jj publications/nns by/in supporting/vbg the/dt creation/nn of/in interoperable/jj digital/jj libraries/nns ./punct
+as/in a/dt first/jj step/nn towards/in such/jj interoperability/nn ,/punct a/dt metadata/nn harvesting/nn protocol/nn was/vbd developed/vbn to/to support/vb the/dt streaming/nn of/in metadata/nn from/in one/cd repository/nn to/to another/dt ,/punct ultimately/rb to/to a/dt provider/nn of/in user/nn services/nns such/jj as/in browsing/nn ,/punct searching/vbg ,/punct or/cc annotation/nn ./punct
+this/dt article/nn provides/vbz an/dt overview/nn of/in the/dt mission/nn ,/punct philosophy/nn ,/punct and/cc technical/jj framework/nn of/in the/dt oai/nnp ./punct

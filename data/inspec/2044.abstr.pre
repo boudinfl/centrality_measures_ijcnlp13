@@ -1,0 +1,5 @@
+three-dimensional/jj geometrical/jj optics/nns code/vbp for/in indoor/jj propagation/nn ./punct
+this/dt paper/nn presents/vbz a/dt program/nn ,/punct go/nn 3d/nn ,/punct for/in computing/vbg the/dt fields/nns of/in a/dt transmitter/nn in/in an/dt indoor/jj environment/nn using/vbg geometrical/jj optics/nns ./punct
+the/dt program/nn uses/vbz an/dt ``/`` image/nn tree/nn ''/'' data/nns structure/nn to/to construct/vb the/dt images/nns needed/vbn to/to compute/vb all/pdt the/dt rays/nns carrying/vbg fields/nns above/in a/dt preset/jj ``/`` threshold/nn ''/'' value/nn ,/punct no/dt matter/nn how/wrb many/jj reflections/nns are/vbp needed/vbn ./punct
+the/dt paper/nn briefly/nn describes/vbz the/dt input/nn file/nn required/vbn to/to define/vb wall/nn construction/nn ,/punct the/dt floor/nn plan/nn ,/punct the/dt transmitter/nn ,/punct and/cc the/dt receiver/nn locations/nns ./punct
+a/dt case/nn study/nn consisting/vbg of/in a/dt long/jj corridor/nn with/in a/dt small/jj room/nn on/in one/cd side/nn is/vbz used/vbn to/to demonstrate/vb the/dt features/nns of/in the/dt go/nn 3d/nn program/nn ./punct

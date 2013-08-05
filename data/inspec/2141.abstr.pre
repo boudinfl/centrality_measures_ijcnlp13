@@ -1,0 +1,6 @@
+system/nnp embedding/nn ./punct
+control/nn with/in reduced/vbn observer/nn ./punct
+two/cd interrelated/jj problems-design/nn of/in the/dt reduced/vbn observer/nn of/in plant/nn state/nn separately/rb and/cc together/rb with/in its/prp$ control/nn system-were/jj considered/vbn from/in the/dt standpoint/nn of/in designing/vbg the/dt multivariable/jj linear/jj systems/nns from/in the/dt desired/vbn matrix/nn transfer/nn functions/nns ./punct
+the/dt matrix/nn equations/nns defining/vbg the/dt entire/jj constructive/jj class/nn of/in solutions/nns of/in the/dt posed/vbn problems/nns were/vbd obtained/vbn using/vbg the/dt system/nn embedding/nn technology/nn ./punct
+as/in was/vbd demonstrated/vbn ,/punct control/nn based/vbn on/in the/dt reduced/vbn observer/nn is/vbz capable/jj to/to provide/vb the/dt desired/vbn response/nn to/to the/dt control/nn input/nn ,/punct as/rb well/rb as/in the/dt response/nn to/to the/dt nonzero/nn initial/jj conditions/nns ,/punct only/rb for/in the/dt directly/rb measurable/jj part/nn of/in the/dt components/nns of/in the/dt state/nn vector/nn ./punct
+an/dt illustrative/jj example/nn was/vbd presented/vbn ./punct

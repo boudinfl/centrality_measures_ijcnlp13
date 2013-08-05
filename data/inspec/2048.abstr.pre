@@ -1,0 +1,4 @@
+an/dt object-oriented/jj version/nn of/in simlib/nnp (/punct a/dt simple/jj simulation/nn package/nn )/punct ./punct
+this/dt paper/nn introduces/vbz an/dt object-oriented/jj version/nn of/in simlib/nn (/punct an/dt easy-to-understand/jj discrete-event/jj simulation/nn package/nn )/punct ./punct
+the/dt object-oriented/jj version/nn is/vbz preferable/jj to/to the/dt original/jj procedural/jj language/nn versions/nns of/in simlib/nnp in/in that/dt it/prp is/vbz easier/jjr to/to understand/vb and/cc teach/vb simulation/nn from/in an/dt object/nn point/nn of/in view/nn ./punct
+a/dt single-server/jj queue/nn simulation/nn is/vbz demonstrated/vbn using/vbg the/dt object-oriented/jj simlib/nn ./punct

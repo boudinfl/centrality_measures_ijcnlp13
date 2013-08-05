@@ -1,0 +1,15 @@
+geometrically/rb invariant/jj watermarking/nn using/vbg feature/nn points/nns ./punct
+this/dt paper/nn presents/vbz a/dt new/jj approach/nn for/in watermarking/nn of/in digital/jj images/nns providing/vbg robustness/nn to/to geometrical/jj distortions/nns ./punct
+the/dt weaknesses/nns of/in classical/jj watermarking/nn methods/nns to/to geometrical/jj distortions/nns are/vbp outlined/vbn first/rb ./punct
+geometrical/jj distortions/nns can/md be/vb decomposed/vbn into/in two/cd classes/nns :/punct global/jj transformations/nns such/jj as/in rotations/nns and/cc translations/nns and/cc local/jj transformations/nns such/jj as/in the/dt stirmark/nnp attack/nn ./punct
+an/dt overview/nn of/in existing/vbg self-synchronizing/jj schemes/nns is/vbz then/rb presented/vbn ./punct
+theses/nns schemes/nns can/md use/vb periodical/jj properties/nns of/in the/dt mark/nn ,/punct invariant/jj properties/nns of/in transforms/vbz ,/punct template/nn insertion/nn ,/punct or/cc information/nn provided/vbn by/in the/dt original/jj image/nn to/to counter/vb geometrical/jj distortions/nns ./punct
+thereafter/rb ,/punct a/dt new/jj class/nn of/in watermarking/vbg schemes/nns using/vbg the/dt image/nn content/nn is/vbz presented/vbn ./punct
+we/prp propose/vbp an/dt embedding/nn and/cc detection/nn scheme/nn where/wrb the/dt mark/nn is/vbz bound/vbn with/in a/dt content/nn descriptor/nn defined/vbn by/in salient/jj points/nns ./punct
+three/cd different/jj types/nns of/in feature/nn points/nns are/vbp studied/vbn and/cc their/prp$ robustness/nn to/to geometrical/jj transformations/nns is/vbz evaluated/vbn to/to develop/vb an/dt enhanced/vbn detector/nn ./punct
+the/dt embedding/nn of/in the/dt signature/nn is/vbz done/vbn by/in extracting/vbg feature/nn points/nns of/in the/dt image/nn and/cc performing/vbg a/dt delaunay/nnp tessellation/nn on/in the/dt set/nn of/in points/nns ./punct
+the/dt mark/nn is/vbz embedded/vbn using/vbg a/dt classical/jj additive/jj scheme/nn inside/in each/dt triangle/nn of/in the/dt tessellation/nn ./punct
+the/dt detection/nn is/vbz done/vbn using/vbg correlation/nn properties/nns on/in the/dt different/jj triangles/nns ./punct
+the/dt performance/nn of/in the/dt presented/vbn scheme/nn is/vbz evaluated/vbn after/in jpeg/nnp compression/nn ,/punct geometrical/jj attack/nn and/cc transformations/nns ./punct
+results/nns show/vbp that/in the/dt fact/nn that/in the/dt scheme/nn is/vbz robust/jj to/to these/dt different/jj manipulations/nns ./punct
+finally/rb ,/punct in/in our/prp$ concluding/vbg remarks/nns ,/punct we/prp analyze/vbp the/dt different/jj perspectives/nns of/in such/jj content-based/jj watermarking/nn scheme/nn ./punct

@@ -1,0 +1,7 @@
+block/nnp truncation/nn image/nn bit/nn plane/nn coding/nn ./punct
+block/nnp truncation/nn coding/vbg (/punct btc/nn )/punct is/vbz a/dt successful/jj image/nn compression/nn technique/nn due/jj to/to its/prp$ simple/jj and/cc fast/jj computational/jj burden/nn ./punct
+the/dt bit/nn rate/nn is/vbz fixed/vbn to/to 2.0/cd bits/pixel/nn ,/punct whose/wp$ performance/nn is/vbz moderate/jj in/in terms/nns of/in compression/nn ratio/nn compared/vbn to/to other/jj compression/nn schemes/nns such/jj as/in discrete/jj cosine/nn transform/vb (/punct dct/nnp )/punct ,/punct vector/nn quantization/nn (/punct vq/nnp )/punct ,/punct wavelet/nn transform/vb coding/vbg (/punct wtc/nn )/punct ,/punct etc/fw ./punct
+two/cd kinds/nns of/in overheads/nns are/vbp required/vbn for/in btc/nnp coding/nn :/punct bit/nn plane/nn and/cc quantization/nn values/nns ,/punct respectively/rb ./punct
+a/dt new/jj technique/nn is/vbz presented/vbn to/to reduce/vb the/dt bit/nn plane/nn overhead/nn ./punct
+conventional/jj bit/nn plane/nn overhead/nn is/vbz 1.0/cd bits/pixel/nn ;/punct we/prp decrease/vbp it/prp to/to 0.734/cd bits/pixel/nn while/in maintaining/vbg the/dt same/jj decoded/jj quality/nn as/in absolute/jj moment/nn btc/nnp (/punct ambtc/nnp )/punct does/vbz for/in the/dt ``/`` lena/nnp ''/'' image/nn ./punct
+compared/vbn to/to other/jj published/vbn bit/nn plane/nn coding/vbg strategies/nns ,/punct the/dt proposed/vbn method/nn outperforms/vbz all/dt of/in the/dt existing/vbg methods/nns ./punct

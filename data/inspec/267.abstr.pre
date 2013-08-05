@@ -1,0 +1,6 @@
+an/dt efficient/jj parallel/nn algorithm/nn for/in the/dt calculation/nn of/in canonical/jj mp2/nn energies/nns ./punct
+we/prp present/vbp the/dt parallel/jj version/nn of/in a/dt previous/jj serial/nn algorithm/nn for/in the/dt efficient/jj calculation/nn of/in canonical/jj mp2/nn energies/nns ./punct
+it/prp is/vbz based/vbn on/in the/dt saebo-almlof/jj direct-integral/jj transformation/nn ,/punct coupled/vbn with/in an/dt efficient/jj prescreening/nn of/in the/dt ao/jj integrals/nns ./punct
+the/dt parallel/jj algorithm/nn avoids/vbz synchronization/nn delays/nns by/in spawning/vbg a/dt second/jj set/nn of/in slaves/nns during/in the/dt bin-sort/jj prior/jj to/to the/dt second/jj half-transformation/nn ./punct
+results/nns are/vbp presented/vbn for/in systems/nns with/in up/rb to/to 2000/cd basis/nn functions/nns ./punct
+mp2/nn energies/nns for/in molecules/nns with/in 400-500/cd basis/nn functions/nns can/md be/vb routinely/rb calculated/vbn to/to microhartree/jj accuracy/nn on/in a/dt small/jj number/nn of/in processors/nns (/punct 6-8/cd )/punct in/in a/dt matter/nn of/in minutes/nns with/in modern/jj pc-based/jj parallel/nn computers/nns ./punct

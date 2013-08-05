@@ -1,0 +1,9 @@
+a/dt formal/jj model/nn of/in computing/vbg with/in words/nns ./punct
+classical/jj automata/nn are/vbp formal/jj models/nns of/in computing/vbg with/in values/nns ./punct
+fuzzy/jj automata/nn are/vbp generalizations/nns of/in classical/jj automata/nn where/wrb the/dt knowledge/nn about/in the/dt system/nn 's/pos next/jj state/nn is/vbz vague/jj or/cc uncertain/jj ./punct
+it/prp is/vbz worth/jj noting/vbg that/in like/in classical/jj automata/nn ,/punct fuzzy/jj automata/nn can/md only/rb process/vb strings/nns of/in input/nn symbols/nns ./punct
+therefore/rb ,/punct such/jj fuzzy/jj automata/nn are/vbp still/rb (/punct abstract/jj )/punct devices/nns for/in computing/vbg with/in values/nns ,/punct although/in a/dt certain/jj vagueness/nn or/cc uncertainty/nn are/vbp involved/vbn in/in the/dt process/nn of/in computation/nn ./punct
+we/prp introduce/vbp a/dt new/jj kind/nn of/in fuzzy/jj automata/nn whose/wp$ inputs/nns are/vbp instead/rb strings/nns of/in fuzzy/jj subsets/nns of/in the/dt input/nn alphabet/nn ./punct
+these/dt new/jj fuzzy/jj automata/nn may/md serve/vb as/in formal/jj models/nns of/in computing/vbg with/in words/nns ./punct
+we/prp establish/vbp an/dt extension/nn principle/nn from/in computing/vbg with/in values/nns to/to computing/vbg with/in words/nns ./punct
+this/dt principle/nn indicates/vbz that/in computing/vbg with/in words/nns can/md be/vb implemented/vbn with/in computing/nn with/in values/nns with/in the/dt price/nn of/in a/dt big/jj amount/nn of/in extra/jj computations/nns ./punct

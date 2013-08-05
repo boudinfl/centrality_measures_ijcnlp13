@@ -1,0 +1,16 @@
+estimation/nn of/in error/nn in/in curvature/jj computation/nn on/in multi-scale/jj free-form/jj surfaces/nns ./punct
+a/dt novel/jj technique/nn for/in multi-scale/jj curvature/nn computation/nn on/in a/dt free-form/jj 3-d/jj surface/nn is/vbz presented/vbn ./punct
+this/dt is/vbz achieved/vbn by/in convolving/vbg local/jj parametrisations/nns of/in the/dt surface/nn with/in 2-d/nn gaussian/jj filters/nns iteratively/rb ./punct
+in/in our/prp$ technique/nn ,/punct semigeodesic/jj coordinates/vbz are/vbp constructed/vbn at/in each/dt vertex/nn of/in the/dt mesh/nn ./punct
+smoothing/vbg results/nns are/vbp shown/vbn for/in 3-d/jj surfaces/nns with/in different/jj shapes/nns indicating/vbg that/in surface/nn noise/nn is/vbz eliminated/vbn and/cc surface/nn details/nns are/vbp removed/vbn gradually/rb ./punct
+a/dt number/nn of/in evolution/nn properties/nns of/in 3-d/jj surfaces/nns are/vbp described/vbn ./punct
+next/rb ,/punct the/dt surface/nn gaussian/nnp and/cc mean/vb curvature/jj values/nns are/vbp estimated/vbn accurately/rb at/in multiple/jj scales/nns which/wdt are/vbp then/rb mapped/vbn to/to colours/vb and/cc displayed/vbd directly/rb on/in the/dt surface/nn ./punct
+the/dt performance/nn of/in the/dt technique/nn when/wrb selecting/vbg different/jj directions/nns as/in an/dt arbitrary/jj direction/nn for/in the/dt geodesic/jj at/in each/dt vertex/nn are/vbp also/rb presented/vbn ./punct
+the/dt results/nns indicate/vbp that/in the/dt error/nn observed/vbn for/in the/dt estimation/nn of/in gaussian/nnp and/cc mean/vb curvatures/nns is/vbz quite/rb low/jj after/in only/rb one/cd iteration/nn ./punct
+furthermore/rb ,/punct as/in the/dt surface/nn is/vbz smoothed/vbn iteratively/rb ,/punct the/dt error/nn is/vbz further/rbr reduced/vbn ./punct
+the/dt results/nns also/rb show/vbp that/in the/dt estimation/nn error/nn of/in gaussian/jj curvature/nn is/vbz less/jjr than/in that/dt of/in mean/jj curvature/nn ./punct
+our/prp$ experiments/nns demonstrate/vbp that/in estimation/nn of/in smoothed/vbn surface/nn curvatures/nns are/vbp very/rb accurate/jj and/cc not/rb affected/vbn by/in the/dt arbitrary/jj direction/nn of/in the/dt first/jj geodesic/jj line/nn when/wrb constructing/vbg semigeodesic/jj coordinates/vbz ./punct
+our/prp$ technique/nn is/vbz independent/jj of/in the/dt underlying/vbg triangulation/nn and/cc is/vbz also/rb more/rbr efficient/jj than/in volumetric/jj diffusion/nn techniques/nns since/in 2-d/nn rather/rb than/in 3-d/jj convolutions/nns are/vbp employed/vbn ./punct
+finally/rb ,/punct the/dt method/nn presented/vbn here/rb is/vbz a/dt generalisation/nn of/in the/dt curvature/nnp scale/nnp space/nnp method/nn for/in 2-d/jj contours/nns ./punct
+the/dt css/nnp method/nn has/vbz outperformed/vbn comparable/jj techniques/nns within/in the/dt mpeg-7/nn evaluation/nn framework/nn ./punct
+as/in a/dt result/nn ,/punct it/prp has/vbz been/vbn selected/vbn for/in inclusion/nn in/in the/dt mpeg-7/nn package/nn of/in standards/nns ./punct

@@ -1,0 +1,4 @@
+application/nn of/in multiprocessor/jj systems/nns for/in computation/nn of/in jets/nns ./punct
+the/dt article/nn describes/vbz the/dt implementation/nn of/in methods/nns for/in numerical/jj solution/nn of/in gas-dynamic/jj problems/nns on/in a/dt wide/jj class/nn of/in multiprocessor/jj systems/nns ,/punct conventionally/rb characterized/vbn as/in ``/`` cluster/nn ''/'' systems/nns ./punct
+a/dt standard/jj data-transfer/nn interface/nn -/punct the/dt so-called/jj message/nn passing/vbg interface/nn -/punct is/vbz used/vbn for/in parallelization/nn of/in application/nn algorithms/nns among/in processors/nns ./punct
+simulation/nn of/in jets/nns escaping/vbg into/in a/dt low-pressure/jj region/nn is/vbz chosen/vbn as/in a/dt computational/jj example/nn ./punct

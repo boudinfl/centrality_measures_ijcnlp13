@@ -1,0 +1,4 @@
+lossy/nnp spice/nnp models/nns produce/vbp realistic/jj averaged/vbd simulations/nns ./punct
+in/in previous/jj averaged/vbd models/nns ,/punct the/dt state-space/jj averaging/nn technique/nn or/cc switch/nn waveforms/nns analysis/nn were/vbd usually/rb applied/vbn over/in perfect/jj elements/nns ,/punct non-inclusive/jj of/in the/dt ohmic/jj losses/nns ./punct
+however/rb ,/punct if/in these/dt elements/nns play/vbp an/dt active/jj role/nn in/in the/dt dc/nn transfer/nn function/nn ,/punct they/prp affect/vbp the/dt small-signal/jj ac/nn analysis/nn by/in introducing/vbg various/jj damping/vbg effects/nns ./punct
+a/dt model/nn is/vbz introduced/vbn in/in a/dt boost/nn voltage-mode/nn application/nn ./punct

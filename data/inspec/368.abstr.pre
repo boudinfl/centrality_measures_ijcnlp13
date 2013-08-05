@@ -1,0 +1,12 @@
+from/in a/dt biological/jj to/to a/dt computational/jj model/nn for/in the/dt autonomous/jj behavior/nn of/in an/dt animat/nn ./punct
+endowing/vbg an/dt autonomous/jj system/nn like/in a/dt robot/nn with/in intelligent/jj behavior/nn is/vbz difficult/jj for/in several/jj reasons/nns ./punct
+first/rb ,/punct behavior/nn is/vbz such/jj a/dt wide/jj topic/nn that/in a/dt general/jj framework/nn paradigm/nn of/in inspiration/nn must/md be/vb chosen/vbn in/in order/nn to/to obtain/vb a/dt consistent/jj model/nn ./punct
+such/pdt a/dt framework/nn can/md be/vb ,/punct for/in example/nn ,/punct biological/jj modeling/nn or/cc an/dt artificial/jj intelligence/nn approach/nn ./punct
+second/rb ,/punct a/dt general/jj framework/nn is/vbz not/rb sufficient/jj to/to determine/vb a/dt fully/rb specified/vbn program/nn to/to be/vb implemented/vbn in/in a/dt robot/nn ./punct
+many/jj choices/nns ,/punct tuning/nn and/cc tests/nns must/md be/vb carried/vbn out/rp before/in obtaining/vbg a/dt robust/jj system/nn ./punct
+a/dt biological/jj model/nn is/vbz presented/vbn ,/punct based/vbn on/in the/dt definition/nn of/in cortex-like/jj automata/nn ,/punct representing/vbg elementary/jj functions/nns in/in the/dt perceptive/jj ,/punct motor/nn or/cc associative/jj domain/nn ./punct
+these/dt automata/nns are/vbp connected/vbn in/in a/dt network/nn whose/wp$ architecture/nn ,/punct functioning/vbg and/cc learning/vbg rules/nns are/vbp described/vbn in/in a/dt cortical/jj framework/nn ./punct
+second/rb ,/punct the/dt computational/jj model/nn derived/vbn from/in that/dt biological/jj model/nn is/vbz specified/vbn ./punct
+the/dt way/nn units/nns exchange/nn and/cc compute/vb variables/nns through/in links/nns is/vbz explained/vbn ,/punct with/in reference/nn to/to corresponding/jj biological/jj elements/nns ./punct
+it/prp is/vbz then/rb easier/jjr to/to report/vb experiments/nns allowing/vbg an/dt autonomous/jj system/nn to/to learn/vb regularities/nns of/in a/dt simple/jj environment/nn and/cc to/to exploit/vb them/prp to/to satisfy/vb some/dt internal/jj drives/nns ./punct
+even/rb if/in additional/jj biological/jj hints/nns can/md be/vb added/vbn ,/punct this/dt model/nn allow/vbp us/prp to/to better/rbr understand/vb how/wrb a/dt biological/jj model/nn can/md be/vb implemented/vbn and/cc how/wrb biological/jj properties/nns can/md emerge/vb from/in a/dt distributed/vbn set/nn of/in units/nns ./punct

@@ -1,0 +1,7 @@
+analysis/nn and/cc efficient/jj implementation/nn of/in a/dt linguistic/jj fuzzy/jj c-means/nns ./punct
+the/dt paper/nn is/vbz concerned/vbn with/in a/dt linguistic/jj fuzzy/jj c-means/nn (/punct fcm/nnp )/punct algorithm/nn with/in vectors/nns of/in fuzzy/jj numbers/nns as/in inputs/nns ./punct
+this/dt algorithm/nn is/vbz based/vbn on/in the/dt extension/nn principle/nn and/cc the/dt decomposition/nn theorem/nn ./punct
+it/prp turns/vbz out/rp that/in using/vbg the/dt extension/nn principle/nn to/to extend/vb the/dt capability/nn of/in the/dt standard/jj membership/nn update/vbp equation/nn to/to deal/vb with/in a/dt linguistic/jj vector/nn has/vbz a/dt huge/jj computational/jj complexity/nn ./punct
+in/in order/nn to/to cope/vb with/in this/dt problem/nn ,/punct an/dt efficient/jj method/nn based/vbn on/in fuzzy/jj arithmetic/nn and/cc optimization/nn has/vbz been/vbn developed/vbn and/cc analyzed/vbn ./punct
+we/prp also/rb carefully/rb examine/vb and/cc prove/vb that/in the/dt algorithm/nn behaves/vbz in/in a/dt way/nn similar/jj to/to the/dt fcm/nnp in/in the/dt degenerate/jj linguistic/jj case/nn ./punct
+synthetic/jj data/nns sets/nns and/cc the/dt iris/nn data/nn set/nn have/vbp been/vbn used/vbn to/to illustrate/vb the/dt behavior/nn of/in this/dt linguistic/jj version/nn of/in the/dt fcm/nnp ./punct

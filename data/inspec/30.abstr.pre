@@ -1,0 +1,7 @@
+improvements/nnp and/cc critique/nn on/in sugeno/nnp 's/pos and/cc yasukawa/nnp 's/pos qualitative/jj modeling/nn ./punct
+investigates/vbz sugeno/nnp 's/pos and/cc yasukawa/nnp 's/pos (/punct 1993/cd )/punct qualitative/jj fuzzy/jj modeling/nn approach/nn ./punct
+we/prp propose/vbp some/dt easily/rb implementable/jj solutions/nns for/in the/dt unclear/jj details/nns of/in the/dt original/jj paper/nn ,/punct such/jj as/in trapezoid/nn approximation/nn of/in membership/nn functions/nns ,/punct rule/nn creation/nn from/in sample/nn data/nns points/nns ,/punct and/cc selection/nn of/in important/jj variables/nns ./punct
+we/prp further/rb suggest/vbp an/dt improved/vbn parameter/nn identification/nn algorithm/nn to/to be/vb applied/vbn instead/rb of/in the/dt original/jj one/cd ./punct
+these/dt details/nns are/vbp crucial/jj concerning/vbg the/dt method/nn 's/pos performance/nn as/in it/prp is/vbz shown/vbn in/in a/dt comparative/jj analysis/nn and/cc helps/vbz to/to improve/vb the/dt accuracy/nn of/in the/dt built-up/jj model/nn ./punct
+finally/rb ,/punct we/prp propose/vbp a/dt possible/jj further/jj rule/nn base/nn reduction/nn which/wdt can/md be/vb applied/vbn successfully/rb in/in certain/jj cases/nns ./punct
+this/dt improvement/nn reduces/vbz the/dt time/nn requirement/nn of/in the/dt method/nn by/in up/rb to/to 16/cd %/punct in/in our/prp$ experiments/nns ./punct

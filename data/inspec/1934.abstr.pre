@@ -1,0 +1,3 @@
+computational/jj finite-element/nn schemes/nns for/in optimal/jj control/nn of/in an/dt elliptic/jj system/nn with/in conjugation/nn conditions/nns ./punct
+new/nnp optimal/jj control/nn problems/nns are/vbp considered/vbn for/in distributed/vbn systems/nns described/vbn by/in elliptic/jj equations/nns with/in conjugate/nn conditions/nns and/cc a/dt quadratic/jj minimized/vbn function/nn ./punct
+highly/rb accurate/jj computational/jj discretization/nn schemes/nns are/vbp constructed/vbn for/in the/dt case/nn where/wrb a/dt feasible/jj control/nn set/vbn u/sub/nn delta/nn //punct coincides/vbz with/in the/dt full/jj hilbert/nnp space/nn u/nn of/in controls/nns ./punct

@@ -1,0 +1,5 @@
+synthetic/jj simultaneity/nn -/punct natural/jj and/cc artificial/jj ./punct
+in/in control/nn loops/nns ,/punct each/dt element/nn introduces/vbz time/nn delays/nns ./punct
+if/in those/dt time/nn delays/nns are/vbp larger/jjr than/in the/dt critical/jj times/nns for/in control/nn of/in the/dt system/nn ,/punct a/dt problem/nn exists/vbz ./punct
+i/prp show/vbp a/dt simple/jj approach/nn to/to mitigating/vbg this/dt problem/nn by/in basing/vbg the/dt controller/nn 's/pos decisions/nns not/rb on/in the/dt observations/nns themselves/prp but/cc on/in our/prp$ projections/nns as/in to/to what/wp the/dt observations/nns will/md be/vb at/in the/dt time/nn our/prp$ controls/nns reach/vbp the/dt controlled/jj system/nn ./punct
+finally/rb ,/punct i/prp argue/vbp that/in synthetic/jj simultaneity/nn explains/vbz libet/nnp 's/pos (/punct 1993/cd )/punct results/vbz better/jjr than/in libet/nnp 's/pos explanation/nn ./punct

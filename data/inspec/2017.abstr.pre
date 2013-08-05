@@ -1,0 +1,10 @@
+autofocus/nn system/nn for/in microscope/nn ./punct
+a/dt technique/nn is/vbz developed/vbn for/in microscope/nn autofocusing/nn ,/punct which/wdt is/vbz called/vbn the/dt eccentric/jj light/nn beam/nn approach/nn with/in high/jj resolution/nn ,/punct wide/jj focusing/vbg range/nn ,/punct and/cc compact/jj construction/nn ./punct
+the/dt principle/nn is/vbz described/vbn ./punct
+the/dt theoretical/jj formula/nn of/in the/dt eccentric/jj light/nn beam/nn approach/nn deduced/vbn can/md be/vb applied/vbn not/rb only/rb to/to an/dt object/nn lens/nn whose/wp$ objective/jj plane/nn is/vbz just/rb at/in the/dt focal/jj plane/nn ,/punct but/cc also/rb to/to an/dt object/nn lens/nn whose/wp$ objective/jj plane/nn is/vbz not/rb at/in the/dt focal/jj plane/nn ./punct
+the/dt experimental/jj setup/nn uses/vbz a/dt semiconductor/nn laser/nn device/nn as/in the/dt light/jj source/nn ./punct
+the/dt laser/nn beam/nn that/wdt enters/vbz into/in the/dt microscope/nn is/vbz eccentric/jj with/in the/dt main/jj light/jj axis/nn ./punct
+a/dt defocused/jj signal/nn is/vbz acquired/vbn by/in a/dt symmetrical/jj silicon/nn photocell/nn for/in the/dt change/nn of/in the/dt reflected/vbn light/nn position/nn caused/vbn by/in differential/jj amplification/nn and/cc processed/vbn by/in a/dt microprocessor/nn ./punct
+then/rb the/dt electric/jj signal/nn is/vbz power-amplified/jj and/cc drives/vbz a/dt dc/nn motor/nn ,/punct which/wdt moves/vbz a/dt fine/jj working/vbg platform/nn to/to an/dt automatic/jj focus/nn of/in the/dt microscope/nn ./punct
+the/dt result/nn of/in the/dt experiments/nns shows/vbz a/dt +or-0.1-/jj mu/nn m/nn precision/nn of/in autofocusing/vbg for/in a/dt range/nn of/in +or-500-/jj mu/nn m/nn defocusing/nn ./punct
+the/dt system/nn has/vbz high/jj reliability/nn and/cc can/md meet/vb the/dt requirements/nns of/in various/jj accurate/jj micro/jj measurement/nn systems/nns ./punct

@@ -1,0 +1,7 @@
+using/vbg netcloak/nn to/to develop/vb server-side/jj web-based/jj experiments/nns without/in writing/vbg cgi/nn programs/nns ./punct
+server-side/jj experiments/nns use/vbp the/dt web/nn server/nn ,/punct rather/rb than/in the/dt participant/nn 's/pos browser/nn ,/punct to/to handle/vb tasks/nns such/jj as/in random/jj assignment/nn ,/punct eliminating/vbg inconsistencies/nns with/in java/nnp and/cc other/jj client-side/jj applications/nns ./punct
+heretofore/rb ,/punct experimenters/nns wishing/vbg to/to create/vb server-side/nn experiments/nns have/vbp had/vbn to/to write/vb programs/nns to/to create/vb common/jj gateway/nn interface/nn (/punct cgi/nn )/punct scripts/nns in/in programming/nn languages/nns such/jj as/in perl/nnp and/cc c++/nnp ./punct
+netcloak/nnp uses/vbz simple/jj ,/punct html-like/jj commands/nns to/to create/vb cgis/nns ./punct
+we/prp used/vbd netcloak/nnp to/to implement/vb an/dt experiment/nn on/in probability/nn estimation/nn ./punct
+measurements/nns of/in time/nn on/in task/nn and/cc participants/nns '/punct ip/nnp addresses/nns assisted/vbn quality/nn control/nn ./punct
+without/in prior/jj training/nn ,/punct in/in less/jjr than/in 1/cd month/nn ,/punct we/prp were/vbd able/jj to/to use/vb netcloak/nnp to/to design/vb and/cc create/vb a/dt web-based/jj experiment/nn and/cc to/to help/vb graduate/vb students/nns create/vb three/cd web-based/jj experiments/nns of/in their/prp$ own/jj ./punct

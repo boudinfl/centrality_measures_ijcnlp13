@@ -1,0 +1,9 @@
+an/dt efficient/jj retrieval/nn selection/nn algorithm/nn for/in video/nn servers/nns with/in random/jj duplicated/jj assignment/nn storage/nn technique/nn ./punct
+random/nnp duplicated/jj assignment/nn (/punct rda/nn )/punct is/vbz an/dt approach/nn in/in which/wdt video/nn data/nns is/vbz stored/vbn by/in assigning/vbg a/dt number/nn of/in copies/nns of/in each/dt data/nns block/vbp to/to different/jj ,/punct randomly/rb chosen/vbn disks/nns ./punct
+it/prp has/vbz been/vbn shown/vbn that/in this/dt approach/nn results/vbz in/in smaller/jjr response/nn times/nns and/cc lower/jjr disk/nn and/cc ram/nnp costs/nns compared/vbn to/to the/dt well-known/jj disk/nn stripping/vbg techniques/nns ./punct
+based/vbn on/in this/dt storage/nn approach/nn ,/punct one/cd has/vbz to/to determine/vb ,/punct for/in each/dt given/vbn batch/nn of/in data/nn blocks/nns ,/punct from/in which/wdt disk/nn each/dt of/in the/dt data/nn blocks/vbz is/vbz to/to be/vb retrieved/vbn ./punct
+this/dt is/vbz to/to be/vb done/vbn in/in such/jj a/dt way/nn that/in the/dt maximum/nn load/nn of/in the/dt disks/nns is/vbz minimized/vbn ./punct
+the/dt problem/nn is/vbz called/vbn the/dt retrieval/nn selection/nn problem/nn (/punct rsp/nn )/punct ./punct
+in/in this/dt paper/nn ,/punct we/prp propose/vbp a/dt new/jj efficient/jj algorithm/nn for/in rsp/nn ./punct
+this/dt algorithm/nn is/vbz based/vbn on/in the/dt breadth-first/jj search/nn approach/nn and/cc is/vbz able/jj to/to guarantee/vb optimal/jj solutions/nns for/in rsp/nn in/in o/nn (/punct n/sup/jj 2/+mn/jj )/punct ,/punct where/wrb m/nn and/cc n/nn correspond/vbp to/to the/dt number/nn of/in data/nn blocks/nns and/cc the/dt number/nn of/in disks/nns ,/punct respectively/rb ./punct
+we/prp show/vbp that/in our/prp$ proposed/vbn algorithm/nn has/vbz a/dt lower/jjr time/nn complexity/nn than/in an/dt existing/vbg algorithm/nn ,/punct called/vbd the/dt mfs/nnp algorithm/nn ./punct

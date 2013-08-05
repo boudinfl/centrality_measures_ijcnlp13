@@ -1,0 +1,6 @@
+generating/nnp code/nn at/in run/nn time/nn with/in reflection.emit/nn ./punct
+the/dt .net/nn framework/nn sdk/nn includes/vbz several/jj tools/nns that/wdt convert/vbp source/nn code/nn into/in executable/jj code-the/nn c/nn #/punct and/cc vb.net/nn compilers/nns get/vbp most/jjs of/in the/dt attention/nn ,/punct but/cc there/ex are/vbp others/nns ./punct
+the/dt regex/nnp class/nn (/punct in/in the/dt system.text.regularexpressions/nns namespace/vbp )/punct has/vbz the/dt ability/nn to/to compile/vb favorite/jj regular/jj expressions/nns into/in a/dt .net/nn assembly/nn ./punct
+in/in fact/nn ,/punct the/dt net/nnp common/nnp language/nnp runtime/nnp (/punct clr/nn )/punct contains/vbz a/dt whole/jj namespace/nn full/jj of/in classes/nns to/to help/vb us/prp build/vb assemblies/nns ,/punct define/vbp types/nns ,/punct and/cc emit/vb their/prp$ implementations/nns ,/punct all/dt at/in run/nn time/nn ./punct
+these/dt classes/nns ,/punct which/wdt comprise/vbp the/dt system.reflection.emit/nn namespace/nn ,/punct are/vbp known/vbn collectively/rb as/in reflection/nn ./punct
+emit/nnp ./punct

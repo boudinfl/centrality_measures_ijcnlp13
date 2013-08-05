@@ -1,0 +1,6 @@
+a/dt 120-mw/jj 3-d/jj rendering/nn engine/nn with/in 6-mb/jj embedded/jj dram/nn and/cc 3.2-gb/s/jj runtime/nn reconfigurable/jj bus/nn for/in pda/nnp chip/nn ./punct
+a/dt low-power/jj three-dimensional/jj (/punct 3-d/jj )/punct rendering/vbg engine/nn is/vbz implemented/vbn as/in part/nn of/in a/dt mobile/jj personal/jj digital/jj assistant/nn (/punct pda/nn )/punct chip/nn ./punct
+six-megabit/jj embedded/jj dram/nn macros/nns attached/vbn to/to 8-pixel-parallel/jj rendering/vbg logic/nn are/vbp logically/rb localized/jj with/in a/dt 3.2-gb/s/jj runtime/nn reconfigurable/jj bus/nn ,/punct reducing/vbg the/dt area/nn by/in 25/cd %/punct compared/vbn with/in conventional/jj local/jj frame-buffer/nn architectures/nns ./punct
+the/dt low/jj power/nn consumption/nn is/vbz achieved/vbn by/in polygon-dependent/jj access/nn to/to the/dt embedded/jj dram/nnp macros/nns with/in line-block/jj mapping/nn providing/vbg read-modify-write/jj data/nns transaction/nn ./punct
+the/dt 3-d/jj rendering/nn engine/nn with/in 2.22-mpolygons/s/jj drawing/vbg speed/nn was/vbd fabricated/vbn using/vbg 0.18-/cd mu/nn m/nn cmos/nns embedded/jj memory/nn logic/nn technology/nn ./punct
+its/prp$ area/nn is/vbz 24/cd mm/sup/nn 2//cd and/cc its/prp$ power/nn consumption/nn is/vbz 120/cd mw/nn ./punct

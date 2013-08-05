@@ -1,0 +1,8 @@
+strain/nn contouring/nn using/vbg gabor/nnp filters/nns :/punct principle/nn and/cc algorithm/nn ./punct
+moire/jj interferometry/nn is/vbz a/dt powerful/jj technique/nn for/in high/jj sensitivity/nn in-plane/jj deformation/nn contouring/nn ./punct
+however/rb ,/punct from/in an/dt engineering/nn viewpoint/nn ,/punct the/dt derivatives/nns of/in displacement/nn ,/punct i.e./fw ,/punct strain/nn ,/punct are/vbp the/dt desired/vbn parameter/nn ./punct
+thus/rb there/ex is/vbz a/dt need/nn to/to differentiate/vb the/dt displacement/nn field/nn ./punct
+optical/nnp and/cc digital/jj methods/nns have/vbp been/vbn proposed/vbn for/in this/dt differentiation/nn ./punct
+optical/nnp methods/nns provide/vbp contours/nns that/wdt still/rb need/vbp to/to be/vb quantified/vbn ,/punct while/in digital/jj methods/nns suffer/vbp from/in drawbacks/nns inherent/jj in/in the/dt digital/jj differentiation/nn process/nn ./punct
+we/prp describe/vbp a/dt novel/jj approach/nn of/in strain/nn segmentation/nn for/in the/dt moire/jj pattern/nn using/vbg a/dt multichannel/nn gabor/nnp filter/nn ./punct
+appropriate/jj filter/nn design/nn allows/vbz for/in user-specific/jj segmentation/nn ,/punct which/wdt is/vbz essentially/rb in/in engineering/nn design/nn and/cc analysis/nn ./punct

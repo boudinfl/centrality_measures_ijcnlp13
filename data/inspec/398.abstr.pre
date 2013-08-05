@@ -1,0 +1,8 @@
+an/dt unconditionally/rb stable/jj extended/jj (/punct use/nn )/punct finite-element/nn time-domain/jj solution/nn of/in active/jj nonlinear/jj microwave/nn circuits/nns using/vbg perfectly/rb matched/vbn layers/nns ./punct
+this/dt paper/nn proposes/vbz an/dt extension/nn of/in the/dt unconditionally/rb stable/jj finite-element/jj time-domain/jj (/punct fetd/nn )/punct method/nn for/in the/dt global/jj electromagnetic/jj analysis/nn of/in active/jj microwave/nn circuits/nns ./punct
+this/dt formulation/nn has/vbz two/cd advantages/nns ./punct
+first/rb ,/punct the/dt time-step/jj size/nn is/vbz no/rb longer/rb governed/vbn by/in the/dt spatial/jj discretization/nn of/in the/dt mesh/nn ,/punct but/cc rather/rb by/in the/dt nyquist/nnp sampling/nn criterion/nn ./punct
+second/rb ,/punct the/dt implementation/nn of/in the/dt truncation/nn by/in the/dt perfectly/rb matched/vbn layers/nns (/punct pml/nn )/punct is/vbz straightforward/jj ./punct
+an/dt anisotropic/jj pml/nn absorbing/vbg material/nn is/vbz presented/vbn for/in the/dt truncation/nn of/in fetd/nnp lattices/nns ./punct
+reflection/nn less/jjr than/in -50/cd db/nn is/vbz obtained/vbn numerically/rb over/in the/dt entire/jj propagation/nn bandwidth/nn in/in waveguide/nn and/cc microstrip/nn line/nn ./punct
+a/dt benchmark/jj test/nn on/in a/dt microwave/nn amplifier/nn indicates/vbz that/in this/dt extended/jj fetd/nn algorithm/nn is/vbz not/rb only/rb superior/jj to/to finite-difference/jj time-domain-based/jj algorithm/nn in/in mesh/nn flexibility/nn and/cc simulation/nn accuracy/nn ,/punct but/cc also/rb reduces/vbz computation/nn time/nn dramatically/rb ./punct

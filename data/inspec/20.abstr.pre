@@ -1,0 +1,8 @@
+adaptive/jj state/nn feedback/nn control/nn for/in a/dt class/nn of/in linear/jj systems/nns with/in unknown/jj bounds/nns of/in uncertainties/nns ./punct
+the/dt problem/nn of/in adaptive/jj robust/jj stabilization/nn for/in a/dt class/nn of/in linear/jj time-varying/jj systems/nns with/in disturbance/nn and/cc nonlinear/jj uncertainties/nns is/vbz considered/vbn ./punct
+the/dt bounds/nns of/in the/dt disturbance/nn and/cc uncertainties/nns are/vbp assumed/vbn to/to be/vb unknown/jj ,/punct being/vbg even/rb arbitrary/jj ./punct
+for/in such/jj uncertain/jj dynamical/jj systems/nns ,/punct the/dt adaptive/jj robust/jj state/nn feedback/nn controller/nn is/vbz obtained/vbn ./punct
+and/cc the/dt resulting/vbg closed-loop/jj systems/nns are/vbp asymptotically/rb stable/jj in/in theory/nn ./punct
+moreover/rb ,/punct an/dt adaptive/jj robust/jj state/nn feedback/nn control/nn scheme/nn is/vbz given/vbn ./punct
+the/dt scheme/nn ensures/vbz the/dt closed-loop/jj systems/nns exponentially/rb practically/rb stable/jj and/cc can/md be/vb used/vbn in/in practical/jj engineering/nn ./punct
+finally/rb ,/punct simulations/nns show/vbp that/in the/dt control/nn scheme/nn is/vbz effective/jj ./punct
